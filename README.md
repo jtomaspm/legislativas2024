@@ -1,4 +1,4 @@
-# Portuguese legislative elections 2024 Datasheet
+# Portuguese legislative elections 2024 Dataset
 
 ## Data Links
  - **[Votes CSV Preview](https://github.com/jtomaspm/legislativas2024/blob/main/data/votesPreview.csv)**
