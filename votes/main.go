@@ -20,7 +20,7 @@ func main() {
 	scanner := bufio.NewScanner(file)
 
 	//OUTPUT
-	fileOut, err := os.Create("../votes.csv")
+	fileOut, err := os.Create("../votesPreview.csv")
 	if err != nil {
 		log.Println("Error opening file:", err)
 		os.Exit(1)
