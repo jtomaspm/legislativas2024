@@ -14,4 +14,4 @@
 
 ## Component Diagram
 
-![Component Diagram]()
+![Component Diagram](https://github.com/jtomaspm/legislativas2024/blob/main/data/compDiagram.png)
