@@ -34,6 +34,8 @@ func FormatValue(v reflect.Value) string {
 		return v.String()
 	case reflect.Int:
 		return fmt.Sprintf("%d", v.Int())
+	case reflect.Float64:
+		return fmt.Sprintf("%.2f", v.Float())
 	default:
 		return fmt.Sprintf("%v", v)
 	}
