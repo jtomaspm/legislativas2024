@@ -1,5 +1,11 @@
 package model
 
+import (
+	"encoding/json"
+	"io"
+	"net/http"
+)
+
 type TerritoryResults struct {
 	CurrentResults struct {
 		AvailableMandates    int         `json:"availableMandates"`
@@ -72,4 +78,37 @@ type TerritoryResults struct {
 	TotalParishes           int         `json:"totalParishes"`
 	TotalParishesApproved   int         `json:"totalParishesApproved"`
 	WarningMessage          interface{} `json:"warningMessage"`
+}
+
+func getUrl(territoryKey string) string {
+	return "https://www.legislativas2024.mai.gov.pt/frontend/data/TerritoryResults?territoryKey=" + territoryKey + "&electionId=AR"
+}
+
+func GetTerritoryResultsById(in <-chan Location) chan TerritoryResults {
+	out := make(chan TerritoryResults)
+	go func() {
+		for n := range in {
+			url := getUrl(n.Id)
+			resp, err := http.Get(url)
+			if err != nil {
+				return
+			}
+			defer resp.Body.Close()
+
+			body, err := io.ReadAll(resp.Body)
+			if err != nil {
+				return
+			}
+
+			var data TerritoryResults
+			err = json.Unmarshal(body, &data)
+			if err != nil {
+				return
+			}
+			out <- data
+		}
+		close(out)
+	}()
+
+	return out
 }

@@ -1,61 +1,45 @@
-LOCAL-500000;Nacional;Portugal
+LOCAL-0302FA;Freguesia;Milhazes, Vilar de Figos e Faria
+LOCAL-0302FB;Freguesia;Negreiros e Chavão
+LOCAL-0302FC;Freguesia;Quintiães e Aguiar
+LOCAL-0302FD;Freguesia;Sequeade e Bastuço (São João e Santo Estevão)
+LOCAL-0302FE;Freguesia;Silveiros e Rio Covo (Santa Eulália)
+LOCAL-0302FF;Freguesia;Tamel (Santa Leocádia) e Vilar do Monte
+LOCAL-0302FG;Freguesia;Viatodos, Grimancelos, Minhotães, Monte de Fralães
+LOCAL-0302FH;Freguesia;Vila Cova e Feitos
 LOCAL-010000;Distrito;Aveiro
-LOCAL-020000;Distrito;Beja
-LOCAL-030000;Distrito;Braga
-LOCAL-040000;Distrito;Bragança
-LOCAL-050000;Distrito;Castelo Branco
-LOCAL-060000;Distrito;Coimbra
-LOCAL-070000;Distrito;Évora
-LOCAL-080000;Distrito;Faro
-LOCAL-090000;Distrito;Guarda
-LOCAL-100000;Distrito;Leiria
-LOCAL-110000;Distrito;Lisboa
-LOCAL-120000;Distrito;Portalegre
-LOCAL-130000;Distrito;Porto
-LOCAL-140000;Distrito;Santarém
-LOCAL-150000;Distrito;Setúbal
-LOCAL-160000;Distrito;Viana do Castelo
-LOCAL-170000;Distrito;Vila Real
-LOCAL-180000;Distrito;Viseu
-LOCAL-300000;Distrito;Madeira
-LOCAL-400000;Distrito;Açores
 LOCAL-010100;Concelho;Águeda
 LOCAL-010103;Freguesia;Aguada de Cima
+LOCAL-010109;Freguesia;Fermentelos
+LOCAL-010112;Freguesia;Macinhata do Vouga
+LOCAL-010119;Freguesia;Valongo do Vouga
 LOCAL-010121;Freguesia;Águeda e Borralha
 LOCAL-010122;Freguesia;Barrô e Aguada de Baixo
 LOCAL-010123;Freguesia;Belazaima do Chão, Castanheira do Vouga e Agadão
-LOCAL-010109;Freguesia;Fermentelos
-LOCAL-010112;Freguesia;Macinhata do Vouga
-LOCAL-010127;Freguesia;Préstimo e Macieira de Alcoba
 LOCAL-010124;Freguesia;Recardães e Espinhel
 LOCAL-010125;Freguesia;Travassô e Óis da Ribeira
 LOCAL-010126;Freguesia;Trofa, Segadães e Lamas do Vouga
-LOCAL-010119;Freguesia;Valongo do Vouga
+LOCAL-010127;Freguesia;Préstimo e Macieira de Alcoba
 LOCAL-010200;Concelho;Albergaria-a-Velha
-LOCAL-010209;Freguesia;Albergaria-a-Velha e Valmaior
 LOCAL-010202;Freguesia;Alquerubim
 LOCAL-010203;Freguesia;Angeja
 LOCAL-010204;Freguesia;Branca
 LOCAL-010206;Freguesia;Ribeira de Fráguas
+LOCAL-010209;Freguesia;Albergaria-a-Velha e Valmaior
 LOCAL-010210;Freguesia;São João de Loure e Frossos
 LOCAL-010300;Concelho;Anadia
-LOCAL-010316;Freguesia;Amoreira da Gândara, Paredes do Bairro e Ancas
-LOCAL-010317;Freguesia;Arcos e Mogofores
 LOCAL-010304;Freguesia;Avelãs de Caminho
 LOCAL-010305;Freguesia;Avelãs de Cima
 LOCAL-010307;Freguesia;Moita
 LOCAL-010309;Freguesia;Sangalhos
 LOCAL-010310;Freguesia;São Lourenço do Bairro
-LOCAL-010318;Freguesia;Tamengos, Aguim e Óis do Bairro
 LOCAL-010312;Freguesia;Vila Nova de Monsarros
 LOCAL-010313;Freguesia;Vilarinho do Bairro
+LOCAL-010316;Freguesia;Amoreira da Gândara, Paredes do Bairro e Ancas
+LOCAL-010317;Freguesia;Arcos e Mogofores
+LOCAL-010318;Freguesia;Tamengos, Aguim e Óis do Bairro
 LOCAL-010400;Concelho;Arouca
 LOCAL-010402;Freguesia;Alvarenga
-LOCAL-010421;Freguesia;Arouca e Burgo
-LOCAL-010422;Freguesia;Cabreiros e Albergaria da Serra
-LOCAL-010423;Freguesia;Canelas e Espiunca
 LOCAL-010407;Freguesia;Chave
-LOCAL-010424;Freguesia;Covelo de Paivó e Janarde
 LOCAL-010409;Freguesia;Escariz
 LOCAL-010411;Freguesia;Fermedo
 LOCAL-010413;Freguesia;Mansores
@@ -66,57 +50,61 @@ LOCAL-010417;Freguesia;São Miguel do Mato
 LOCAL-010418;Freguesia;Tropeço
 LOCAL-010419;Freguesia;Urrô
 LOCAL-010420;Freguesia;Várzea
+LOCAL-010421;Freguesia;Arouca e Burgo
+LOCAL-010422;Freguesia;Cabreiros e Albergaria da Serra
+LOCAL-010423;Freguesia;Canelas e Espiunca
+LOCAL-010424;Freguesia;Covelo de Paivó e Janarde
 LOCAL-010500;Concelho;Aveiro
 LOCAL-010501;Freguesia;Aradas
 LOCAL-010502;Freguesia;Cacia
-LOCAL-010515;Freguesia;Eixo e Eirol
 LOCAL-010505;Freguesia;Esgueira
-LOCAL-010517;Freguesia;Glória e Vera Cruz
 LOCAL-010508;Freguesia;Oliveirinha
-LOCAL-010516;Freguesia;Requeixo, Nossa Senhora de Fátima e Nariz
-LOCAL-010513;Freguesia;Santa Joana
 LOCAL-010510;Freguesia;São Bernardo
 LOCAL-010511;Freguesia;São Jacinto
+LOCAL-010513;Freguesia;Santa Joana
+LOCAL-010515;Freguesia;Eixo e Eirol
+LOCAL-010516;Freguesia;Requeixo, Nossa Senhora de Fátima e Nariz
+LOCAL-010517;Freguesia;Glória e Vera Cruz
 LOCAL-010600;Concelho;Castelo de Paiva
 LOCAL-010602;Freguesia;Fornos
-LOCAL-010610;Freguesia;Raiva, Pedorido e Paraíso
 LOCAL-010606;Freguesia;Real
 LOCAL-010607;Freguesia;Santa Maria de Sardoura
 LOCAL-010608;Freguesia;São Martinho de Sardoura
+LOCAL-010610;Freguesia;Raiva, Pedorido e Paraíso
 LOCAL-010611;Freguesia;Sobrado e Bairros
 LOCAL-010700;Concelho;Espinho
-LOCAL-010706;Freguesia;Anta e Guetim
 LOCAL-010702;Freguesia;Espinho
 LOCAL-010704;Freguesia;Paramos
 LOCAL-010705;Freguesia;Silvalde
+LOCAL-010706;Freguesia;Anta e Guetim
 LOCAL-010800;Concelho;Estarreja
 LOCAL-010801;Freguesia;Avanca
-LOCAL-010808;Freguesia;Beduído e Veiros
-LOCAL-010809;Freguesia;Canelas e Fermelã
 LOCAL-010805;Freguesia;Pardilhó
 LOCAL-010806;Freguesia;Salreu
+LOCAL-010808;Freguesia;Beduído e Veiros
+LOCAL-010809;Freguesia;Canelas e Fermelã
 LOCAL-010900;Concelho;Santa Maria da Feira
 LOCAL-010901;Freguesia;Argoncilhe
 LOCAL-010902;Freguesia;Arrifana
-LOCAL-010932;Freguesia;Caldas de São Jorge e Pigeiros
-LOCAL-010933;Freguesia;Canedo, Vale e Vila Maior
 LOCAL-010904;Freguesia;Escapães
 LOCAL-010907;Freguesia;Fiães
 LOCAL-010908;Freguesia;Fornos
-LOCAL-010934;Freguesia;Lobão, Gião, Louredo e Guisande
 LOCAL-010913;Freguesia;Lourosa
 LOCAL-010914;Freguesia;Milheirós de Poiares
 LOCAL-010916;Freguesia;Mozelos
 LOCAL-010917;Freguesia;Nogueira da Regedoura
+LOCAL-010918;Freguesia;São Paio de Oleiros
 LOCAL-010919;Freguesia;Paços de Brandão
 LOCAL-010921;Freguesia;Rio Meão
 LOCAL-010922;Freguesia;Romariz
 LOCAL-010924;Freguesia;Sanguedo
-LOCAL-010935;Freguesia;Santa Maria da Feira, Travanca, Sanfins e Espargo
 LOCAL-010925;Freguesia;Santa Maria de Lamas
 LOCAL-010926;Freguesia;São João de Ver
+LOCAL-010932;Freguesia;Caldas de São Jorge e Pigeiros
+LOCAL-010933;Freguesia;Canedo, Vale e Vila Maior
+LOCAL-010934;Freguesia;Lobão, Gião, Louredo e Guisande
+LOCAL-010935;Freguesia;Santa Maria da Feira, Travanca, Sanfins e Espargo
 LOCAL-010936;Freguesia;São Miguel de Souto e Mosteirô
-LOCAL-010918;Freguesia;São Paio de Oleiros
 LOCAL-011000;Concelho;Ílhavo
 LOCAL-011005;Freguesia;Gafanha da Encarnação
 LOCAL-011006;Freguesia;Gafanha da Nazaré
@@ -126,9 +114,9 @@ LOCAL-011100;Concelho;Mealhada
 LOCAL-011102;Freguesia;Barcouço
 LOCAL-011103;Freguesia;Casal Comba
 LOCAL-011104;Freguesia;Luso
-LOCAL-011109;Freguesia;Mealhada, Ventosa do Bairro e Antes
 LOCAL-011106;Freguesia;Pampilhosa
 LOCAL-011107;Freguesia;Vacariça
+LOCAL-011109;Freguesia;Mealhada, Ventosa do Bairro e Antes
 LOCAL-011200;Concelho;Murtosa
 LOCAL-011201;Freguesia;Bunheiro
 LOCAL-011202;Freguesia;Monte
@@ -140,155 +128,157 @@ LOCAL-011302;Freguesia;Cesar
 LOCAL-011303;Freguesia;Fajões
 LOCAL-011304;Freguesia;Loureiro
 LOCAL-011305;Freguesia;Macieira de Sarnes
-LOCAL-011320;Freguesia;Nogueira do Cravo e Pindelo
-LOCAL-011321;Freguesia;O. Azeméis, Riba-Ul, Ul, Macinhata Seixa, Madail
 LOCAL-011310;Freguesia;Ossela
-LOCAL-011322;Freguesia;Pinheiro da Bemposta, Travanca e Palmaz
 LOCAL-011315;Freguesia;São Martinho da Gândara
 LOCAL-011318;Freguesia;São Roque
 LOCAL-011319;Freguesia;Vila de Cucujães
+LOCAL-011320;Freguesia;Nogueira do Cravo e Pindelo
+LOCAL-011321;Freguesia;O. Azeméis, Riba-Ul, Ul, Macinhata Seixa, Madail
+LOCAL-011322;Freguesia;Pinheiro da Bemposta, Travanca e Palmaz
 LOCAL-011400;Concelho;Oliveira do Bairro
-LOCAL-011407;Freguesia;Bustos, Troviscal e Mamarrosa
 LOCAL-011403;Freguesia;Oiã
 LOCAL-011404;Freguesia;Oliveira do Bairro
 LOCAL-011405;Freguesia;Palhaça
+LOCAL-011407;Freguesia;Bustos, Troviscal e Mamarrosa
 LOCAL-011500;Concelho;Ovar
 LOCAL-011502;Freguesia;Cortegaça
 LOCAL-011503;Freguesia;Esmoriz
 LOCAL-011504;Freguesia;Maceda
-LOCAL-011509;Freguesia;Ovar, S.João, Arada e S.Vicente de Pereira Jusã
 LOCAL-011507;Freguesia;Válega
+LOCAL-011509;Freguesia;Ovar, S.João, Arada e S.Vicente de Pereira Jusã
 LOCAL-011600;Concelho;São João da Madeira
 LOCAL-011601;Freguesia;São João da Madeira
 LOCAL-011700;Concelho;Sever do Vouga
-LOCAL-011710;Freguesia;Cedrim e Paradela
 LOCAL-011702;Freguesia;Couto de Esteves
 LOCAL-011704;Freguesia;Pessegueiro do Vouga
 LOCAL-011705;Freguesia;Rocas do Vouga
 LOCAL-011706;Freguesia;Sever do Vouga
-LOCAL-011711;Freguesia;Silva Escura e Dornelas
 LOCAL-011708;Freguesia;Talhadas
+LOCAL-011710;Freguesia;Cedrim e Paradela
+LOCAL-011711;Freguesia;Silva Escura e Dornelas
 LOCAL-011800;Concelho;Vagos
 LOCAL-011801;Freguesia;Calvão
-LOCAL-011812;Freguesia;Fonte de Angeão e Covão do Lobo
 LOCAL-011804;Freguesia;Gafanha da Boa Hora
 LOCAL-011805;Freguesia;Ouca
-LOCAL-011813;Freguesia;Ponte de Vagos e Santa Catarina
-LOCAL-011810;Freguesia;Santo André de Vagos
 LOCAL-011807;Freguesia;Sosa
+LOCAL-011810;Freguesia;Santo André de Vagos
+LOCAL-011812;Freguesia;Fonte de Angeão e Covão do Lobo
+LOCAL-011813;Freguesia;Ponte de Vagos e Santa Catarina
 LOCAL-011814;Freguesia;Vagos e Santo António
 LOCAL-011900;Concelho;Vale de Cambra
 LOCAL-011901;Freguesia;Arões
+LOCAL-011902;Freguesia;São Pedro de Castelões
 LOCAL-011903;Freguesia;Cepelos
 LOCAL-011905;Freguesia;Junqueira
 LOCAL-011906;Freguesia;Macieira de Cambra
 LOCAL-011907;Freguesia;Roge
-LOCAL-011902;Freguesia;São Pedro de Castelões
 LOCAL-011910;Freguesia;Vila Chã, Codal e Vila Cova de Perrinho
+LOCAL-020000;Distrito;Beja
 LOCAL-020100;Concelho;Aljustrel
-LOCAL-020106;Freguesia;Aljustrel e Rio de Moinhos
 LOCAL-020102;Freguesia;Ervidel
 LOCAL-020103;Freguesia;Messejana
 LOCAL-020104;Freguesia;São João de Negrilhos
+LOCAL-020106;Freguesia;Aljustrel e Rio de Moinhos
 LOCAL-020200;Concelho;Almodôvar
-LOCAL-020208;Freguesia;Aldeia dos Fernandes
-LOCAL-020209;Freguesia;Almodôvar e Graça dos Padrões
 LOCAL-020203;Freguesia;Rosário
-LOCAL-020210;Freguesia;Santa Clara-a-Nova e Gomes Aires
 LOCAL-020205;Freguesia;Santa Cruz
 LOCAL-020206;Freguesia;São Barnabé
+LOCAL-020208;Freguesia;Aldeia dos Fernandes
+LOCAL-020209;Freguesia;Almodôvar e Graça dos Padrões
+LOCAL-020210;Freguesia;Santa Clara-a-Nova e Gomes Aires
 LOCAL-020300;Concelho;Alvito
 LOCAL-020301;Freguesia;Alvito
 LOCAL-020302;Freguesia;Vila Nova da Baronia
 LOCAL-020400;Concelho;Barrancos
 LOCAL-020401;Freguesia;Barrancos
 LOCAL-020500;Concelho;Beja
-LOCAL-020519;Freguesia;Albernoa e Trindade
 LOCAL-020502;Freguesia;Baleizão
-LOCAL-020520;Freguesia;Beja (Salvador e Santa Maria da Feira)
-LOCAL-020521;Freguesia;Beja (Santiago Maior e São João Baptista)
 LOCAL-020503;Freguesia;Beringel
 LOCAL-020504;Freguesia;Cabeça Gorda
 LOCAL-020506;Freguesia;Nossa Senhora das Neves
-LOCAL-020522;Freguesia;Salvada e Quintos
 LOCAL-020510;Freguesia;Santa Clara de Louredo
-LOCAL-020523;Freguesia;Santa Vitória e Mombeja
 LOCAL-020516;Freguesia;São Matias
+LOCAL-020519;Freguesia;Albernoa e Trindade
+LOCAL-020520;Freguesia;Beja (Salvador e Santa Maria da Feira)
+LOCAL-020521;Freguesia;Beja (Santiago Maior e São João Baptista)
+LOCAL-020522;Freguesia;Salvada e Quintos
+LOCAL-020523;Freguesia;Santa Vitória e Mombeja
 LOCAL-020524;Freguesia;Trigaches e São Brissos
 LOCAL-020600;Concelho;Castro Verde
-LOCAL-020606;Freguesia;Castro Verde e Casével
 LOCAL-020603;Freguesia;Entradas
 LOCAL-020604;Freguesia;Santa Bárbara de Padrões
 LOCAL-020605;Freguesia;São Marcos da Ataboeira
+LOCAL-020606;Freguesia;Castro Verde e Casével
 LOCAL-020700;Concelho;Cuba
 LOCAL-020701;Freguesia;Cuba
 LOCAL-020702;Freguesia;Faro do Alentejo
 LOCAL-020703;Freguesia;Vila Alva
 LOCAL-020704;Freguesia;Vila Ruiva
 LOCAL-020800;Concelho;Ferreira do Alentejo
-LOCAL-020807;Freguesia;Alfundão e Peroguarda
-LOCAL-020808;Freguesia;Ferreira do Alentejo e Canhestros
 LOCAL-020803;Freguesia;Figueira dos Cavaleiros
 LOCAL-020804;Freguesia;Odivelas
+LOCAL-020807;Freguesia;Alfundão e Peroguarda
+LOCAL-020808;Freguesia;Ferreira do Alentejo e Canhestros
 LOCAL-020900;Concelho;Mértola
 LOCAL-020901;Freguesia;Alcaria Ruiva
 LOCAL-020902;Freguesia;Corte do Pinto
 LOCAL-020903;Freguesia;Espírito Santo
 LOCAL-020904;Freguesia;Mértola
-LOCAL-020910;Freguesia;S.Mig. Pinheiro, S.Pedro Solis, S.Sebastião Carros
 LOCAL-020905;Freguesia;Santana de Cambas
 LOCAL-020906;Freguesia;São João dos Caldeireiros
+LOCAL-020910;Freguesia;S.Mig. Pinheiro, S.Pedro Solis, S.Sebastião Carros
 LOCAL-021000;Concelho;Moura
 LOCAL-021001;Freguesia;Amareleja
 LOCAL-021002;Freguesia;Póvoa de São Miguel
-LOCAL-021010;Freguesia;Safara e Santo Aleixo da Restauração
-LOCAL-021009;Freguesia;Santo Agostinho e São João Baptista e Santo Amador
 LOCAL-021008;Freguesia;Sobral da Adiça
+LOCAL-021009;Freguesia;Santo Agostinho e São João Baptista e Santo Amador
+LOCAL-021010;Freguesia;Safara e Santo Aleixo da Restauração
 LOCAL-021100;Concelho;Odemira
-LOCAL-021116;Freguesia;Boavista dos Pinheiros
-LOCAL-021118;Freguesia;Colos
-LOCAL-021117;Freguesia;Longueira/Almograve
-LOCAL-021115;Freguesia;Luzianes-Gare
 LOCAL-021102;Freguesia;Relíquias
 LOCAL-021103;Freguesia;Sabóia
-LOCAL-021119;Freguesia;Santa Clara-a-Velha
 LOCAL-021106;Freguesia;São Luís
 LOCAL-021107;Freguesia;São Martinho das Amoreiras
+LOCAL-021111;Freguesia;Vila Nova de Milfontes
+LOCAL-021115;Freguesia;Luzianes-Gare
+LOCAL-021116;Freguesia;Boavista dos Pinheiros
+LOCAL-021117;Freguesia;Longueira/Almograve
+LOCAL-021118;Freguesia;Colos
+LOCAL-021119;Freguesia;Santa Clara-a-Velha
 LOCAL-021120;Freguesia;São Salvador e Santa Maria
 LOCAL-021121;Freguesia;São Teotónio
 LOCAL-021122;Freguesia;Vale de Santiago
-LOCAL-021111;Freguesia;Vila Nova de Milfontes
 LOCAL-021200;Concelho;Ourique
-LOCAL-021207;Freguesia;Garvão e Santa Luzia
 LOCAL-021203;Freguesia;Ourique
-LOCAL-021208;Freguesia;Panoias e Conceição
 LOCAL-021206;Freguesia;Santana da Serra
+LOCAL-021207;Freguesia;Garvão e Santa Luzia
+LOCAL-021208;Freguesia;Panoias e Conceição
 LOCAL-021300;Concelho;Serpa
 LOCAL-021302;Freguesia;Brinches
 LOCAL-021303;Freguesia;Pias
+LOCAL-021307;Freguesia;Vila Verde de Ficalho
 LOCAL-021308;Freguesia;Serpa (Salvador e Santa Maria)
 LOCAL-021309;Freguesia;Vila Nova de São Bento e Vale de Vargo
-LOCAL-021307;Freguesia;Vila Verde de Ficalho
 LOCAL-021400;Concelho;Vidigueira
 LOCAL-021401;Freguesia;Pedrógão
 LOCAL-021402;Freguesia;Selmes
 LOCAL-021403;Freguesia;Vidigueira
 LOCAL-021404;Freguesia;Vila de Frades
+LOCAL-030000;Distrito;Braga
 LOCAL-030100;Concelho;Amares
-LOCAL-030125;Freguesia;Amares e Figueiredo
 LOCAL-030102;Freguesia;Barreiros
 LOCAL-030104;Freguesia;Bico
-LOCAL-030119;Freguesia;Bouro (Santa Maria)
-LOCAL-030120;Freguesia;Bouro (Santa Marta)
 LOCAL-030105;Freguesia;Caires
-LOCAL-030126;Freguesia;Caldelas, Sequeiros e Paranhos
 LOCAL-030107;Freguesia;Carrazedo
 LOCAL-030108;Freguesia;Dornelas
-LOCAL-030127;Freguesia;Ferreiros, Prozelo e Besteiros
 LOCAL-030111;Freguesia;Fiscal
 LOCAL-030112;Freguesia;Goães
 LOCAL-030113;Freguesia;Lago
 LOCAL-030118;Freguesia;Rendufe
+LOCAL-030119;Freguesia;Bouro (Santa Maria)
+LOCAL-030120;Freguesia;Bouro (Santa Marta)
+LOCAL-030125;Freguesia;Amares e Figueiredo
+LOCAL-030126;Freguesia;Caldelas, Sequeiros e Paranhos
+LOCAL-030127;Freguesia;Ferreiros, Prozelo e Besteiros
 LOCAL-030128;Freguesia;Torre e Portela
 LOCAL-030129;Freguesia;Vilela, Seramil e Paredes Secas
 LOCAL-030200;Concelho;Barcelos
@@ -297,41 +287,27 @@ LOCAL-030202;Freguesia;Aborim
 LOCAL-030203;Freguesia;Adães
 LOCAL-030205;Freguesia;Airó
 LOCAL-030206;Freguesia;Aldreu
-LOCAL-030290;Freguesia;Alheira e Igreja Nova
 LOCAL-030208;Freguesia;Alvelos
-LOCAL-030291;Freguesia;Alvito (São Pedro e São Martinho) e Couto
 LOCAL-030209;Freguesia;Arcozelo
 LOCAL-030210;Freguesia;Areias
-LOCAL-030292;Freguesia;Areias de Vilar e Encourados
 LOCAL-030212;Freguesia;Balugães
 LOCAL-030213;Freguesia;Barcelinhos
-LOCAL-030293;Freguesia;Barcelos, Vila Boa e Vila Frescainha
 LOCAL-030215;Freguesia;Barqueiros
 LOCAL-030216;Freguesia;Cambeses
-LOCAL-030294;Freguesia;Campo e Tamel (São Pedro Fins)
 LOCAL-030218;Freguesia;Carapeços
-LOCAL-030295;Freguesia;Carreira e Fonte Coberta
 LOCAL-030220;Freguesia;Carvalhal
 LOCAL-030221;Freguesia;Carvalhas
-LOCAL-030296;Freguesia;Chorente, Góios, Courel, Pedra Furada e Gueral
 LOCAL-030224;Freguesia;Cossourado
-LOCAL-030297;Freguesia;Creixomil e Mariz
 LOCAL-030228;Freguesia;Cristelo
-LOCAL-030298;Freguesia;Durrães e Tregosa
 LOCAL-030234;Freguesia;Fornelos
 LOCAL-030235;Freguesia;Fragoso
-LOCAL-030268;Freguesia;Galegos (Santa Maria)
-LOCAL-030272;Freguesia;Galegos (São Martinho)
-LOCAL-030299;Freguesia;Gamil e Midões
 LOCAL-030237;Freguesia;Gilmonde
 LOCAL-030242;Freguesia;Lama
 LOCAL-030243;Freguesia;Lijó
 LOCAL-030244;Freguesia;Macieira de Rates
 LOCAL-030245;Freguesia;Manhente
 LOCAL-030247;Freguesia;Martim
-LOCAL-0302FA;Freguesia;Milhazes, Vilar de Figos e Faria
 LOCAL-030252;Freguesia;Moure
-LOCAL-0302FB;Freguesia;Negreiros e Chavão
 LOCAL-030254;Freguesia;Oliveira
 LOCAL-030255;Freguesia;Palme
 LOCAL-030256;Freguesia;Panque
@@ -339,138 +315,135 @@ LOCAL-030257;Freguesia;Paradela
 LOCAL-030259;Freguesia;Pereira
 LOCAL-030260;Freguesia;Perelhal
 LOCAL-030261;Freguesia;Pousa
-LOCAL-0302FC;Freguesia;Quintiães e Aguiar
 LOCAL-030263;Freguesia;Remelhe
-LOCAL-030265;Freguesia;Rio Covo (Santa Eugénia)
 LOCAL-030264;Freguesia;Roriz
-LOCAL-0302FD;Freguesia;Sequeade e Bastuço (São João e Santo Estevão)
-LOCAL-030279;Freguesia;Silva
-LOCAL-0302FE;Freguesia;Silveiros e Rio Covo (Santa Eulália)
-LOCAL-0302FF;Freguesia;Tamel (Santa Leocádia) e Vilar do Monte
+LOCAL-030265;Freguesia;Rio Covo (Santa Eugénia)
+LOCAL-030268;Freguesia;Galegos (Santa Maria)
+LOCAL-030272;Freguesia;Galegos (São Martinho)
 LOCAL-030277;Freguesia;Tamel (São Veríssimo)
+LOCAL-030279;Freguesia;Silva
 LOCAL-030282;Freguesia;Ucha
 LOCAL-030283;Freguesia;Várzea
-LOCAL-0302FG;Freguesia;Viatodos, Grimancelos, Minhotães, Monte de Fralães
-LOCAL-0302FH;Freguesia;Vila Cova e Feitos
 LOCAL-030287;Freguesia;Vila Seca
+LOCAL-030290;Freguesia;Alheira e Igreja Nova
+LOCAL-030291;Freguesia;Alvito (São Pedro e São Martinho) e Couto
+LOCAL-030292;Freguesia;Areias de Vilar e Encourados
+LOCAL-030293;Freguesia;Barcelos, Vila Boa e Vila Frescainha
+LOCAL-030294;Freguesia;Campo e Tamel (São Pedro Fins)
+LOCAL-030295;Freguesia;Carreira e Fonte Coberta
+LOCAL-030296;Freguesia;Chorente, Góios, Courel, Pedra Furada e Gueral
+LOCAL-030297;Freguesia;Creixomil e Mariz
+LOCAL-030298;Freguesia;Durrães e Tregosa
+LOCAL-030299;Freguesia;Gamil e Midões
 LOCAL-030300;Concelho;Braga
 LOCAL-030301;Freguesia;Adaúfe
-LOCAL-030363;Freguesia;Arentim e Cunha
-LOCAL-030364;Freguesia;Braga (Maximinos, Sé e Cividade)
-LOCAL-030365;Freguesia;Braga (São José de São Lázaro e São João do Souto)
-LOCAL-030349;Freguesia;Braga (São Vicente)
-LOCAL-030351;Freguesia;Braga (São Vítor)
-LOCAL-030366;Freguesia;Cabreiros e Passos (São Julião)
-LOCAL-030367;Freguesia;Celeirós, Aveleda e Vimieiro
-LOCAL-030368;Freguesia;Crespos e Pousada
-LOCAL-030369;Freguesia;Escudeiros e Penso (Santo Estêvão e São Vicente)
 LOCAL-030312;Freguesia;Espinho
 LOCAL-030313;Freguesia;Esporões
-LOCAL-030370;Freguesia;Este (São Pedro e São Mamede)
-LOCAL-030371;Freguesia;Ferreiros e Gondizalves
 LOCAL-030315;Freguesia;Figueiredo
 LOCAL-030319;Freguesia;Gualtar
-LOCAL-030372;Freguesia;Guisande e Oliveira (São Pedro)
 LOCAL-030322;Freguesia;Lamas
-LOCAL-030373;Freguesia;Lomar e Arcos
-LOCAL-030374;Freguesia;Merelim (São Paio), Panoias e Parada de Tibães
-LOCAL-030375;Freguesia;Merelim (São Pedro) e Frossos
 LOCAL-030325;Freguesia;Mire de Tibães
-LOCAL-030376;Freguesia;Morreira e Trandeiras
-LOCAL-030377;Freguesia;Nogueira, Fraião e Lamaçães
-LOCAL-030378;Freguesia;Nogueiró e Tenões
 LOCAL-030330;Freguesia;Padim da Graça
 LOCAL-030331;Freguesia;Palmeira
 LOCAL-030334;Freguesia;Pedralva
 LOCAL-030336;Freguesia;Priscos
-LOCAL-030379;Freguesia;Real, Dume e Semelhe
 LOCAL-030338;Freguesia;Ruilhe
-LOCAL-030380;Freguesia;Santa Lucrécia de Algeriz e Navarra
+LOCAL-030349;Freguesia;Braga (São Vicente)
+LOCAL-030351;Freguesia;Braga (São Vítor)
 LOCAL-030354;Freguesia;Sequeira
 LOCAL-030355;Freguesia;Sobreposta
 LOCAL-030356;Freguesia;Tadim
 LOCAL-030357;Freguesia;Tebosa
+LOCAL-030363;Freguesia;Arentim e Cunha
+LOCAL-030364;Freguesia;Braga (Maximinos, Sé e Cividade)
+LOCAL-030365;Freguesia;Braga (São José de São Lázaro e São João do Souto)
+LOCAL-030366;Freguesia;Cabreiros e Passos (São Julião)
+LOCAL-030367;Freguesia;Celeirós, Aveleda e Vimieiro
+LOCAL-030368;Freguesia;Crespos e Pousada
+LOCAL-030369;Freguesia;Escudeiros e Penso (Santo Estêvão e São Vicente)
+LOCAL-030370;Freguesia;Este (São Pedro e São Mamede)
+LOCAL-030371;Freguesia;Ferreiros e Gondizalves
+LOCAL-030372;Freguesia;Guisande e Oliveira (São Pedro)
+LOCAL-030373;Freguesia;Lomar e Arcos
+LOCAL-030374;Freguesia;Merelim (São Paio), Panoias e Parada de Tibães
+LOCAL-030375;Freguesia;Merelim (São Pedro) e Frossos
+LOCAL-030376;Freguesia;Morreira e Trandeiras
+LOCAL-030377;Freguesia;Nogueira, Fraião e Lamaçães
+LOCAL-030378;Freguesia;Nogueiró e Tenões
+LOCAL-030379;Freguesia;Real, Dume e Semelhe
+LOCAL-030380;Freguesia;Santa Lucrécia de Algeriz e Navarra
 LOCAL-030381;Freguesia;Vilaça e Fradelos
 LOCAL-030400;Concelho;Cabeceiras de Basto
 LOCAL-030401;Freguesia;Abadim
-LOCAL-030418;Freguesia;Alvite e Passos
-LOCAL-030419;Freguesia;Arco de Baúlhe e Vila Nune
 LOCAL-030404;Freguesia;Basto
 LOCAL-030405;Freguesia;Bucos
 LOCAL-030406;Freguesia;Cabeceiras de Basto
 LOCAL-030407;Freguesia;Cavez
 LOCAL-030408;Freguesia;Faia
-LOCAL-030420;Freguesia;Gondiães e Vilar de Cunhas
 LOCAL-030413;Freguesia;Pedraça
-LOCAL-030421;Freguesia;Refojos de Basto, Outeiro e Painzela
 LOCAL-030415;Freguesia;Rio Douro
+LOCAL-030418;Freguesia;Alvite e Passos
+LOCAL-030419;Freguesia;Arco de Baúlhe e Vila Nune
+LOCAL-030420;Freguesia;Gondiães e Vilar de Cunhas
+LOCAL-030421;Freguesia;Refojos de Basto, Outeiro e Painzela
 LOCAL-030500;Concelho;Celorico de Basto
 LOCAL-030501;Freguesia;Agilde
 LOCAL-030502;Freguesia;Arnóia
-LOCAL-030520;Freguesia;Basto (São Clemente)
 LOCAL-030503;Freguesia;Borba de Montanha
-LOCAL-030523;Freguesia;Britelo, Gémeos e Ourilhe
-LOCAL-030524;Freguesia;Caçarilhe e Infesta
-LOCAL-030525;Freguesia;Canedo de Basto e Corgo
-LOCAL-030526;Freguesia;Carvalho e Basto (Santa Tecla)
 LOCAL-030508;Freguesia;Codeçoso
 LOCAL-030510;Freguesia;Fervença
 LOCAL-030515;Freguesia;Moreira do Castelo
 LOCAL-030517;Freguesia;Rego
 LOCAL-030518;Freguesia;Ribas
+LOCAL-030520;Freguesia;Basto (São Clemente)
 LOCAL-030521;Freguesia;Vale de Bouro
+LOCAL-030523;Freguesia;Britelo, Gémeos e Ourilhe
+LOCAL-030524;Freguesia;Caçarilhe e Infesta
+LOCAL-030525;Freguesia;Canedo de Basto e Corgo
+LOCAL-030526;Freguesia;Carvalho e Basto (Santa Tecla)
 LOCAL-030527;Freguesia;Veade, Gagos e Molares
 LOCAL-030600;Concelho;Esposende
 LOCAL-030601;Freguesia;Antas
+LOCAL-030608;Freguesia;Forjães
+LOCAL-030610;Freguesia;Gemeses
+LOCAL-030615;Freguesia;Vila Chã
 LOCAL-030616;Freguesia;Apúlia e Fão
 LOCAL-030617;Freguesia;Belinho e Mar
 LOCAL-030618;Freguesia;Esposende, Marinhas e Gandra
 LOCAL-030619;Freguesia;Fonte Boa e Rio Tinto
-LOCAL-030608;Freguesia;Forjães
-LOCAL-030610;Freguesia;Gemeses
 LOCAL-030620;Freguesia;Palmeira de Faro e Curvos
-LOCAL-030615;Freguesia;Vila Chã
 LOCAL-030700;Concelho;Fafe
-LOCAL-030737;Freguesia;Aboim, Felgueiras, Gontim e Pedraído
-LOCAL-030738;Freguesia;Agrela e Serafão
-LOCAL-030739;Freguesia;Antime e Silvares (São Clemente)
-LOCAL-030740;Freguesia;Ardegão, Arnozela e Seidões
 LOCAL-030705;Freguesia;Armil
-LOCAL-030726;Freguesia;Arões (Santa Cristina)
-LOCAL-030730;Freguesia;Arões (São Romão)
-LOCAL-030741;Freguesia;Cepães e Fareja
 LOCAL-030708;Freguesia;Estorãos
 LOCAL-030709;Freguesia;Fafe
 LOCAL-030712;Freguesia;Fornelos
-LOCAL-030742;Freguesia;Freitas e Vila Cova
 LOCAL-030714;Freguesia;Golães
 LOCAL-030716;Freguesia;Medelo
-LOCAL-030743;Freguesia;Monte e Queimadela
-LOCAL-030744;Freguesia;Moreira do Rei e Várzea Cova
 LOCAL-030719;Freguesia;Paços
 LOCAL-030722;Freguesia;Quinchães
 LOCAL-030723;Freguesia;Regadas
 LOCAL-030724;Freguesia;Revelhe
 LOCAL-030725;Freguesia;Ribeiros
+LOCAL-030726;Freguesia;Arões (Santa Cristina)
 LOCAL-030728;Freguesia;São Gens
 LOCAL-030729;Freguesia;Silvares (São Martinho)
+LOCAL-030730;Freguesia;Arões (São Romão)
 LOCAL-030733;Freguesia;Travassós
 LOCAL-030736;Freguesia;Vinhós
+LOCAL-030737;Freguesia;Aboim, Felgueiras, Gontim e Pedraído
+LOCAL-030738;Freguesia;Agrela e Serafão
+LOCAL-030739;Freguesia;Antime e Silvares (São Clemente)
+LOCAL-030740;Freguesia;Ardegão, Arnozela e Seidões
+LOCAL-030741;Freguesia;Cepães e Fareja
+LOCAL-030742;Freguesia;Freitas e Vila Cova
+LOCAL-030743;Freguesia;Monte e Queimadela
+LOCAL-030744;Freguesia;Moreira do Rei e Várzea Cova
 LOCAL-030800;Concelho;Guimarães
-LOCAL-030875;Freguesia;Abação e Gémeos
-LOCAL-030876;Freguesia;Airão Santa Maria, Airão São João e Vermil
 LOCAL-030801;Freguesia;Aldão
-LOCAL-030877;Freguesia;Arosa e Castelões
-LOCAL-030878;Freguesia;Atães e Rendufe
 LOCAL-030804;Freguesia;Azurém
 LOCAL-030806;Freguesia;Barco
-LOCAL-030879;Freguesia;Briteiros Santo Estêvão e Donim
-LOCAL-030880;Freguesia;Briteiros São Salvador e Briteiros Santa Leocádia
 LOCAL-030807;Freguesia;Brito
 LOCAL-030808;Freguesia;Caldelas
-LOCAL-030857;Freguesia;Candoso (São Martinho)
-LOCAL-030881;Freguesia;Candoso São Tiago e Mascotelos
-LOCAL-030882;Freguesia;Conde e Gandarela
 LOCAL-030812;Freguesia;Costa
 LOCAL-030813;Freguesia;Creixomil
 LOCAL-030815;Freguesia;Fermentões
@@ -478,41 +451,45 @@ LOCAL-030820;Freguesia;Gonça
 LOCAL-030821;Freguesia;Gondar
 LOCAL-030823;Freguesia;Guardizela
 LOCAL-030824;Freguesia;Infantas
-LOCAL-030883;Freguesia;Leitões, Oleiros e Figueiredo
 LOCAL-030827;Freguesia;Longos
 LOCAL-030828;Freguesia;Lordelo
 LOCAL-030830;Freguesia;Mesão Frio
 LOCAL-030831;Freguesia;Moreira de Cónegos
 LOCAL-030832;Freguesia;Nespereira
-LOCAL-030884;Freguesia;Oliveira, São Paio e São Sebastião
 LOCAL-030835;Freguesia;Pencelo
 LOCAL-030836;Freguesia;Pinheiro
 LOCAL-030837;Freguesia;Polvoreira
 LOCAL-030838;Freguesia;Ponte
-LOCAL-030842;Freguesia;Prazins (Santa Eufémia)
-LOCAL-030885;Freguesia;Prazins Santo Tirso e Corvite
 LOCAL-030840;Freguesia;Ronfe
-LOCAL-030858;Freguesia;Sande (São Martinho)
-LOCAL-030886;Freguesia;Sande São Lourenço e Balazar
-LOCAL-030887;Freguesia;Sande Vila Nova e Sande São Clemente
-LOCAL-030865;Freguesia;São Torcato
+LOCAL-030842;Freguesia;Prazins (Santa Eufémia)
 LOCAL-030850;Freguesia;Selho (São Cristóvão)
 LOCAL-030854;Freguesia;Selho (São Jorge)
-LOCAL-030888;Freguesia;Selho São Lourenço e Gominhães
+LOCAL-030857;Freguesia;Candoso (São Martinho)
+LOCAL-030858;Freguesia;Sande (São Martinho)
+LOCAL-030865;Freguesia;São Torcato
 LOCAL-030866;Freguesia;Serzedelo
-LOCAL-030889;Freguesia;Serzedo e Calvos
 LOCAL-030868;Freguesia;Silvares
+LOCAL-030871;Freguesia;Urgezes
+LOCAL-030875;Freguesia;Abação e Gémeos
+LOCAL-030876;Freguesia;Airão Santa Maria, Airão São João e Vermil
+LOCAL-030877;Freguesia;Arosa e Castelões
+LOCAL-030878;Freguesia;Atães e Rendufe
+LOCAL-030879;Freguesia;Briteiros Santo Estêvão e Donim
+LOCAL-030880;Freguesia;Briteiros São Salvador e Briteiros Santa Leocádia
+LOCAL-030881;Freguesia;Candoso São Tiago e Mascotelos
+LOCAL-030882;Freguesia;Conde e Gandarela
+LOCAL-030883;Freguesia;Leitões, Oleiros e Figueiredo
+LOCAL-030884;Freguesia;Oliveira, São Paio e São Sebastião
+LOCAL-030885;Freguesia;Prazins Santo Tirso e Corvite
+LOCAL-030886;Freguesia;Sande São Lourenço e Balazar
+LOCAL-030887;Freguesia;Sande Vila Nova e Sande São Clemente
+LOCAL-030888;Freguesia;Selho São Lourenço e Gominhães
+LOCAL-030889;Freguesia;Serzedo e Calvos
 LOCAL-030890;Freguesia;Souto Santa Maria, Souto São Salvador e Gondomar
 LOCAL-030891;Freguesia;Tabuadelo e São Faustino
-LOCAL-030871;Freguesia;Urgezes
 LOCAL-030900;Concelho;Póvoa de Lanhoso
-LOCAL-030930;Freguesia;Águas Santas e Moure
-LOCAL-030931;Freguesia;Calvos e Frades
-LOCAL-030932;Freguesia;Campos e Louredo
 LOCAL-030906;Freguesia;Covelas
-LOCAL-030933;Freguesia;Esperança e Brunhais
 LOCAL-030908;Freguesia;Ferreiros
-LOCAL-030934;Freguesia;Fonte Arcada e Oliveira
 LOCAL-030912;Freguesia;Galegos
 LOCAL-030913;Freguesia;Garfe
 LOCAL-030914;Freguesia;Geraz do Minho
@@ -526,15 +503,17 @@ LOCAL-030924;Freguesia;Serzedelo
 LOCAL-030925;Freguesia;Sobradelo da Goma
 LOCAL-030926;Freguesia;Taíde
 LOCAL-030927;Freguesia;Travassos
-LOCAL-030935;Freguesia;Verim, Friande e Ajude
 LOCAL-030929;Freguesia;Vilela
+LOCAL-030930;Freguesia;Águas Santas e Moure
+LOCAL-030931;Freguesia;Calvos e Frades
+LOCAL-030932;Freguesia;Campos e Louredo
+LOCAL-030933;Freguesia;Esperança e Brunhais
+LOCAL-030934;Freguesia;Fonte Arcada e Oliveira
+LOCAL-030935;Freguesia;Verim, Friande e Ajude
 LOCAL-031000;Concelho;Terras de Bouro
 LOCAL-031001;Freguesia;Balança
 LOCAL-031003;Freguesia;Campo do Gerês
 LOCAL-031004;Freguesia;Carvalheira
-LOCAL-031018;Freguesia;Chamoim e Vilar
-LOCAL-031019;Freguesia;Chorense e Monte
-LOCAL-031020;Freguesia;Cibões e Brufe
 LOCAL-031008;Freguesia;Covide
 LOCAL-031009;Freguesia;Gondoriz
 LOCAL-031010;Freguesia;Moimenta
@@ -543,10 +522,10 @@ LOCAL-031013;Freguesia;Rio Caldo
 LOCAL-031014;Freguesia;Souto
 LOCAL-031015;Freguesia;Valdosende
 LOCAL-031017;Freguesia;Vilar da Veiga
+LOCAL-031018;Freguesia;Chamoim e Vilar
+LOCAL-031019;Freguesia;Chorense e Monte
+LOCAL-031020;Freguesia;Cibões e Brufe
 LOCAL-031100;Concelho;Vieira do Minho
-LOCAL-031122;Freguesia;Anissó e Soutelo
-LOCAL-031123;Freguesia;Anjos e Vilar do Chão
-LOCAL-031124;Freguesia;Caniçada e Soengas
 LOCAL-031105;Freguesia;Cantelães
 LOCAL-031107;Freguesia;Eira Vedra
 LOCAL-031108;Freguesia;Guilhofrei
@@ -555,106 +534,108 @@ LOCAL-031110;Freguesia;Mosteiro
 LOCAL-031111;Freguesia;Parada de Bouro
 LOCAL-031112;Freguesia;Pinheiro
 LOCAL-031113;Freguesia;Rossas
-LOCAL-031125;Freguesia;Ruivães e Campos
 LOCAL-031115;Freguesia;Salamonde
 LOCAL-031118;Freguesia;Tabuaças
-LOCAL-031126;Freguesia;Ventosa e Cova
 LOCAL-031120;Freguesia;Vieira do Minho
+LOCAL-031122;Freguesia;Anissó e Soutelo
+LOCAL-031123;Freguesia;Anjos e Vilar do Chão
+LOCAL-031124;Freguesia;Caniçada e Soengas
+LOCAL-031125;Freguesia;Ruivães e Campos
+LOCAL-031126;Freguesia;Ventosa e Cova
 LOCAL-031200;Concelho;Vila Nova de Famalicão
-LOCAL-031250;Freguesia;Antas e Abade de Vermoim
-LOCAL-031251;Freguesia;Arnoso (Santa Maria e Santa Eulália) e Sezures
-LOCAL-031252;Freguesia;Avidos e Lagoa
 LOCAL-031204;Freguesia;Bairro
 LOCAL-031206;Freguesia;Brufe
-LOCAL-031253;Freguesia;Carreira e Bente
 LOCAL-031210;Freguesia;Castelões
 LOCAL-031212;Freguesia;Cruz
 LOCAL-031213;Freguesia;Delães
-LOCAL-031254;Freguesia;Esmeriz e Cabeçudos
 LOCAL-031215;Freguesia;Fradelos
 LOCAL-031216;Freguesia;Gavião
-LOCAL-031255;Freguesia;Gondifelos, Cavalões e Outiz
 LOCAL-031219;Freguesia;Joane
 LOCAL-031221;Freguesia;Landim
-LOCAL-031256;Freguesia;Lemenhe, Mouquim e Jesufrei
 LOCAL-031223;Freguesia;Louro
 LOCAL-031224;Freguesia;Lousado
 LOCAL-031225;Freguesia;Mogege
 LOCAL-031227;Freguesia;Nine
-LOCAL-031239;Freguesia;Oliveira (Santa Maria)
-LOCAL-031242;Freguesia;Oliveira (São Mateus)
 LOCAL-031230;Freguesia;Pedome
 LOCAL-031232;Freguesia;Pousada de Saramagos
 LOCAL-031233;Freguesia;Requião
 LOCAL-031234;Freguesia;Riba de Ave
 LOCAL-031235;Freguesia;Ribeirão
+LOCAL-031239;Freguesia;Oliveira (Santa Maria)
+LOCAL-031241;Freguesia;Vale (São Martinho)
+LOCAL-031242;Freguesia;Oliveira (São Mateus)
+LOCAL-031247;Freguesia;Vermoim
+LOCAL-031249;Freguesia;Vilarinho das Cambas
+LOCAL-031250;Freguesia;Antas e Abade de Vermoim
+LOCAL-031251;Freguesia;Arnoso (Santa Maria e Santa Eulália) e Sezures
+LOCAL-031252;Freguesia;Avidos e Lagoa
+LOCAL-031253;Freguesia;Carreira e Bente
+LOCAL-031254;Freguesia;Esmeriz e Cabeçudos
+LOCAL-031255;Freguesia;Gondifelos, Cavalões e Outiz
+LOCAL-031256;Freguesia;Lemenhe, Mouquim e Jesufrei
 LOCAL-031257;Freguesia;Ruivães e Novais
 LOCAL-031258;Freguesia;Seide
 LOCAL-031259;Freguesia;Vale (São Cosme), Telhado e Portela
-LOCAL-031241;Freguesia;Vale (São Martinho)
-LOCAL-031247;Freguesia;Vermoim
 LOCAL-031260;Freguesia;Vila Nova de Famalicão e Calendário
-LOCAL-031249;Freguesia;Vilarinho das Cambas
 LOCAL-031300;Concelho;Vila Verde
-LOCAL-031359;Freguesia;Aboim da Nóbrega e Gondomar
 LOCAL-031304;Freguesia;Atiães
 LOCAL-031308;Freguesia;Cabanelas
-LOCAL-031361;Freguesia;Carreiras (São Miguel) e Carreiras (Santiago)
 LOCAL-031309;Freguesia;Cervães
 LOCAL-031311;Freguesia;Coucieiro
 LOCAL-031313;Freguesia;Dossãos
-LOCAL-031362;Freguesia;Escariz (São Mamede) e Escariz (São Martinho)
-LOCAL-031363;Freguesia;Esqueiros, Nevogilde e Travassós
 LOCAL-031316;Freguesia;Freiriz
 LOCAL-031317;Freguesia;Gême
 LOCAL-031323;Freguesia;Lage
 LOCAL-031324;Freguesia;Lanhas
 LOCAL-031325;Freguesia;Loureira
-LOCAL-031364;Freguesia;Marrancos e Arcozelo
 LOCAL-031328;Freguesia;Moure
 LOCAL-031330;Freguesia;Oleiros
-LOCAL-031365;Freguesia;Oriz (Santa Marinha) e Oriz (São Miguel)
 LOCAL-031331;Freguesia;Parada de Gatim
 LOCAL-031335;Freguesia;Pico
-LOCAL-031366;Freguesia;Pico de Regalados, Gondiães e Mós
 LOCAL-031337;Freguesia;Ponte
-LOCAL-031350;Freguesia;Prado (São Miguel)
-LOCAL-031360;Freguesia;Ribeira do Neiva
 LOCAL-031340;Freguesia;Sabariz
-LOCAL-031367;Freguesia;Sande, Vilarinho, Barros e Gomide
+LOCAL-031342;Freguesia;Vila de Prado
+LOCAL-031350;Freguesia;Prado (São Miguel)
 LOCAL-031352;Freguesia;Soutelo
 LOCAL-031354;Freguesia;Turiz
-LOCAL-031369;Freguesia;Vade
-LOCAL-031368;Freguesia;Valbom (São Pedro), Passô e Valbom (São Martinho)
 LOCAL-031355;Freguesia;Valdreu
-LOCAL-031342;Freguesia;Vila de Prado
+LOCAL-031359;Freguesia;Aboim da Nóbrega e Gondomar
+LOCAL-031360;Freguesia;Ribeira do Neiva
+LOCAL-031361;Freguesia;Carreiras (São Miguel) e Carreiras (Santiago)
+LOCAL-031362;Freguesia;Escariz (São Mamede) e Escariz (São Martinho)
+LOCAL-031363;Freguesia;Esqueiros, Nevogilde e Travassós
+LOCAL-031364;Freguesia;Marrancos e Arcozelo
+LOCAL-031365;Freguesia;Oriz (Santa Marinha) e Oriz (São Miguel)
+LOCAL-031366;Freguesia;Pico de Regalados, Gondiães e Mós
+LOCAL-031367;Freguesia;Sande, Vilarinho, Barros e Gomide
+LOCAL-031368;Freguesia;Valbom (São Pedro), Passô e Valbom (São Martinho)
+LOCAL-031369;Freguesia;Vade
 LOCAL-031370;Freguesia;Vila Verde e Barbudo
 LOCAL-031400;Concelho;Vizela
-LOCAL-031408;Freguesia;Caldas de Vizela (São Miguel e São João)
-LOCAL-031404;Freguesia;Infias
 LOCAL-031401;Freguesia;Santa Eulália
-LOCAL-031409;Freguesia;Tagilde e Vizela (São Paio)
+LOCAL-031404;Freguesia;Infias
 LOCAL-031406;Freguesia;Vizela (Santo Adrião)
+LOCAL-031408;Freguesia;Caldas de Vizela (São Miguel e São João)
+LOCAL-031409;Freguesia;Tagilde e Vizela (São Paio)
+LOCAL-040000;Distrito;Bragança
 LOCAL-040100;Concelho;Alfândega da Fé
-LOCAL-040121;Freguesia;Agrobom, Saldonha e Vale Pereiro
 LOCAL-040102;Freguesia;Alfândega da Fé
 LOCAL-040103;Freguesia;Cerejais
+LOCAL-040111;Freguesia;Sambade
+LOCAL-040118;Freguesia;Vilar Chão
+LOCAL-040119;Freguesia;Vilarelhos
+LOCAL-040120;Freguesia;Vilares de Vilariça
+LOCAL-040121;Freguesia;Agrobom, Saldonha e Vale Pereiro
 LOCAL-040122;Freguesia;Eucisia, Gouveia e Valverde
 LOCAL-040123;Freguesia;Ferradosa e Sendim da Serra
 LOCAL-040124;Freguesia;Gebelim e Soeima
 LOCAL-040125;Freguesia;Parada e Sendim da Ribeira
 LOCAL-040126;Freguesia;Pombal e Vales
-LOCAL-040111;Freguesia;Sambade
-LOCAL-040118;Freguesia;Vilar Chão
-LOCAL-040119;Freguesia;Vilarelhos
-LOCAL-040120;Freguesia;Vilares de Vilariça
 LOCAL-040200;Concelho;Bragança
 LOCAL-040201;Freguesia;Alfaião
-LOCAL-040250;Freguesia;Aveleda e Rio de Onor
 LOCAL-040203;Freguesia;Babe
 LOCAL-040204;Freguesia;Baçal
 LOCAL-040206;Freguesia;Carragosa
-LOCAL-040251;Freguesia;Castrelos e Carrazedo
 LOCAL-040209;Freguesia;Castro de Avelãs
 LOCAL-040210;Freguesia;Coelhoso
 LOCAL-040212;Freguesia;Donai
@@ -664,37 +645,35 @@ LOCAL-040216;Freguesia;Gimonde
 LOCAL-040217;Freguesia;Gondesende
 LOCAL-040218;Freguesia;Gostei
 LOCAL-040219;Freguesia;Grijó de Parada
-LOCAL-040252;Freguesia;Izeda, Calvelhe e Paradinha Nova
 LOCAL-040221;Freguesia;Macedo do Mato
 LOCAL-040224;Freguesia;Mós
 LOCAL-040225;Freguesia;Nogueira
 LOCAL-040226;Freguesia;Outeiro
-LOCAL-040253;Freguesia;Parada e Faílde
 LOCAL-040229;Freguesia;Parâmio
 LOCAL-040230;Freguesia;Pinela
 LOCAL-040232;Freguesia;Quintanilha
 LOCAL-040233;Freguesia;Quintela de Lampaças
 LOCAL-040234;Freguesia;Rabal
-LOCAL-040254;Freguesia;Rebordainhos e Pombares
 LOCAL-040236;Freguesia;Rebordãos
-LOCAL-040255;Freguesia;Rio Frio e Milhão
 LOCAL-040239;Freguesia;Salsas
 LOCAL-040240;Freguesia;Samil
 LOCAL-040241;Freguesia;Santa Comba de Rossas
-LOCAL-040256;Freguesia;São Julião de Palácios e Deilão
 LOCAL-040244;Freguesia;São Pedro de Sarracenos
-LOCAL-040257;Freguesia;Sé, Santa Maria e Meixedo
 LOCAL-040246;Freguesia;Sendas
 LOCAL-040247;Freguesia;Serapicos
 LOCAL-040248;Freguesia;Sortes
 LOCAL-040249;Freguesia;Zoio
+LOCAL-040250;Freguesia;Aveleda e Rio de Onor
+LOCAL-040251;Freguesia;Castrelos e Carrazedo
+LOCAL-040252;Freguesia;Izeda, Calvelhe e Paradinha Nova
+LOCAL-040253;Freguesia;Parada e Faílde
+LOCAL-040254;Freguesia;Rebordainhos e Pombares
+LOCAL-040255;Freguesia;Rio Frio e Milhão
+LOCAL-040256;Freguesia;São Julião de Palácios e Deilão
+LOCAL-040257;Freguesia;Sé, Santa Maria e Meixedo
 LOCAL-040300;Concelho;Carrazeda de Ansiães
-LOCAL-040320;Freguesia;Amedo e Zedes
-LOCAL-040321;Freguesia;Belver e Mogo de Malta
 LOCAL-040304;Freguesia;Carrazeda de Ansiães
-LOCAL-040322;Freguesia;Castanheiro do Norte e Ribalonga
 LOCAL-040306;Freguesia;Fonte Longa
-LOCAL-040323;Freguesia;Lavandeira, Beira Grande e Selores
 LOCAL-040308;Freguesia;Linhares
 LOCAL-040309;Freguesia;Marzagão
 LOCAL-040311;Freguesia;Parambos
@@ -703,22 +682,22 @@ LOCAL-040313;Freguesia;Pinhal do Norte
 LOCAL-040314;Freguesia;Pombal
 LOCAL-040316;Freguesia;Seixo de Ansiães
 LOCAL-040318;Freguesia;Vilarinho da Castanheira
+LOCAL-040320;Freguesia;Amedo e Zedes
+LOCAL-040321;Freguesia;Belver e Mogo de Malta
+LOCAL-040322;Freguesia;Castanheiro do Norte e Ribalonga
+LOCAL-040323;Freguesia;Lavandeira, Beira Grande e Selores
 LOCAL-040400;Concelho;Freixo de Espada à Cinta
-LOCAL-040407;Freguesia;Freixo de Espada à Cinta e Mazouco
-LOCAL-040408;Freguesia;Lagoaça e Fornos
 LOCAL-040404;Freguesia;Ligares
 LOCAL-040406;Freguesia;Poiares
+LOCAL-040407;Freguesia;Freixo de Espada à Cinta e Mazouco
+LOCAL-040408;Freguesia;Lagoaça e Fornos
 LOCAL-040500;Concelho;Macedo de Cavaleiros
-LOCAL-040539;Freguesia;Ala e Vilarinho do Monte
 LOCAL-040502;Freguesia;Amendoeira
 LOCAL-040503;Freguesia;Arcas
-LOCAL-040540;Freguesia;Bornes e Burga
 LOCAL-040507;Freguesia;Carrapatas
-LOCAL-040541;Freguesia;Castelãos e Vilar do Monte
 LOCAL-040509;Freguesia;Chacim
 LOCAL-040510;Freguesia;Cortiços
 LOCAL-040511;Freguesia;Corujas
-LOCAL-040542;Freguesia;Espadanedo, Edroso, Murçós e Soutelo Mourisco
 LOCAL-040514;Freguesia;Ferreira
 LOCAL-040515;Freguesia;Grijó
 LOCAL-040516;Freguesia;Lagoa
@@ -729,38 +708,39 @@ LOCAL-040520;Freguesia;Macedo de Cavaleiros
 LOCAL-040521;Freguesia;Morais
 LOCAL-040523;Freguesia;Olmos
 LOCAL-040524;Freguesia;Peredo
-LOCAL-040543;Freguesia;Podence e Santa Combinha
 LOCAL-040526;Freguesia;Salselas
 LOCAL-040528;Freguesia;Sezulfe
 LOCAL-040530;Freguesia;Talhas
-LOCAL-040544;Freguesia;Talhinhas e Bagueixe
 LOCAL-040532;Freguesia;Vale Benfeito
 LOCAL-040533;Freguesia;Vale da Porca
 LOCAL-040534;Freguesia;Vale de Prados
 LOCAL-040536;Freguesia;Vilarinho de Agrochão
 LOCAL-040538;Freguesia;Vinhas
+LOCAL-040539;Freguesia;Ala e Vilarinho do Monte
+LOCAL-040540;Freguesia;Bornes e Burga
+LOCAL-040541;Freguesia;Castelãos e Vilar do Monte
+LOCAL-040542;Freguesia;Espadanedo, Edroso, Murçós e Soutelo Mourisco
+LOCAL-040543;Freguesia;Podence e Santa Combinha
+LOCAL-040544;Freguesia;Talhinhas e Bagueixe
 LOCAL-040600;Concelho;Miranda do Douro
-LOCAL-040618;Freguesia;Constantim e Cicouro
 LOCAL-040604;Freguesia;Duas Igrejas
 LOCAL-040605;Freguesia;Genísio
-LOCAL-040619;Freguesia;Ifanes e Paradela
 LOCAL-040607;Freguesia;Malhadas
 LOCAL-040608;Freguesia;Miranda do Douro
 LOCAL-040609;Freguesia;Palaçoulo
 LOCAL-040611;Freguesia;Picote
 LOCAL-040612;Freguesia;Póvoa
 LOCAL-040613;Freguesia;São Martinho de Angueira
+LOCAL-040616;Freguesia;Vila Chã de Braciosa
+LOCAL-040618;Freguesia;Constantim e Cicouro
+LOCAL-040619;Freguesia;Ifanes e Paradela
 LOCAL-040620;Freguesia;Sendim e Atenor
 LOCAL-040621;Freguesia;Silva e Águas Vivas
-LOCAL-040616;Freguesia;Vila Chã de Braciosa
 LOCAL-040700;Concelho;Mirandela
 LOCAL-040701;Freguesia;Abambres
 LOCAL-040702;Freguesia;Abreiro
 LOCAL-040703;Freguesia;Aguieiras
 LOCAL-040704;Freguesia;Alvites
-LOCAL-040738;Freguesia;Avantos e Romeu
-LOCAL-040739;Freguesia;Avidagos, Navalho e Pereira
-LOCAL-040740;Freguesia;Barcel, Marmelos e Valverde da Gestosa
 LOCAL-040708;Freguesia;Bouça
 LOCAL-040709;Freguesia;Cabanelas
 LOCAL-040710;Freguesia;Caravelas
@@ -768,9 +748,7 @@ LOCAL-040711;Freguesia;Carvalhais
 LOCAL-040712;Freguesia;Cedães
 LOCAL-040713;Freguesia;Cobro
 LOCAL-040714;Freguesia;Fradizela
-LOCAL-040741;Freguesia;Franco e Vila Boa
 LOCAL-040716;Freguesia;Frechas
-LOCAL-040742;Freguesia;Freixeda e Vila Verde
 LOCAL-040718;Freguesia;Lamas de Orelhão
 LOCAL-040720;Freguesia;Mascarenhas
 LOCAL-040721;Freguesia;Mirandela
@@ -784,20 +762,22 @@ LOCAL-040731;Freguesia;Vale de Asnes
 LOCAL-040732;Freguesia;Vale de Gouvinhas
 LOCAL-040733;Freguesia;Vale de Salgueiro
 LOCAL-040734;Freguesia;Vale de Telhas
+LOCAL-040738;Freguesia;Avantos e Romeu
+LOCAL-040739;Freguesia;Avidagos, Navalho e Pereira
+LOCAL-040740;Freguesia;Barcel, Marmelos e Valverde da Gestosa
+LOCAL-040741;Freguesia;Franco e Vila Boa
+LOCAL-040742;Freguesia;Freixeda e Vila Verde
 LOCAL-040800;Concelho;Mogadouro
 LOCAL-040801;Freguesia;Azinhoso
 LOCAL-040802;Freguesia;Bemposta
 LOCAL-040803;Freguesia;Bruçó
 LOCAL-040804;Freguesia;Brunhoso
-LOCAL-040829;Freguesia;Brunhozinho, Castanheira e Sanhoane
 LOCAL-040807;Freguesia;Castelo Branco
 LOCAL-040808;Freguesia;Castro Vicente
 LOCAL-040809;Freguesia;Meirinhos
-LOCAL-040830;Freguesia;Mogadouro, Valverde, Vale de Porco e Vilar de Rei
 LOCAL-040811;Freguesia;Paradela
 LOCAL-040812;Freguesia;Penas Roias
 LOCAL-040813;Freguesia;Peredo da Bemposta
-LOCAL-040831;Freguesia;Remondes e Soutelo
 LOCAL-040815;Freguesia;Saldanha
 LOCAL-040817;Freguesia;São Martinho do Peso
 LOCAL-040819;Freguesia;Tó
@@ -805,25 +785,26 @@ LOCAL-040820;Freguesia;Travanca
 LOCAL-040821;Freguesia;Urrós
 LOCAL-040822;Freguesia;Vale da Madre
 LOCAL-040826;Freguesia;Vila de Ala
+LOCAL-040829;Freguesia;Brunhozinho, Castanheira e Sanhoane
+LOCAL-040830;Freguesia;Mogadouro, Valverde, Vale de Porco e Vilar de Rei
+LOCAL-040831;Freguesia;Remondes e Soutelo
 LOCAL-040832;Freguesia;Vilarinho dos Galegos e Ventozelo
 LOCAL-040900;Concelho;Torre de Moncorvo
 LOCAL-040901;Freguesia;Açoreira
-LOCAL-040918;Freguesia;Adeganha e Cardanha
 LOCAL-040903;Freguesia;Cabeça Boa
 LOCAL-040905;Freguesia;Carviçais
 LOCAL-040906;Freguesia;Castedo
-LOCAL-040919;Freguesia;Felgar e Souto da Velha
-LOCAL-040920;Freguesia;Felgueiras e Maçores
 LOCAL-040909;Freguesia;Horta da Vilariça
 LOCAL-040910;Freguesia;Larinho
 LOCAL-040911;Freguesia;Lousa
 LOCAL-040913;Freguesia;Mós
 LOCAL-040916;Freguesia;Torre de Moncorvo
+LOCAL-040918;Freguesia;Adeganha e Cardanha
+LOCAL-040919;Freguesia;Felgar e Souto da Velha
+LOCAL-040920;Freguesia;Felgueiras e Maçores
 LOCAL-040921;Freguesia;Urros e Peredo dos Castelhanos
 LOCAL-041000;Concelho;Vila Flor
-LOCAL-041020;Freguesia;Assares e Lodões
 LOCAL-041002;Freguesia;Benlhevai
-LOCAL-041021;Freguesia;Candoso e Carvalho de Egas
 LOCAL-041005;Freguesia;Freixiel
 LOCAL-041009;Freguesia;Roios
 LOCAL-041010;Freguesia;Samões
@@ -832,94 +813,97 @@ LOCAL-041012;Freguesia;Santa Comba de Vilariça
 LOCAL-041013;Freguesia;Seixo de Manhoses
 LOCAL-041014;Freguesia;Trindade
 LOCAL-041015;Freguesia;Vale Frechoso
+LOCAL-041020;Freguesia;Assares e Lodões
+LOCAL-041021;Freguesia;Candoso e Carvalho de Egas
 LOCAL-041022;Freguesia;Valtorno e Mourão
 LOCAL-041023;Freguesia;Vila Flor e Nabo
 LOCAL-041024;Freguesia;Vilas Boas e Vilarinho das Azenhas
 LOCAL-041100;Concelho;Vimioso
-LOCAL-041115;Freguesia;Algoso, Campo de Víboras e Uva
 LOCAL-041103;Freguesia;Argozelo
-LOCAL-041116;Freguesia;Caçarelhos e Angueira
 LOCAL-041107;Freguesia;Carção
 LOCAL-041108;Freguesia;Matela
 LOCAL-041109;Freguesia;Pinelo
 LOCAL-041110;Freguesia;Santulhão
-LOCAL-041117;Freguesia;Vale de Frades e Avelanoso
 LOCAL-041113;Freguesia;Vilar Seco
 LOCAL-041114;Freguesia;Vimioso
+LOCAL-041115;Freguesia;Algoso, Campo de Víboras e Uva
+LOCAL-041116;Freguesia;Caçarelhos e Angueira
+LOCAL-041117;Freguesia;Vale de Frades e Avelanoso
 LOCAL-041200;Concelho;Vinhais
 LOCAL-041201;Freguesia;Agrochão
 LOCAL-041203;Freguesia;Candedo
 LOCAL-041204;Freguesia;Celas
-LOCAL-041236;Freguesia;Curopos e Vale de Janeiro
 LOCAL-041206;Freguesia;Edral
 LOCAL-041207;Freguesia;Edrosa
 LOCAL-041208;Freguesia;Ervedosa
-LOCAL-041237;Freguesia;Moimenta e Montouto
-LOCAL-041238;Freguesia;Nunes e Ousilhão
 LOCAL-041215;Freguesia;Paçó
 LOCAL-041216;Freguesia;Penhas Juntas
-LOCAL-041239;Freguesia;Quirás e Pinheiro Novo
 LOCAL-041219;Freguesia;Rebordelo
 LOCAL-041221;Freguesia;Santalha
-LOCAL-041240;Freguesia;Sobreiro de Baixo e Alvaredos
-LOCAL-041241;Freguesia;Soeira, Fresulfe e Mofreita
-LOCAL-041242;Freguesia;Travanca e Santa Cruz
 LOCAL-041226;Freguesia;Tuizelo
 LOCAL-041227;Freguesia;Vale das Fontes
 LOCAL-041229;Freguesia;Vila Boa de Ousilhão
 LOCAL-041230;Freguesia;Vila Verde
-LOCAL-041243;Freguesia;Vilar de Lomba e São Jomil
 LOCAL-041232;Freguesia;Vilar de Ossos
 LOCAL-041233;Freguesia;Vilar de Peregrinos
 LOCAL-041234;Freguesia;Vilar Seco de Lomba
 LOCAL-041235;Freguesia;Vinhais
+LOCAL-041236;Freguesia;Curopos e Vale de Janeiro
+LOCAL-041237;Freguesia;Moimenta e Montouto
+LOCAL-041238;Freguesia;Nunes e Ousilhão
+LOCAL-041239;Freguesia;Quirás e Pinheiro Novo
+LOCAL-041240;Freguesia;Sobreiro de Baixo e Alvaredos
+LOCAL-041241;Freguesia;Soeira, Fresulfe e Mofreita
+LOCAL-041242;Freguesia;Travanca e Santa Cruz
+LOCAL-041243;Freguesia;Vilar de Lomba e São Jomil
+LOCAL-050000;Distrito;Castelo Branco
 LOCAL-050100;Concelho;Belmonte
-LOCAL-050106;Freguesia;Belmonte e Colmeal da Torre
 LOCAL-050102;Freguesia;Caria
 LOCAL-050104;Freguesia;Inguias
 LOCAL-050105;Freguesia;Maçainhas
+LOCAL-050106;Freguesia;Belmonte e Colmeal da Torre
 LOCAL-050200;Concelho;Castelo Branco
 LOCAL-050201;Freguesia;Alcains
 LOCAL-050202;Freguesia;Almaceda
 LOCAL-050203;Freguesia;Benquerenças
 LOCAL-050205;Freguesia;Castelo Branco
-LOCAL-050226;Freguesia;Cebolais de Cima e Retaxo
-LOCAL-050227;Freguesia;Escalos de Baixo e Mata
-LOCAL-050228;Freguesia;Escalos de Cima e Lousa
-LOCAL-050229;Freguesia;Freixial e Juncal do Campo
 LOCAL-050211;Freguesia;Lardosa
 LOCAL-050212;Freguesia;Louriçal do Campo
 LOCAL-050214;Freguesia;Malpica do Tejo
 LOCAL-050216;Freguesia;Monforte da Beira
-LOCAL-050230;Freguesia;Ninho do Açor e Sobral do Campo
-LOCAL-050231;Freguesia;Póvoa de Rio de Moinhos e Cafede
 LOCAL-050220;Freguesia;Salgueiro do Campo
 LOCAL-050221;Freguesia;Santo André das Tojeiras
 LOCAL-050222;Freguesia;São Vicente da Beira
 LOCAL-050223;Freguesia;Sarzedas
 LOCAL-050225;Freguesia;Tinalhas
+LOCAL-050226;Freguesia;Cebolais de Cima e Retaxo
+LOCAL-050227;Freguesia;Escalos de Baixo e Mata
+LOCAL-050228;Freguesia;Escalos de Cima e Lousa
+LOCAL-050229;Freguesia;Freixial e Juncal do Campo
+LOCAL-050230;Freguesia;Ninho do Açor e Sobral do Campo
+LOCAL-050231;Freguesia;Póvoa de Rio de Moinhos e Cafede
 LOCAL-050300;Concelho;Covilhã
 LOCAL-050302;Freguesia;Aldeia de São Francisco de Assis
-LOCAL-050332;Freguesia;Barco e Coutada
 LOCAL-050305;Freguesia;Boidobra
-LOCAL-050333;Freguesia;Cantar-Galo e Vila do Carvalho
-LOCAL-050334;Freguesia;Casegas e Ourondo
 LOCAL-050308;Freguesia;Cortes do Meio
-LOCAL-050335;Freguesia;Covilhã e Canhoso
 LOCAL-050309;Freguesia;Dominguizo
 LOCAL-050310;Freguesia;Erada
 LOCAL-050311;Freguesia;Ferro
 LOCAL-050312;Freguesia;Orjais
 LOCAL-050314;Freguesia;Paul
 LOCAL-050315;Freguesia;Peraboa
-LOCAL-050336;Freguesia;Peso e Vales do Rio
 LOCAL-050318;Freguesia;São Jorge da Beira
 LOCAL-050322;Freguesia;Sobral de São Miguel
-LOCAL-050337;Freguesia;Teixoso e Sarzedo
 LOCAL-050324;Freguesia;Tortosendo
 LOCAL-050325;Freguesia;Unhais da Serra
-LOCAL-050338;Freguesia;Vale Formoso e Aldeia do Souto
 LOCAL-050327;Freguesia;Verdelhos
+LOCAL-050332;Freguesia;Barco e Coutada
+LOCAL-050333;Freguesia;Cantar-Galo e Vila do Carvalho
+LOCAL-050334;Freguesia;Casegas e Ourondo
+LOCAL-050335;Freguesia;Covilhã e Canhoso
+LOCAL-050336;Freguesia;Peso e Vales do Rio
+LOCAL-050337;Freguesia;Teixoso e Sarzedo
+LOCAL-050338;Freguesia;Vale Formoso e Aldeia do Souto
 LOCAL-050400;Concelho;Fundão
 LOCAL-050401;Freguesia;Alcaide
 LOCAL-050402;Freguesia;Alcaria
@@ -930,71 +914,71 @@ LOCAL-050410;Freguesia;Bogas de Cima
 LOCAL-050411;Freguesia;Capinha
 LOCAL-050412;Freguesia;Castelejo
 LOCAL-050413;Freguesia;Castelo Novo
-LOCAL-050431;Freguesia;Enxames
 LOCAL-050416;Freguesia;Fatela
-LOCAL-050434;Freguesia;Fundão, Valverde, Donas e Aldeias de Joanes e Cabo
-LOCAL-050433;Freguesia;Janeiro de Cima e Bogas de Baixo
 LOCAL-050419;Freguesia;Lavacolhos
 LOCAL-050420;Freguesia;Orca
 LOCAL-050421;Freguesia;Pêro Viseu
-LOCAL-050435;Freguesia;Póvoa de Atalaia e Atalaia do Campo
 LOCAL-050424;Freguesia;Silvares
 LOCAL-050425;Freguesia;Soalheira
 LOCAL-050426;Freguesia;Souto da Casa
 LOCAL-050427;Freguesia;Telhado
+LOCAL-050431;Freguesia;Enxames
 LOCAL-050432;Freguesia;Três Povos
+LOCAL-050433;Freguesia;Janeiro de Cima e Bogas de Baixo
+LOCAL-050434;Freguesia;Fundão, Valverde, Donas e Aldeias de Joanes e Cabo
+LOCAL-050435;Freguesia;Póvoa de Atalaia e Atalaia do Campo
 LOCAL-050436;Freguesia;Vale de Prazeres e Mata da Rainha
 LOCAL-050500;Concelho;Idanha-a-Nova
 LOCAL-050502;Freguesia;Aldeia de Santa Margarida
-LOCAL-050518;Freguesia;Idanha-a-Nova e Alcafozes
 LOCAL-050505;Freguesia;Ladoeiro
 LOCAL-050506;Freguesia;Medelim
-LOCAL-050519;Freguesia;Monfortinho e Salvaterra do Extremo
-LOCAL-050520;Freguesia;Monsanto e Idanha-a-Velha
 LOCAL-050509;Freguesia;Oledo
 LOCAL-050510;Freguesia;Penha Garcia
 LOCAL-050511;Freguesia;Proença-a-Velha
 LOCAL-050512;Freguesia;Rosmaninhal
 LOCAL-050514;Freguesia;São Miguel de Acha
 LOCAL-050516;Freguesia;Toulões
+LOCAL-050518;Freguesia;Idanha-a-Nova e Alcafozes
+LOCAL-050519;Freguesia;Monfortinho e Salvaterra do Extremo
+LOCAL-050520;Freguesia;Monsanto e Idanha-a-Velha
 LOCAL-050521;Freguesia;Zebreira e Segura
 LOCAL-050600;Concelho;Oleiros
 LOCAL-050601;Freguesia;Álvaro
 LOCAL-050603;Freguesia;Cambas
-LOCAL-050613;Freguesia;Estreito-Vilar Barroco
 LOCAL-050605;Freguesia;Isna
 LOCAL-050606;Freguesia;Madeirã
 LOCAL-050607;Freguesia;Mosteiro
-LOCAL-050614;Freguesia;Oleiros-Amieira
 LOCAL-050609;Freguesia;Orvalho
 LOCAL-050610;Freguesia;Sarnadas de São Simão
 LOCAL-050611;Freguesia;Sobral
+LOCAL-050613;Freguesia;Estreito-Vilar Barroco
+LOCAL-050614;Freguesia;Oleiros-Amieira
 LOCAL-050700;Concelho;Penamacor
-LOCAL-050713;Freguesia;Aldeia do Bispo, Águas e Aldeia de João Pires
 LOCAL-050704;Freguesia;Aranhas
 LOCAL-050706;Freguesia;Benquerença
 LOCAL-050707;Freguesia;Meimão
 LOCAL-050708;Freguesia;Meimoa
-LOCAL-050714;Freguesia;Pedrógão de São Pedro e Bemposta
 LOCAL-050710;Freguesia;Penamacor
 LOCAL-050711;Freguesia;Salvador
 LOCAL-050712;Freguesia;Vale da Senhora da Póvoa
+LOCAL-050713;Freguesia;Aldeia do Bispo, Águas e Aldeia de João Pires
+LOCAL-050714;Freguesia;Pedrógão de São Pedro e Bemposta
 LOCAL-050800;Concelho;Proença-a-Nova
 LOCAL-050802;Freguesia;Montes da Senhora
-LOCAL-050807;Freguesia;Proença-a-Nova e Peral
 LOCAL-050805;Freguesia;São Pedro do Esteval
+LOCAL-050807;Freguesia;Proença-a-Nova e Peral
 LOCAL-050808;Freguesia;Sobreira Formosa e Alvito da Beira
 LOCAL-050900;Concelho;Sertã
 LOCAL-050901;Freguesia;Cabeçudo
 LOCAL-050902;Freguesia;Carvalhal
 LOCAL-050903;Freguesia;Castelo
-LOCAL-050915;Freguesia;Cernache do Bonjardim, Nesperal e Palhais
-LOCAL-050916;Freguesia;Cumeada e Marmeleiro
-LOCAL-050917;Freguesia;Ermida e Figueiredo
 LOCAL-050911;Freguesia;Pedrógão Pequeno
 LOCAL-050912;Freguesia;Sertã
 LOCAL-050913;Freguesia;Troviscal
 LOCAL-050914;Freguesia;Várzea dos Cavaleiros
+LOCAL-050915;Freguesia;Cernache do Bonjardim, Nesperal e Palhais
+LOCAL-050916;Freguesia;Cumeada e Marmeleiro
+LOCAL-050917;Freguesia;Ermida e Figueiredo
 LOCAL-051000;Concelho;Vila de Rei
 LOCAL-051001;Freguesia;Fundada
 LOCAL-051002;Freguesia;São João do Peso
@@ -1004,13 +988,11 @@ LOCAL-051101;Freguesia;Fratel
 LOCAL-051102;Freguesia;Perais
 LOCAL-051103;Freguesia;Sarnadas de Ródão
 LOCAL-051104;Freguesia;Vila Velha de Ródão
+LOCAL-060000;Distrito;Coimbra
 LOCAL-060100;Concelho;Arganil
 LOCAL-060102;Freguesia;Arganil
 LOCAL-060104;Freguesia;Benfeita
 LOCAL-060105;Freguesia;Celavisa
-LOCAL-060119;Freguesia;Cepos e Teixeira
-LOCAL-060120;Freguesia;Cerdeira e Moura da Serra
-LOCAL-060121;Freguesia;Côja e Barril de Alva
 LOCAL-060109;Freguesia;Folques
 LOCAL-060111;Freguesia;Piódão
 LOCAL-060112;Freguesia;Pomares
@@ -1018,131 +1000,134 @@ LOCAL-060113;Freguesia;Pombeiro da Beira
 LOCAL-060114;Freguesia;São Martinho da Cortiça
 LOCAL-060115;Freguesia;Sarzedo
 LOCAL-060116;Freguesia;Secarias
+LOCAL-060119;Freguesia;Cepos e Teixeira
+LOCAL-060120;Freguesia;Cerdeira e Moura da Serra
+LOCAL-060121;Freguesia;Côja e Barril de Alva
 LOCAL-060122;Freguesia;Vila Cova de Alva e Anseriz
 LOCAL-060200;Concelho;Cantanhede
 LOCAL-060201;Freguesia;Ançã
 LOCAL-060203;Freguesia;Cadima
-LOCAL-060220;Freguesia;Cantanhede e Pocariça
 LOCAL-060205;Freguesia;Cordinhã
-LOCAL-060221;Freguesia;Covões e Camarneira
 LOCAL-060207;Freguesia;Febres
 LOCAL-060208;Freguesia;Murtede
 LOCAL-060209;Freguesia;Ourentã
-LOCAL-060222;Freguesia;Portunhos e Outil
-LOCAL-060218;Freguesia;Sanguinheira
-LOCAL-060215;Freguesia;São Caetano
-LOCAL-060223;Freguesia;Sepins e Bolho
 LOCAL-060214;Freguesia;Tocha
+LOCAL-060215;Freguesia;São Caetano
+LOCAL-060218;Freguesia;Sanguinheira
+LOCAL-060220;Freguesia;Cantanhede e Pocariça
+LOCAL-060221;Freguesia;Covões e Camarneira
+LOCAL-060222;Freguesia;Portunhos e Outil
+LOCAL-060223;Freguesia;Sepins e Bolho
 LOCAL-060224;Freguesia;Vilamar e Corticeiro de Cima
 LOCAL-060300;Concelho;Coimbra
 LOCAL-060301;Freguesia;Almalaguês
-LOCAL-060332;Freguesia;Antuzede e Vil de Matos
-LOCAL-060333;Freguesia;Assafarge e Antanhol
 LOCAL-060309;Freguesia;Brasfemes
 LOCAL-060311;Freguesia;Ceira
 LOCAL-060312;Freguesia;Cernache
-LOCAL-060335;Freguesia;Eiras e São Paulo de Frades
-LOCAL-060336;Freguesia;Santa Clara e Castelo Viegas
 LOCAL-060318;Freguesia;Santo António dos Olivais
 LOCAL-060320;Freguesia;São João do Campo
+LOCAL-060324;Freguesia;São Silvestre
+LOCAL-060329;Freguesia;Torres do Mondego
+LOCAL-060332;Freguesia;Antuzede e Vil de Matos
+LOCAL-060333;Freguesia;Assafarge e Antanhol
+LOCAL-060334;Freguesia;Sé Nova, Santa Cruz, Almedina e São Bartolomeu
+LOCAL-060335;Freguesia;Eiras e São Paulo de Frades
+LOCAL-060336;Freguesia;Santa Clara e Castelo Viegas
 LOCAL-060337;Freguesia;São Martinho de Árvore e Lamarosa
 LOCAL-060338;Freguesia;São Martinho do Bispo e Ribeira de Frades
-LOCAL-060324;Freguesia;São Silvestre
-LOCAL-060334;Freguesia;Sé Nova, Santa Cruz, Almedina e São Bartolomeu
 LOCAL-060339;Freguesia;Souselas e Botão
 LOCAL-060340;Freguesia;Taveiro, Ameal e Arzila
-LOCAL-060329;Freguesia;Torres do Mondego
 LOCAL-060341;Freguesia;Trouxemil e Torre de Vilela
 LOCAL-060400;Concelho;Condeixa-a-Nova
 LOCAL-060401;Freguesia;Anobra
-LOCAL-060411;Freguesia;Condeixa-a-Velha e Condeixa-a-Nova
 LOCAL-060406;Freguesia;Ega
 LOCAL-060407;Freguesia;Furadouro
+LOCAL-060410;Freguesia;Zambujal
+LOCAL-060411;Freguesia;Condeixa-a-Velha e Condeixa-a-Nova
 LOCAL-060412;Freguesia;Sebal e Belide
 LOCAL-060413;Freguesia;Vila Seca e Bem da Fé
-LOCAL-060410;Freguesia;Zambujal
 LOCAL-060500;Concelho;Figueira da Foz
-LOCAL-060519;Freguesia;Alhadas
 LOCAL-060502;Freguesia;Alqueidão
+LOCAL-060507;Freguesia;Maiorca
+LOCAL-060508;Freguesia;Marinha das Ondas
+LOCAL-060512;Freguesia;Tavarede
+LOCAL-060513;Freguesia;Vila Verde
+LOCAL-060514;Freguesia;São Pedro
 LOCAL-060515;Freguesia;Bom Sucesso
+LOCAL-060518;Freguesia;Moinhos da Gândara
+LOCAL-060519;Freguesia;Alhadas
 LOCAL-060520;Freguesia;Buarcos e São Julião
 LOCAL-060521;Freguesia;Ferreira-a-Nova
 LOCAL-060522;Freguesia;Lavos
-LOCAL-060507;Freguesia;Maiorca
-LOCAL-060508;Freguesia;Marinha das Ondas
-LOCAL-060518;Freguesia;Moinhos da Gândara
 LOCAL-060523;Freguesia;Paião
 LOCAL-060524;Freguesia;Quiaios
-LOCAL-060514;Freguesia;São Pedro
-LOCAL-060512;Freguesia;Tavarede
-LOCAL-060513;Freguesia;Vila Verde
 LOCAL-060600;Concelho;Góis
 LOCAL-060601;Freguesia;Alvares
-LOCAL-060606;Freguesia;Cadafaz e Colmeal
 LOCAL-060604;Freguesia;Góis
 LOCAL-060605;Freguesia;Vila Nova do Ceira
+LOCAL-060606;Freguesia;Cadafaz e Colmeal
 LOCAL-060700;Concelho;Lousã
-LOCAL-060707;Freguesia;Foz de Arouce e Casal de Ermio
-LOCAL-060706;Freguesia;Gândaras
-LOCAL-060708;Freguesia;Lousã e Vilarinho
 LOCAL-060704;Freguesia;Serpins
+LOCAL-060706;Freguesia;Gândaras
+LOCAL-060707;Freguesia;Foz de Arouce e Casal de Ermio
+LOCAL-060708;Freguesia;Lousã e Vilarinho
 LOCAL-060800;Concelho;Mira
-LOCAL-060803;Freguesia;Carapelhos
 LOCAL-060801;Freguesia;Mira
-LOCAL-060804;Freguesia;Praia de Mira
 LOCAL-060802;Freguesia;Seixo
+LOCAL-060803;Freguesia;Carapelhos
+LOCAL-060804;Freguesia;Praia de Mira
 LOCAL-060900;Concelho;Miranda do Corvo
 LOCAL-060901;Freguesia;Lamas
 LOCAL-060902;Freguesia;Miranda do Corvo
-LOCAL-060906;Freguesia;Semide e Rio Vide
 LOCAL-060905;Freguesia;Vila Nova
+LOCAL-060906;Freguesia;Semide e Rio Vide
 LOCAL-061000;Concelho;Montemor-o-Velho
-LOCAL-061015;Freguesia;Abrunheira, Verride e Vila Nova da Barca
 LOCAL-061002;Freguesia;Arazede
 LOCAL-061003;Freguesia;Carapinheira
-LOCAL-061014;Freguesia;Ereira
 LOCAL-061005;Freguesia;Liceia
 LOCAL-061006;Freguesia;Meãs do Campo
-LOCAL-061016;Freguesia;Montemor-o-Velho e Gatões
 LOCAL-061008;Freguesia;Pereira
 LOCAL-061009;Freguesia;Santo Varão
 LOCAL-061010;Freguesia;Seixo de Gatões
 LOCAL-061011;Freguesia;Tentúgal
+LOCAL-061014;Freguesia;Ereira
+LOCAL-061015;Freguesia;Abrunheira, Verride e Vila Nova da Barca
+LOCAL-061016;Freguesia;Montemor-o-Velho e Gatões
 LOCAL-061100;Concelho;Oliveira do Hospital
 LOCAL-061101;Freguesia;Aldeia das Dez
 LOCAL-061102;Freguesia;Alvoco das Várzeas
 LOCAL-061103;Freguesia;Avô
 LOCAL-061104;Freguesia;Bobadela
-LOCAL-061122;Freguesia;Ervedal e Vila Franca da Beira
 LOCAL-061106;Freguesia;Lagares
-LOCAL-061123;Freguesia;Lagos da Beira e Lajeosa
 LOCAL-061109;Freguesia;Lourosa
 LOCAL-061110;Freguesia;Meruge
 LOCAL-061111;Freguesia;Nogueira do Cravo
-LOCAL-061124;Freguesia;Oliveira do Hospital e São Paio de Gramaços
-LOCAL-061125;Freguesia;Penalva de Alva e São Sebastião da Feira
-LOCAL-061126;Freguesia;Santa Ovaia e Vila Pouca da Beira
 LOCAL-061115;Freguesia;São Gião
 LOCAL-061118;Freguesia;Seixo da Beira
 LOCAL-061119;Freguesia;Travanca de Lagos
+LOCAL-061122;Freguesia;Ervedal e Vila Franca da Beira
+LOCAL-061123;Freguesia;Lagos da Beira e Lajeosa
+LOCAL-061124;Freguesia;Oliveira do Hospital e São Paio de Gramaços
+LOCAL-061125;Freguesia;Penalva de Alva e São Sebastião da Feira
+LOCAL-061126;Freguesia;Santa Ovaia e Vila Pouca da Beira
 LOCAL-061200;Concelho;Pampilhosa da Serra
 LOCAL-061201;Freguesia;Cabril
 LOCAL-061202;Freguesia;Dornelas do Zêzere
-LOCAL-061211;Freguesia;Fajão-Vidual
 LOCAL-061204;Freguesia;Janeiro de Baixo
 LOCAL-061206;Freguesia;Pampilhosa da Serra
 LOCAL-061207;Freguesia;Pessegueiro
-LOCAL-061212;Freguesia;Portela do Fojo-Machio
 LOCAL-061209;Freguesia;Unhais-o-Velho
+LOCAL-061211;Freguesia;Fajão-Vidual
+LOCAL-061212;Freguesia;Portela do Fojo-Machio
 LOCAL-061300;Concelho;Penacova
 LOCAL-061301;Freguesia;Carvalho
 LOCAL-061302;Freguesia;Figueira de Lorvão
-LOCAL-061312;Freguesia;Friúmes e Paradela
 LOCAL-061304;Freguesia;Lorvão
-LOCAL-061313;Freguesia;Oliveira do Mondego e Travanca do Mondego
 LOCAL-061307;Freguesia;Penacova
-LOCAL-061314;Freguesia;São Pedro de Alva e São Paio de Mondego
 LOCAL-061310;Freguesia;Sazes do Lorvão
+LOCAL-061312;Freguesia;Friúmes e Paradela
+LOCAL-061313;Freguesia;Oliveira do Mondego e Travanca do Mondego
+LOCAL-061314;Freguesia;São Pedro de Alva e São Paio de Mondego
 LOCAL-061400;Concelho;Penela
 LOCAL-061401;Freguesia;Cumeeira
 LOCAL-061402;Freguesia;Espinhal
@@ -1150,79 +1135,80 @@ LOCAL-061403;Freguesia;Podentes
 LOCAL-061407;Freguesia;São Miguel, Santa Eufémia e Rabaçal
 LOCAL-061500;Concelho;Soure
 LOCAL-061501;Freguesia;Alfarelos
-LOCAL-061513;Freguesia;Degracias e Pombalinho
 LOCAL-061504;Freguesia;Figueiró do Campo
-LOCAL-061514;Freguesia;Gesteira e Brunhós
 LOCAL-061506;Freguesia;Granja do Ulmeiro
 LOCAL-061508;Freguesia;Samuel
 LOCAL-061509;Freguesia;Soure
 LOCAL-061510;Freguesia;Tapéus
 LOCAL-061511;Freguesia;Vila Nova de Anços
 LOCAL-061512;Freguesia;Vinha da Rainha
+LOCAL-061513;Freguesia;Degracias e Pombalinho
+LOCAL-061514;Freguesia;Gesteira e Brunhós
 LOCAL-061600;Concelho;Tábua
-LOCAL-061616;Freguesia;Ázere e Covelo
 LOCAL-061602;Freguesia;Candosa
 LOCAL-061603;Freguesia;Carapinha
-LOCAL-061617;Freguesia;Covas e Vila Nova de Oliveirinha
-LOCAL-061618;Freguesia;Espariz e Sinde
 LOCAL-061608;Freguesia;Midões
 LOCAL-061609;Freguesia;Mouronho
-LOCAL-061619;Freguesia;Pinheiro de Coja e Meda de Mouros
 LOCAL-061611;Freguesia;Póvoa de Midões
 LOCAL-061612;Freguesia;São João da Boa Vista
 LOCAL-061614;Freguesia;Tábua
+LOCAL-061616;Freguesia;Ázere e Covelo
+LOCAL-061617;Freguesia;Covas e Vila Nova de Oliveirinha
+LOCAL-061618;Freguesia;Espariz e Sinde
+LOCAL-061619;Freguesia;Pinheiro de Coja e Meda de Mouros
 LOCAL-061700;Concelho;Vila Nova de Poiares
 LOCAL-061701;Freguesia;Arrifana
 LOCAL-061702;Freguesia;Lavegadas
 LOCAL-061703;Freguesia;Poiares (Santo André)
 LOCAL-061704;Freguesia;São Miguel de Poiares
+LOCAL-070000;Distrito;Évora
 LOCAL-070100;Concelho;Alandroal
-LOCAL-070104;Freguesia;Capelins (Santo António)
-LOCAL-070107;Freguesia;N.S. Conceição, S.Brás Matos, Juromenha
 LOCAL-070103;Freguesia;Santiago Maior
+LOCAL-070104;Freguesia;Capelins (Santo António)
 LOCAL-070105;Freguesia;Terena (São Pedro)
+LOCAL-070107;Freguesia;N.S. Conceição, S.Brás Matos, Juromenha
 LOCAL-070200;Concelho;Arraiolos
 LOCAL-070201;Freguesia;Arraiolos
-LOCAL-070208;Freguesia;Gafanhoeira (São Pedro) e Sabugueiro
 LOCAL-070202;Freguesia;Igrejinha
-LOCAL-070209;Freguesia;São Gregório e Santa Justa
 LOCAL-070206;Freguesia;Vimieiro
+LOCAL-070208;Freguesia;Gafanhoeira (São Pedro) e Sabugueiro
+LOCAL-070209;Freguesia;São Gregório e Santa Justa
 LOCAL-070300;Concelho;Borba
 LOCAL-070301;Freguesia;Borba (Matriz)
-LOCAL-070304;Freguesia;Borba (São Bartolomeu)
 LOCAL-070302;Freguesia;Orada
 LOCAL-070303;Freguesia;Rio de Moinhos
+LOCAL-070304;Freguesia;Borba (São Bartolomeu)
 LOCAL-070400;Concelho;Estremoz
-LOCAL-070417;Freguesia;Ameixial (Santa Vitória e São Bento)
 LOCAL-070401;Freguesia;Arcos
-LOCAL-070414;Freguesia;Estremoz (Santa Maria e Santo André)
-LOCAL-070404;Freguesia;Évora Monte (Santa Maria)
 LOCAL-070402;Freguesia;Glória
-LOCAL-070415;Freguesia;São Bento do Cortiço e Santo Estêvão
+LOCAL-070404;Freguesia;Évora Monte (Santa Maria)
 LOCAL-070411;Freguesia;São Domingos de Ana Loura
-LOCAL-070416;Freguesia;São Lourenço de Mamporcão e São Bento de Ana Loura
 LOCAL-070413;Freguesia;Veiros
+LOCAL-070414;Freguesia;Estremoz (Santa Maria e Santo André)
+LOCAL-070415;Freguesia;São Bento do Cortiço e Santo Estêvão
+LOCAL-070416;Freguesia;São Lourenço de Mamporcão e São Bento de Ana Loura
+LOCAL-070417;Freguesia;Ameixial (Santa Vitória e São Bento)
 LOCAL-070500;Concelho;Évora
-LOCAL-070522;Freguesia;Bacelo e Senhora da Saúde
+LOCAL-070502;Freguesia;Nossa Senhora da Graça do Divor
+LOCAL-070503;Freguesia;Nossa Senhora de Machede
+LOCAL-070506;Freguesia;São Bento do Mato
+LOCAL-070509;Freguesia;São Miguel de Machede
+LOCAL-070513;Freguesia;Torre de Coelheiros
 LOCAL-070515;Freguesia;Canaviais
+LOCAL-070522;Freguesia;Bacelo e Senhora da Saúde
 LOCAL-070523;Freguesia;Évora (São Mamede, Sé, São Pedro e Santo Antão)
 LOCAL-070524;Freguesia;Malagueira e Horta das Figueiras
 LOCAL-070525;Freguesia;N.S. da Tourega e N.S. de Guadalupe
-LOCAL-070502;Freguesia;Nossa Senhora da Graça do Divor
-LOCAL-070503;Freguesia;Nossa Senhora de Machede
-LOCAL-070527;Freguesia;S.Sebastião da Giesteira e N.S. da Boa Fé
-LOCAL-070506;Freguesia;São Bento do Mato
 LOCAL-070526;Freguesia;São Manços e São Vicente do Pigeiro
-LOCAL-070509;Freguesia;São Miguel de Machede
-LOCAL-070513;Freguesia;Torre de Coelheiros
+LOCAL-070527;Freguesia;S.Sebastião da Giesteira e N.S. da Boa Fé
 LOCAL-070600;Concelho;Montemor-o-Novo
 LOCAL-070601;Freguesia;Cabrela
-LOCAL-070607;Freguesia;Ciborro
-LOCAL-070611;Freguesia;Cortiçadas de Lavre e Lavre
-LOCAL-070610;Freguesia;Foros de Vale de Figueira
-LOCAL-070612;Freguesia;N.S. da Vila, N.S. do Bispo e Silveiras
 LOCAL-070605;Freguesia;Santiago do Escoural
 LOCAL-070606;Freguesia;São Cristóvão
+LOCAL-070607;Freguesia;Ciborro
+LOCAL-070610;Freguesia;Foros de Vale de Figueira
+LOCAL-070611;Freguesia;Cortiçadas de Lavre e Lavre
+LOCAL-070612;Freguesia;N.S. da Vila, N.S. do Bispo e Silveiras
 LOCAL-070700;Concelho;Mora
 LOCAL-070701;Freguesia;Brotas
 LOCAL-070702;Freguesia;Cabeção
@@ -1233,86 +1219,87 @@ LOCAL-070801;Freguesia;Granja
 LOCAL-070802;Freguesia;Luz
 LOCAL-070803;Freguesia;Mourão
 LOCAL-070900;Concelho;Portel
-LOCAL-070909;Freguesia;Amieira e Alqueva
 LOCAL-070903;Freguesia;Monte do Trigo
 LOCAL-070905;Freguesia;Portel
 LOCAL-070906;Freguesia;Santana
-LOCAL-070910;Freguesia;São Bartolomeu do Outeiro e Oriola
 LOCAL-070908;Freguesia;Vera Cruz
+LOCAL-070909;Freguesia;Amieira e Alqueva
+LOCAL-070910;Freguesia;São Bartolomeu do Outeiro e Oriola
 LOCAL-071000;Concelho;Redondo
 LOCAL-071001;Freguesia;Montoito
 LOCAL-071002;Freguesia;Redondo
 LOCAL-071100;Concelho;Reguengos de Monsaraz
-LOCAL-071106;Freguesia;Campo e Campinho
 LOCAL-071102;Freguesia;Corval
 LOCAL-071103;Freguesia;Monsaraz
 LOCAL-071104;Freguesia;Reguengos de Monsaraz
+LOCAL-071106;Freguesia;Campo e Campinho
 LOCAL-071200;Concelho;Vendas Novas
-LOCAL-071202;Freguesia;Landeira
 LOCAL-071201;Freguesia;Vendas Novas
+LOCAL-071202;Freguesia;Landeira
 LOCAL-071300;Concelho;Viana do Alentejo
-LOCAL-071303;Freguesia;Aguiar
 LOCAL-071301;Freguesia;Alcáçovas
 LOCAL-071302;Freguesia;Viana do Alentejo
+LOCAL-071303;Freguesia;Aguiar
 LOCAL-071400;Concelho;Vila Viçosa
 LOCAL-071401;Freguesia;Bencatel
 LOCAL-071402;Freguesia;Ciladas
-LOCAL-071406;Freguesia;Nossa Senhora da Conceição e São Bartolomeu
 LOCAL-071404;Freguesia;Pardais
+LOCAL-071406;Freguesia;Nossa Senhora da Conceição e São Bartolomeu
+LOCAL-080000;Distrito;Faro
 LOCAL-080100;Concelho;Albufeira
-LOCAL-080106;Freguesia;Albufeira e Olhos de Água
-LOCAL-080104;Freguesia;Ferreiras
 LOCAL-080102;Freguesia;Guia
 LOCAL-080103;Freguesia;Paderne
+LOCAL-080104;Freguesia;Ferreiras
+LOCAL-080106;Freguesia;Albufeira e Olhos de Água
 LOCAL-080200;Concelho;Alcoutim
-LOCAL-080206;Freguesia;Alcoutim e Pereiro
 LOCAL-080202;Freguesia;Giões
 LOCAL-080203;Freguesia;Martim Longo
 LOCAL-080205;Freguesia;Vaqueiros
+LOCAL-080206;Freguesia;Alcoutim e Pereiro
 LOCAL-080300;Concelho;Aljezur
 LOCAL-080301;Freguesia;Aljezur
 LOCAL-080302;Freguesia;Bordeira
 LOCAL-080303;Freguesia;Odeceixe
 LOCAL-080304;Freguesia;Rogil
 LOCAL-080400;Concelho;Castro Marim
-LOCAL-080404;Freguesia;Altura
 LOCAL-080401;Freguesia;Azinhal
 LOCAL-080402;Freguesia;Castro Marim
 LOCAL-080403;Freguesia;Odeleite
+LOCAL-080404;Freguesia;Altura
 LOCAL-080500;Concelho;Faro
+LOCAL-080503;Freguesia;Santa Bárbara de Nexe
+LOCAL-080506;Freguesia;Montenegro
 LOCAL-080507;Freguesia;Conceição e Estoi
 LOCAL-080508;Freguesia;Faro (Sé e São Pedro)
-LOCAL-080506;Freguesia;Montenegro
-LOCAL-080503;Freguesia;Santa Bárbara de Nexe
 LOCAL-080600;Concelho;Lagoa
-LOCAL-080607;Freguesia;Estômbar e Parchal
 LOCAL-080602;Freguesia;Ferragudo
-LOCAL-080608;Freguesia;Lagoa e Carvoeiro
 LOCAL-080604;Freguesia;Porches
+LOCAL-080607;Freguesia;Estômbar e Parchal
+LOCAL-080608;Freguesia;Lagoa e Carvoeiro
 LOCAL-080700;Concelho;Lagos
-LOCAL-080707;Freguesia;Bensafrim e Barão de São João
 LOCAL-080703;Freguesia;Luz
 LOCAL-080704;Freguesia;Odiáxere
+LOCAL-080707;Freguesia;Bensafrim e Barão de São João
 LOCAL-080708;Freguesia;São Gonçalo de Lagos
 LOCAL-080800;Concelho;Loulé
 LOCAL-080801;Freguesia;Almancil
 LOCAL-080802;Freguesia;Alte
 LOCAL-080803;Freguesia;Ameixial
 LOCAL-080804;Freguesia;Boliqueime
+LOCAL-080805;Freguesia;Quarteira
+LOCAL-080807;Freguesia;Salir
 LOCAL-080808;Freguesia;Loulé (São Clemente)
 LOCAL-080809;Freguesia;Loulé (São Sebastião)
-LOCAL-080805;Freguesia;Quarteira
 LOCAL-080812;Freguesia;Querença, Tôr e Benafim
-LOCAL-080807;Freguesia;Salir
 LOCAL-080900;Concelho;Monchique
 LOCAL-080901;Freguesia;Alferce
 LOCAL-080902;Freguesia;Marmelete
 LOCAL-080903;Freguesia;Monchique
 LOCAL-081000;Concelho;Olhão
-LOCAL-081006;Freguesia;Moncarapacho e Fuseta
 LOCAL-081003;Freguesia;Olhão
 LOCAL-081004;Freguesia;Pechão
 LOCAL-081005;Freguesia;Quelfes
+LOCAL-081006;Freguesia;Moncarapacho e Fuseta
 LOCAL-081100;Concelho;Portimão
 LOCAL-081101;Freguesia;Alvor
 LOCAL-081102;Freguesia;Mexilhoeira Grande
@@ -1320,18 +1307,18 @@ LOCAL-081103;Freguesia;Portimão
 LOCAL-081200;Concelho;São Brás de Alportel
 LOCAL-081201;Freguesia;São Brás de Alportel
 LOCAL-081300;Concelho;Silves
-LOCAL-081309;Freguesia;Alcantarilha e Pêra
-LOCAL-081310;Freguesia;Algoz e Tunes
 LOCAL-081303;Freguesia;Armação de Pêra
 LOCAL-081305;Freguesia;São Bartolomeu de Messines
 LOCAL-081306;Freguesia;São Marcos da Serra
 LOCAL-081307;Freguesia;Silves
+LOCAL-081309;Freguesia;Alcantarilha e Pêra
+LOCAL-081310;Freguesia;Algoz e Tunes
 LOCAL-081400;Concelho;Tavira
 LOCAL-081401;Freguesia;Cachopo
-LOCAL-081410;Freguesia;Conceição e Cabanas de Tavira
-LOCAL-081411;Freguesia;Luz de Tavira e Santo Estêvão
 LOCAL-081404;Freguesia;Santa Catarina da Fonte do Bispo
 LOCAL-081408;Freguesia;Santa Luzia
+LOCAL-081410;Freguesia;Conceição e Cabanas de Tavira
+LOCAL-081411;Freguesia;Luz de Tavira e Santo Estêvão
 LOCAL-081412;Freguesia;Tavira (Santa Maria e Santiago)
 LOCAL-081500;Concelho;Vila do Bispo
 LOCAL-081501;Freguesia;Barão de São Miguel
@@ -1339,11 +1326,11 @@ LOCAL-081502;Freguesia;Budens
 LOCAL-081504;Freguesia;Sagres
 LOCAL-081506;Freguesia;Vila do Bispo e Raposeira
 LOCAL-081600;Concelho;Vila Real de Santo António
-LOCAL-081603;Freguesia;Monte Gordo
 LOCAL-081601;Freguesia;Vila Nova de Cacela
 LOCAL-081602;Freguesia;Vila Real de Santo António
+LOCAL-081603;Freguesia;Monte Gordo
+LOCAL-090000;Distrito;Guarda
 LOCAL-090100;Concelho;Aguiar da Beira
-LOCAL-090114;Freguesia;Aguiar da Beira e Coruche
 LOCAL-090102;Freguesia;Carapito
 LOCAL-090103;Freguesia;Cortiçada
 LOCAL-090105;Freguesia;Dornelas
@@ -1351,31 +1338,29 @@ LOCAL-090106;Freguesia;Eirado
 LOCAL-090107;Freguesia;Forninhos
 LOCAL-090109;Freguesia;Pena Verde
 LOCAL-090110;Freguesia;Pinheiro
+LOCAL-090114;Freguesia;Aguiar da Beira e Coruche
 LOCAL-090115;Freguesia;Sequeiros e Gradiz
 LOCAL-090116;Freguesia;Souto de Aguiar da Beira e Valverde
 LOCAL-090200;Concelho;Almeida
 LOCAL-090203;Freguesia;Almeida
-LOCAL-090230;Freguesia;Amoreira, Parada e Cabreira
-LOCAL-090231;Freguesia;Azinhal, Peva e Valverde
 LOCAL-090207;Freguesia;Castelo Bom
-LOCAL-090232;Freguesia;Castelo Mendo, Ade, Monteperobolso e Mesquitela
 LOCAL-090209;Freguesia;Freineda
 LOCAL-090210;Freguesia;Freixo
-LOCAL-090233;Freguesia;Junça e Naves
-LOCAL-090234;Freguesia;Leomil, Mido, Senouras e Aldeia Nova
 LOCAL-090213;Freguesia;Malhada Sorda
-LOCAL-090235;Freguesia;Malpartida e Vale de Coelha
-LOCAL-090236;Freguesia;Miuzela e Porto de Ovelha
 LOCAL-090219;Freguesia;Nave de Haver
 LOCAL-090224;Freguesia;São Pedro de Rio Seco
 LOCAL-090227;Freguesia;Vale da Mula
 LOCAL-090229;Freguesia;Vilar Formoso
+LOCAL-090230;Freguesia;Amoreira, Parada e Cabreira
+LOCAL-090231;Freguesia;Azinhal, Peva e Valverde
+LOCAL-090232;Freguesia;Castelo Mendo, Ade, Monteperobolso e Mesquitela
+LOCAL-090233;Freguesia;Junça e Naves
+LOCAL-090234;Freguesia;Leomil, Mido, Senouras e Aldeia Nova
+LOCAL-090235;Freguesia;Malpartida e Vale de Coelha
+LOCAL-090236;Freguesia;Miuzela e Porto de Ovelha
 LOCAL-090300;Concelho;Celorico da Beira
-LOCAL-090323;Freguesia;Açores e Velosa
 LOCAL-090302;Freguesia;Baraçal
 LOCAL-090304;Freguesia;Carrapichana
-LOCAL-090322;Freguesia;Casas do Soeiro
-LOCAL-090325;Freguesia;Cortiçô da Serra, Vide entre Vinhas e Salgueirais
 LOCAL-090306;Freguesia;Forno Telheiro
 LOCAL-090307;Freguesia;Lajeosa do Mondego
 LOCAL-090308;Freguesia;Linhares
@@ -1383,85 +1368,78 @@ LOCAL-090309;Freguesia;Maçal do Chão
 LOCAL-090310;Freguesia;Mesquitela
 LOCAL-090311;Freguesia;Minhocal
 LOCAL-090312;Freguesia;Prados
-LOCAL-090326;Freguesia;Rapa e Cadafaz
 LOCAL-090314;Freguesia;Ratoeira
-LOCAL-090324;Freguesia;São Pedro e Santa Maria e Vila Boa do Mondego
 LOCAL-090318;Freguesia;Vale de Azares
+LOCAL-090322;Freguesia;Casas do Soeiro
+LOCAL-090323;Freguesia;Açores e Velosa
+LOCAL-090324;Freguesia;São Pedro e Santa Maria e Vila Boa do Mondego
+LOCAL-090325;Freguesia;Cortiçô da Serra, Vide entre Vinhas e Salgueirais
+LOCAL-090326;Freguesia;Rapa e Cadafaz
 LOCAL-090400;Concelho;Figueira de Castelo Rodrigo
-LOCAL-090418;Freguesia;Algodres, Vale de Afonsinho e Vilar de Amargo
-LOCAL-090419;Freguesia;Almofala e Escarigo
 LOCAL-090403;Freguesia;Castelo Rodrigo
-LOCAL-090420;Freguesia;Cinco Vilas e Reigada
-LOCAL-090422;Freguesia;Colmeal e Vilar Torpim
 LOCAL-090406;Freguesia;Escalhão
 LOCAL-090408;Freguesia;Figueira de Castelo Rodrigo
-LOCAL-090421;Freguesia;Freixeda Torrão, Quintã Pêro Martins, Penha Águia
 LOCAL-090410;Freguesia;Mata de Lobos
 LOCAL-090415;Freguesia;Vermiosa
+LOCAL-090418;Freguesia;Algodres, Vale de Afonsinho e Vilar de Amargo
+LOCAL-090419;Freguesia;Almofala e Escarigo
+LOCAL-090420;Freguesia;Cinco Vilas e Reigada
+LOCAL-090421;Freguesia;Freixeda Torrão, Quintã Pêro Martins, Penha Águia
+LOCAL-090422;Freguesia;Colmeal e Vilar Torpim
 LOCAL-090500;Concelho;Fornos de Algodres
 LOCAL-090501;Freguesia;Algodres
 LOCAL-090502;Freguesia;Casal Vasco
-LOCAL-090517;Freguesia;Cortiçô e Vila Chã
 LOCAL-090504;Freguesia;Figueiró da Granja
 LOCAL-090505;Freguesia;Fornos de Algodres
 LOCAL-090507;Freguesia;Infias
-LOCAL-090518;Freguesia;Juncais, Vila Ruiva e Vila Soeiro do Chão
 LOCAL-090509;Freguesia;Maceira
 LOCAL-090510;Freguesia;Matança
 LOCAL-090511;Freguesia;Muxagata
 LOCAL-090512;Freguesia;Queiriz
+LOCAL-090517;Freguesia;Cortiçô e Vila Chã
+LOCAL-090518;Freguesia;Juncais, Vila Ruiva e Vila Soeiro do Chão
 LOCAL-090519;Freguesia;Sobral Pichorro e Fuinhas
 LOCAL-090600;Concelho;Gouveia
-LOCAL-090623;Freguesia;Aldeias e Mangualde da Serra
 LOCAL-090602;Freguesia;Arcozelo
 LOCAL-090603;Freguesia;Cativelos
-LOCAL-090624;Freguesia;Figueiró da Serra e Freixo da Serra
 LOCAL-090605;Freguesia;Folgosinho
-LOCAL-090625;Freguesia;Gouveia
-LOCAL-090626;Freguesia;Melo e Nabais
-LOCAL-090627;Freguesia;Moimenta da Serra e Vinhó
 LOCAL-090612;Freguesia;Nespereira
 LOCAL-090613;Freguesia;Paços da Serra
 LOCAL-090614;Freguesia;Ribamondego
-LOCAL-090628;Freguesia;Rio Torto e Lagarinhos
 LOCAL-090617;Freguesia;São Paio
 LOCAL-090619;Freguesia;Vila Cortês da Serra
 LOCAL-090620;Freguesia;Vila Franca da Serra
 LOCAL-090621;Freguesia;Vila Nova de Tazem
+LOCAL-090623;Freguesia;Aldeias e Mangualde da Serra
+LOCAL-090624;Freguesia;Figueiró da Serra e Freixo da Serra
+LOCAL-090625;Freguesia;Gouveia
+LOCAL-090626;Freguesia;Melo e Nabais
+LOCAL-090627;Freguesia;Moimenta da Serra e Vinhó
+LOCAL-090628;Freguesia;Rio Torto e Lagarinhos
 LOCAL-090700;Concelho;Guarda
-LOCAL-090766;Freguesia;Adão
 LOCAL-090703;Freguesia;Aldeia do Bispo
 LOCAL-090704;Freguesia;Aldeia Viçosa
 LOCAL-090705;Freguesia;Alvendre
 LOCAL-090706;Freguesia;Arrifana
 LOCAL-090708;Freguesia;Avelãs da Ribeira
-LOCAL-090761;Freguesia;Avelãs de Ambom e Rocamondo
 LOCAL-090709;Freguesia;Benespera
 LOCAL-090711;Freguesia;Casal de Cinza
 LOCAL-090712;Freguesia;Castanheira
 LOCAL-090713;Freguesia;Cavadoude
 LOCAL-090714;Freguesia;Codesseiro
-LOCAL-090762;Freguesia;Corujeira e Trinta
 LOCAL-090716;Freguesia;Faia
 LOCAL-090717;Freguesia;Famalicão
 LOCAL-090718;Freguesia;Fernão Joanes
-LOCAL-090757;Freguesia;Gonçalo
 LOCAL-090721;Freguesia;Gonçalo Bocas
-LOCAL-090758;Freguesia;Guarda
-LOCAL-090759;Freguesia;Jarmelo São Miguel
-LOCAL-090760;Freguesia;Jarmelo São Pedro
 LOCAL-090722;Freguesia;João Antão
 LOCAL-090723;Freguesia;Maçainhas
 LOCAL-090724;Freguesia;Marmeleiro
 LOCAL-090725;Freguesia;Meios
-LOCAL-090763;Freguesia;Mizarela, Pêro Soares e Vila Soeiro
 LOCAL-090728;Freguesia;Panoias de Cima
 LOCAL-090729;Freguesia;Pega
 LOCAL-090730;Freguesia;Pêra do Moço
 LOCAL-090732;Freguesia;Porto da Carne
-LOCAL-090764;Freguesia;Pousade e Albardo
 LOCAL-090734;Freguesia;Ramela
-LOCAL-090765;Freguesia;Rochoso e Monte Margarida
 LOCAL-090738;Freguesia;Santana da Azinha
 LOCAL-090744;Freguesia;Sobral da Serra
 LOCAL-090746;Freguesia;Vale de Estrela
@@ -1472,10 +1450,20 @@ LOCAL-090750;Freguesia;Vila Cortês do Mondego
 LOCAL-090751;Freguesia;Vila Fernando
 LOCAL-090752;Freguesia;Vila Franca do Deão
 LOCAL-090753;Freguesia;Vila Garcia
+LOCAL-090757;Freguesia;Gonçalo
+LOCAL-090758;Freguesia;Guarda
+LOCAL-090759;Freguesia;Jarmelo São Miguel
+LOCAL-090760;Freguesia;Jarmelo São Pedro
+LOCAL-090761;Freguesia;Avelãs de Ambom e Rocamondo
+LOCAL-090762;Freguesia;Corujeira e Trinta
+LOCAL-090763;Freguesia;Mizarela, Pêro Soares e Vila Soeiro
+LOCAL-090764;Freguesia;Pousade e Albardo
+LOCAL-090765;Freguesia;Rochoso e Monte Margarida
+LOCAL-090766;Freguesia;Adão
 LOCAL-090800;Concelho;Manteigas
+LOCAL-090801;Freguesia;Sameiro
 LOCAL-090802;Freguesia;Manteigas (Santa Maria)
 LOCAL-090803;Freguesia;Manteigas (São Pedro)
-LOCAL-090801;Freguesia;Sameiro
 LOCAL-090804;Freguesia;Vale de Amoreira
 LOCAL-090900;Concelho;Mêda
 LOCAL-090901;Freguesia;Aveloso
@@ -1483,17 +1471,13 @@ LOCAL-090902;Freguesia;Barreira
 LOCAL-090905;Freguesia;Coriscada
 LOCAL-090907;Freguesia;Longroiva
 LOCAL-090908;Freguesia;Marialva
-LOCAL-090917;Freguesia;Mêda, Outeiro de Gatos e Fonte Longa
 LOCAL-090912;Freguesia;Poço do Canto
-LOCAL-090918;Freguesia;Prova e Casteição
 LOCAL-090914;Freguesia;Rabaçal
 LOCAL-090915;Freguesia;Ranhados
+LOCAL-090917;Freguesia;Mêda, Outeiro de Gatos e Fonte Longa
+LOCAL-090918;Freguesia;Prova e Casteição
 LOCAL-090919;Freguesia;Vale Flor, Carvalhal e Pai Penela
 LOCAL-091000;Concelho;Pinhel
-LOCAL-091028;Freguesia;Agregação das freguesias Sul de Pinhel
-LOCAL-091032;Freguesia;Alto do Palurdo
-LOCAL-091029;Freguesia;Alverca da Beira/Bouça Cova
-LOCAL-091035;Freguesia;Atalaia e Safurdão
 LOCAL-091009;Freguesia;Ervedosa
 LOCAL-091010;Freguesia;Freixedas
 LOCAL-091012;Freguesia;Lamegal
@@ -1503,16 +1487,19 @@ LOCAL-091015;Freguesia;Pala
 LOCAL-091017;Freguesia;Pinhel
 LOCAL-091018;Freguesia;Pínzio
 LOCAL-091024;Freguesia;Souro Pires
+LOCAL-091027;Freguesia;Vascoveiro
+LOCAL-091028;Freguesia;Agregação das freguesias Sul de Pinhel
+LOCAL-091029;Freguesia;Alverca da Beira/Bouça Cova
 LOCAL-091030;Freguesia;Terras de Massueime
 LOCAL-091031;Freguesia;Valbom/Bogalhal
+LOCAL-091032;Freguesia;Alto do Palurdo
 LOCAL-091033;Freguesia;Vale do Côa
 LOCAL-091034;Freguesia;Vale do Massueime
-LOCAL-091027;Freguesia;Vascoveiro
+LOCAL-091035;Freguesia;Atalaia e Safurdão
 LOCAL-091100;Concelho;Sabugal
 LOCAL-091101;Freguesia;Águas Belas
-LOCAL-091103;Freguesia;Aldeia da Ponte
-LOCAL-091141;Freguesia;Aldeia da Ribeira, Vilar Maior e Badamalos
 LOCAL-091102;Freguesia;Aldeia do Bispo
+LOCAL-091103;Freguesia;Aldeia da Ponte
 LOCAL-091106;Freguesia;Aldeia Velha
 LOCAL-091107;Freguesia;Alfaiates
 LOCAL-091109;Freguesia;Baraçal
@@ -1521,53 +1508,53 @@ LOCAL-091111;Freguesia;Bismula
 LOCAL-091112;Freguesia;Casteleiro
 LOCAL-091113;Freguesia;Cerdeira
 LOCAL-091114;Freguesia;Fóios
-LOCAL-091142;Freguesia;Lajeosa e Forcalhos
 LOCAL-091118;Freguesia;Malcata
 LOCAL-091120;Freguesia;Nave
-LOCAL-091143;Freguesia;Pousafoles do Bispo, Pena Lobo e Lomba
 LOCAL-091123;Freguesia;Quadrazais
 LOCAL-091124;Freguesia;Quintas de São Bartolomeu
 LOCAL-091125;Freguesia;Rapoula do Côa
 LOCAL-091126;Freguesia;Rebolosa
 LOCAL-091127;Freguesia;Rendo
-LOCAL-091144;Freguesia;Ruvina, Ruivós e Vale das Éguas
-LOCAL-091145;Freguesia;Sabugal e Aldeia de Santo António
-LOCAL-091146;Freguesia;Santo Estêvão e Moita
-LOCAL-091147;Freguesia;Seixo do Côa e Vale Longo
 LOCAL-091133;Freguesia;Sortelha
 LOCAL-091134;Freguesia;Souto
 LOCAL-091136;Freguesia;Vale de Espinho
 LOCAL-091138;Freguesia;Vila Boa
 LOCAL-091139;Freguesia;Vila do Touro
+LOCAL-091141;Freguesia;Aldeia da Ribeira, Vilar Maior e Badamalos
+LOCAL-091142;Freguesia;Lajeosa e Forcalhos
+LOCAL-091143;Freguesia;Pousafoles do Bispo, Pena Lobo e Lomba
+LOCAL-091144;Freguesia;Ruvina, Ruivós e Vale das Éguas
+LOCAL-091145;Freguesia;Sabugal e Aldeia de Santo António
+LOCAL-091146;Freguesia;Santo Estêvão e Moita
+LOCAL-091147;Freguesia;Seixo do Côa e Vale Longo
 LOCAL-091200;Concelho;Seia
 LOCAL-091201;Freguesia;Alvoco da Serra
-LOCAL-091230;Freguesia;Carragozela e Várzea de Meruge
 LOCAL-091205;Freguesia;Girabolhos
 LOCAL-091207;Freguesia;Loriga
 LOCAL-091208;Freguesia;Paranhos
 LOCAL-091209;Freguesia;Pinhanços
 LOCAL-091210;Freguesia;Sabugueiro
-LOCAL-091231;Freguesia;Sameice e Santa Eulália
 LOCAL-091212;Freguesia;Sandomil
 LOCAL-091213;Freguesia;Santa Comba
-LOCAL-091232;Freguesia;Santa Marinha e São Martinho
 LOCAL-091216;Freguesia;Santiago
 LOCAL-091219;Freguesia;Sazes da Beira
-LOCAL-091233;Freguesia;Seia, São Romão e Lapa dos Dinheiros
 LOCAL-091221;Freguesia;Teixeira
-LOCAL-091234;Freguesia;Torrozelo e Folhadosa
-LOCAL-091235;Freguesia;Tourais e Lajes
 LOCAL-091224;Freguesia;Travancinha
 LOCAL-091225;Freguesia;Valezim
-LOCAL-091236;Freguesia;Vide e Cabeça
 LOCAL-091228;Freguesia;Vila Cova à Coelheira
+LOCAL-091230;Freguesia;Carragozela e Várzea de Meruge
+LOCAL-091231;Freguesia;Sameice e Santa Eulália
+LOCAL-091232;Freguesia;Santa Marinha e São Martinho
+LOCAL-091233;Freguesia;Seia, São Romão e Lapa dos Dinheiros
+LOCAL-091234;Freguesia;Torrozelo e Folhadosa
+LOCAL-091235;Freguesia;Tourais e Lajes
+LOCAL-091236;Freguesia;Vide e Cabeça
 LOCAL-091300;Concelho;Trancoso
 LOCAL-091301;Freguesia;Aldeia Nova
 LOCAL-091303;Freguesia;Castanheira
 LOCAL-091304;Freguesia;Cogula
 LOCAL-091305;Freguesia;Cótimos
 LOCAL-091307;Freguesia;Fiães
-LOCAL-091330;Freguesia;Freches e Torres
 LOCAL-091309;Freguesia;Granja
 LOCAL-091310;Freguesia;Guilheiro
 LOCAL-091311;Freguesia;Moimentinha
@@ -1577,9 +1564,10 @@ LOCAL-091314;Freguesia;Póvoa do Concelho
 LOCAL-091315;Freguesia;Reboleiro
 LOCAL-091316;Freguesia;Rio de Mel
 LOCAL-091321;Freguesia;Tamanhos
+LOCAL-091325;Freguesia;Valdujo
+LOCAL-091330;Freguesia;Freches e Torres
 LOCAL-091331;Freguesia;Torre do Terrenho, Sebadelhe da Serra e Terrenho
 LOCAL-091332;Freguesia;Trancoso (São Pedro e Santa Maria) e Souto Maior
-LOCAL-091325;Freguesia;Valdujo
 LOCAL-091333;Freguesia;Vale do Seixo e Vila Garcia
 LOCAL-091334;Freguesia;Vila Franca das Naves e Feital
 LOCAL-091335;Freguesia;Vilares e Carnicães
@@ -1589,7 +1577,6 @@ LOCAL-091402;Freguesia;Castelo Melhor
 LOCAL-091403;Freguesia;Cedovim
 LOCAL-091404;Freguesia;Chãs
 LOCAL-091405;Freguesia;Custóias
-LOCAL-091418;Freguesia;Freixo de Numão
 LOCAL-091407;Freguesia;Horta
 LOCAL-091410;Freguesia;Muxagata
 LOCAL-091411;Freguesia;Numão
@@ -1597,57 +1584,59 @@ LOCAL-091412;Freguesia;Santa Comba
 LOCAL-091414;Freguesia;Sebadelhe
 LOCAL-091415;Freguesia;Seixas
 LOCAL-091416;Freguesia;Touça
+LOCAL-091418;Freguesia;Freixo de Numão
 LOCAL-091419;Freguesia;Vila Nova de Foz Côa
+LOCAL-100000;Distrito;Leiria
 LOCAL-100100;Concelho;Alcobaça
-LOCAL-100121;Freguesia;Alcobaça e Vestiaria
 LOCAL-100102;Freguesia;Alfeizerão
-LOCAL-100120;Freguesia;Aljubarrota
 LOCAL-100104;Freguesia;Bárrio
 LOCAL-100105;Freguesia;Benedita
 LOCAL-100106;Freguesia;Cela
-LOCAL-100122;Freguesia;Coz, Alpedriz e Montes
 LOCAL-100108;Freguesia;Évora de Alcobaça
 LOCAL-100109;Freguesia;Maiorga
-LOCAL-100123;Freguesia;Pataias e Martingança
 LOCAL-100112;Freguesia;São Martinho do Porto
 LOCAL-100114;Freguesia;Turquel
 LOCAL-100116;Freguesia;Vimeiro
+LOCAL-100120;Freguesia;Aljubarrota
+LOCAL-100121;Freguesia;Alcobaça e Vestiaria
+LOCAL-100122;Freguesia;Coz, Alpedriz e Montes
+LOCAL-100123;Freguesia;Pataias e Martingança
 LOCAL-100200;Concelho;Alvaiázere
 LOCAL-100201;Freguesia;Almoster
-LOCAL-100208;Freguesia;Alvaiázere
 LOCAL-100204;Freguesia;Maçãs de Dona Maria
 LOCAL-100205;Freguesia;Pelmá
+LOCAL-100208;Freguesia;Alvaiázere
 LOCAL-100209;Freguesia;Pussos São Pedro
 LOCAL-100300;Concelho;Ansião
 LOCAL-100301;Freguesia;Alvorge
-LOCAL-100309;Freguesia;Ansião
 LOCAL-100303;Freguesia;Avelar
 LOCAL-100304;Freguesia;Chão de Couce
 LOCAL-100306;Freguesia;Pousaflores
 LOCAL-100307;Freguesia;Santiago da Guarda
+LOCAL-100309;Freguesia;Ansião
 LOCAL-100400;Concelho;Batalha
 LOCAL-100401;Freguesia;Batalha
-LOCAL-100404;Freguesia;Golpilheira
 LOCAL-100402;Freguesia;Reguengo do Fetal
 LOCAL-100403;Freguesia;São Mamede
+LOCAL-100404;Freguesia;Golpilheira
 LOCAL-100500;Concelho;Bombarral
-LOCAL-100506;Freguesia;Bombarral e Vale Covo
 LOCAL-100502;Freguesia;Carvalhal
-LOCAL-100505;Freguesia;Pó
 LOCAL-100503;Freguesia;Roliça
+LOCAL-100505;Freguesia;Pó
+LOCAL-100506;Freguesia;Bombarral e Vale Covo
 LOCAL-100600;Concelho;Caldas da Rainha
 LOCAL-100601;Freguesia;A dos Francos
 LOCAL-100602;Freguesia;Alvorninha
-LOCAL-100618;Freguesia;Caldas da Rainha - Santo Onofre e Serra do Bouro
 LOCAL-100604;Freguesia;Carvalhal Benfeito
 LOCAL-100606;Freguesia;Foz do Arelho
 LOCAL-100607;Freguesia;Landal
 LOCAL-100608;Freguesia;Nadadouro
-LOCAL-100617;Freguesia;Nossa Senhora do Pópulo, Coto e São Gregório
 LOCAL-100609;Freguesia;Salir de Matos
 LOCAL-100611;Freguesia;Santa Catarina
-LOCAL-100619;Freguesia;Tornada e Salir do Porto
 LOCAL-100615;Freguesia;Vidais
+LOCAL-100617;Freguesia;Nossa Senhora do Pópulo, Coto e São Gregório
+LOCAL-100618;Freguesia;Caldas da Rainha - Santo Onofre e Serra do Bouro
+LOCAL-100619;Freguesia;Tornada e Salir do Porto
 LOCAL-100700;Concelho;Castanheira de Pêra
 LOCAL-100703;Freguesia;Castanheira de Pêra e Coentral
 LOCAL-100800;Concelho;Figueiró dos Vinhos
@@ -1658,26 +1647,26 @@ LOCAL-100806;Freguesia;Figueiró dos Vinhos e Bairradas
 LOCAL-100900;Concelho;Leiria
 LOCAL-100901;Freguesia;Amor
 LOCAL-100902;Freguesia;Arrabal
-LOCAL-100925;Freguesia;Bajouca
-LOCAL-100926;Freguesia;Bidoeira de Cima
 LOCAL-100907;Freguesia;Caranguejeira
 LOCAL-100909;Freguesia;Coimbrão
+LOCAL-100913;Freguesia;Maceira
+LOCAL-100915;Freguesia;Milagres
+LOCAL-100921;Freguesia;Regueira de Pontes
+LOCAL-100925;Freguesia;Bajouca
+LOCAL-100926;Freguesia;Bidoeira de Cima
 LOCAL-100932;Freguesia;Colmeias e Memória
 LOCAL-100933;Freguesia;Leiria, Pousos, Barreira e Cortes
-LOCAL-100913;Freguesia;Maceira
 LOCAL-100934;Freguesia;Marrazes e Barosa
-LOCAL-100915;Freguesia;Milagres
 LOCAL-100935;Freguesia;Monte Real e Carvide
 LOCAL-100936;Freguesia;Monte Redondo e Carreira
 LOCAL-100937;Freguesia;Parceiros e Azoia
-LOCAL-100921;Freguesia;Regueira de Pontes
 LOCAL-100938;Freguesia;Santa Catarina da Serra e Chainça
 LOCAL-100939;Freguesia;Santa Eufémia e Boa Vista
 LOCAL-100940;Freguesia;Souto da Carpalhosa e Ortigosa
 LOCAL-101000;Concelho;Marinha Grande
 LOCAL-101001;Freguesia;Marinha Grande
-LOCAL-101003;Freguesia;Moita
 LOCAL-101002;Freguesia;Vieira de Leiria
+LOCAL-101003;Freguesia;Moita
 LOCAL-101100;Concelho;Nazaré
 LOCAL-101101;Freguesia;Famalicão
 LOCAL-101102;Freguesia;Nazaré
@@ -1685,57 +1674,58 @@ LOCAL-101103;Freguesia;Valado dos Frades
 LOCAL-101200;Concelho;Óbidos
 LOCAL-101201;Freguesia;A dos Negros
 LOCAL-101202;Freguesia;Amoreira
-LOCAL-101208;Freguesia;Gaeiras
 LOCAL-101203;Freguesia;Olho Marinho
-LOCAL-101210;Freguesia;Santa Maria, São Pedro e Sobral da Lagoa
-LOCAL-101209;Freguesia;Usseira
 LOCAL-101207;Freguesia;Vau
+LOCAL-101208;Freguesia;Gaeiras
+LOCAL-101209;Freguesia;Usseira
+LOCAL-101210;Freguesia;Santa Maria, São Pedro e Sobral da Lagoa
 LOCAL-101300;Concelho;Pedrógão Grande
 LOCAL-101301;Freguesia;Graça
 LOCAL-101302;Freguesia;Pedrógão Grande
 LOCAL-101303;Freguesia;Vila Facaia
 LOCAL-101400;Concelho;Peniche
 LOCAL-101402;Freguesia;Atouguia da Baleia
+LOCAL-101405;Freguesia;Serra d'El-Rei
 LOCAL-101406;Freguesia;Ferrel
 LOCAL-101407;Freguesia;Peniche
-LOCAL-101405;Freguesia;Serra d'El-Rei
 LOCAL-101500;Concelho;Pombal
 LOCAL-101501;Freguesia;Abiul
 LOCAL-101503;Freguesia;Almagreira
 LOCAL-101504;Freguesia;Carnide
 LOCAL-101505;Freguesia;Carriço
-LOCAL-101518;Freguesia;Guia, Ilha e Mata Mourisca
 LOCAL-101506;Freguesia;Louriçal
-LOCAL-101515;Freguesia;Meirinhas
 LOCAL-101508;Freguesia;Pelariga
 LOCAL-101509;Freguesia;Pombal
 LOCAL-101510;Freguesia;Redinha
-LOCAL-101519;Freguesia;Santiago e S.Simão de Litém e Albergaria dos Doze
 LOCAL-101513;Freguesia;Vermoil
 LOCAL-101514;Freguesia;Vila Cã
+LOCAL-101515;Freguesia;Meirinhas
+LOCAL-101518;Freguesia;Guia, Ilha e Mata Mourisca
+LOCAL-101519;Freguesia;Santiago e S.Simão de Litém e Albergaria dos Doze
 LOCAL-101600;Concelho;Porto de Mós
 LOCAL-101602;Freguesia;Alqueidão da Serra
-LOCAL-101615;Freguesia;Alvados e Alcaria
-LOCAL-101616;Freguesia;Arrimal e Mendiga
 LOCAL-101605;Freguesia;Calvaria de Cima
 LOCAL-101606;Freguesia;Juncal
 LOCAL-101608;Freguesia;Mira de Aire
 LOCAL-101609;Freguesia;Pedreiras
-LOCAL-101614;Freguesia;Porto de Mós - São João Baptista e São Pedro
 LOCAL-101610;Freguesia;São Bento
 LOCAL-101613;Freguesia;Serro Ventoso
+LOCAL-101614;Freguesia;Porto de Mós - São João Baptista e São Pedro
+LOCAL-101615;Freguesia;Alvados e Alcaria
+LOCAL-101616;Freguesia;Arrimal e Mendiga
+LOCAL-110000;Distrito;Lisboa
 LOCAL-110100;Concelho;Alenquer
-LOCAL-110117;Freguesia;Abrigada e Cabanas de Torres
-LOCAL-110118;Freguesia;Aldeia Galega da Merceana e Aldeia Gavinha
-LOCAL-110119;Freguesia;Alenquer (Santo Estêvão e Triana)
 LOCAL-110106;Freguesia;Carnota
-LOCAL-110120;Freguesia;Carregado e Cadafais
 LOCAL-110107;Freguesia;Meca
 LOCAL-110108;Freguesia;Olhalvo
 LOCAL-110109;Freguesia;Ota
-LOCAL-110121;Freguesia;Ribafria e Pereiro de Palhacana
 LOCAL-110113;Freguesia;Ventosa
 LOCAL-110114;Freguesia;Vila Verde dos Francos
+LOCAL-110117;Freguesia;Abrigada e Cabanas de Torres
+LOCAL-110118;Freguesia;Aldeia Galega da Merceana e Aldeia Gavinha
+LOCAL-110119;Freguesia;Alenquer (Santo Estêvão e Triana)
+LOCAL-110120;Freguesia;Carregado e Cadafais
+LOCAL-110121;Freguesia;Ribafria e Pereiro de Palhacana
 LOCAL-110200;Concelho;Arruda dos Vinhos
 LOCAL-110201;Freguesia;Arranhó
 LOCAL-110202;Freguesia;Arruda dos Vinhos
@@ -1746,50 +1736,49 @@ LOCAL-110301;Freguesia;Alcoentre
 LOCAL-110302;Freguesia;Aveiras de Baixo
 LOCAL-110303;Freguesia;Aveiras de Cima
 LOCAL-110304;Freguesia;Azambuja
-LOCAL-110310;Freguesia;Manique do Intendente, V.N.de S.Pedro e Maçussa
 LOCAL-110306;Freguesia;Vale do Paraíso
 LOCAL-110307;Freguesia;Vila Nova da Rainha
+LOCAL-110310;Freguesia;Manique do Intendente, V.N.de S.Pedro e Maçussa
 LOCAL-110400;Concelho;Cadaval
 LOCAL-110401;Freguesia;Alguber
-LOCAL-110411;Freguesia;Cadaval e Pêro Moniz
-LOCAL-110412;Freguesia;Lamas e Cercal
-LOCAL-110413;Freguesia;Painho e Figueiros
 LOCAL-110407;Freguesia;Peral
 LOCAL-110409;Freguesia;Vermelha
 LOCAL-110410;Freguesia;Vilar
+LOCAL-110411;Freguesia;Cadaval e Pêro Moniz
+LOCAL-110412;Freguesia;Lamas e Cercal
+LOCAL-110413;Freguesia;Painho e Figueiros
 LOCAL-110500;Concelho;Cascais
 LOCAL-110501;Freguesia;Alcabideche
+LOCAL-110506;Freguesia;São Domingos de Rana
 LOCAL-110507;Freguesia;Carcavelos e Parede
 LOCAL-110508;Freguesia;Cascais e Estoril
-LOCAL-110506;Freguesia;São Domingos de Rana
 LOCAL-110600;Concelho;Lisboa
 LOCAL-110601;Freguesia;Ajuda
 LOCAL-110602;Freguesia;Alcântara
+LOCAL-110607;Freguesia;Beato
+LOCAL-110608;Freguesia;Benfica
+LOCAL-110610;Freguesia;Campolide
+LOCAL-110611;Freguesia;Carnide
+LOCAL-110618;Freguesia;Lumiar
+LOCAL-110621;Freguesia;Marvila
+LOCAL-110633;Freguesia;Olivais
+LOCAL-110639;Freguesia;São Domingos de Benfica
 LOCAL-110654;Freguesia;Alvalade
 LOCAL-110655;Freguesia;Areeiro
 LOCAL-110656;Freguesia;Arroios
 LOCAL-110657;Freguesia;Avenidas Novas
-LOCAL-110607;Freguesia;Beato
 LOCAL-110658;Freguesia;Belém
-LOCAL-110608;Freguesia;Benfica
 LOCAL-110659;Freguesia;Campo de Ourique
-LOCAL-110610;Freguesia;Campolide
-LOCAL-110611;Freguesia;Carnide
 LOCAL-110660;Freguesia;Estrela
-LOCAL-110618;Freguesia;Lumiar
-LOCAL-110621;Freguesia;Marvila
 LOCAL-110661;Freguesia;Misericórdia
-LOCAL-110633;Freguesia;Olivais
 LOCAL-110662;Freguesia;Parque das Nações
 LOCAL-110663;Freguesia;Penha de França
 LOCAL-110664;Freguesia;Santa Clara
 LOCAL-110665;Freguesia;Santa Maria Maior
 LOCAL-110666;Freguesia;Santo António
-LOCAL-110639;Freguesia;São Domingos de Benfica
 LOCAL-110667;Freguesia;São Vicente
 LOCAL-110700;Concelho;Loures
 LOCAL-110702;Freguesia;Bucelas
-LOCAL-110731;Freguesia;Camarate, Unhos e Apelação
 LOCAL-110705;Freguesia;Fanhões
 LOCAL-110707;Freguesia;Loures
 LOCAL-110708;Freguesia;Lousa
@@ -1798,73 +1787,74 @@ LOCAL-110727;Freguesia;Sacavém e Prior Velho
 LOCAL-110728;Freguesia;Santa Iria de Azoia, São João da Talha e Bobadela
 LOCAL-110729;Freguesia;Santo Antão e São Julião do Tojal
 LOCAL-110730;Freguesia;Santo António dos Cavaleiros e Frielas
+LOCAL-110731;Freguesia;Camarate, Unhos e Apelação
 LOCAL-110800;Concelho;Lourinhã
-LOCAL-110812;Freguesia;Lourinhã e Atalaia
-LOCAL-110813;Freguesia;Miragaia e Marteleira
 LOCAL-110803;Freguesia;Moita dos Ferreiros
 LOCAL-110805;Freguesia;Reguengo Grande
-LOCAL-110810;Freguesia;Ribamar
 LOCAL-110806;Freguesia;Santa Bárbara
-LOCAL-110814;Freguesia;São Bartolomeu dos Galegos e Moledo
 LOCAL-110808;Freguesia;Vimeiro
+LOCAL-110810;Freguesia;Ribamar
+LOCAL-110812;Freguesia;Lourinhã e Atalaia
+LOCAL-110813;Freguesia;Miragaia e Marteleira
+LOCAL-110814;Freguesia;São Bartolomeu dos Galegos e Moledo
 LOCAL-110900;Concelho;Mafra
-LOCAL-110918;Freguesia;Azueira e Sobral da Abelheira
 LOCAL-110902;Freguesia;Carvoeira
 LOCAL-110904;Freguesia;Encarnação
-LOCAL-110919;Freguesia;Enxara do Bispo, Gradil e Vila Franca do Rosário
 LOCAL-110906;Freguesia;Ericeira
-LOCAL-110920;Freguesia;Igreja Nova e Cheleiros
 LOCAL-110909;Freguesia;Mafra
-LOCAL-110921;Freguesia;Malveira e São Miguel de Alcainça
 LOCAL-110911;Freguesia;Milharado
 LOCAL-110913;Freguesia;Santo Isidoro
+LOCAL-110918;Freguesia;Azueira e Sobral da Abelheira
+LOCAL-110919;Freguesia;Enxara do Bispo, Gradil e Vila Franca do Rosário
+LOCAL-110920;Freguesia;Igreja Nova e Cheleiros
+LOCAL-110921;Freguesia;Malveira e São Miguel de Alcainça
 LOCAL-110922;Freguesia;Venda do Pinheiro e Santo Estêvão das Galés
 LOCAL-111000;Concelho;Oeiras
-LOCAL-111012;Freguesia;Algés, Linda-a-Velha e Cruz Quebrada-Dafundo
 LOCAL-111002;Freguesia;Barcarena
+LOCAL-111009;Freguesia;Porto Salvo
+LOCAL-111012;Freguesia;Algés, Linda-a-Velha e Cruz Quebrada-Dafundo
 LOCAL-111013;Freguesia;Carnaxide e Queijas
 LOCAL-111014;Freguesia;Oeiras e S.Julião da Barra, Paço de Arcos e Caxias
-LOCAL-111009;Freguesia;Porto Salvo
 LOCAL-111100;Concelho;Sintra
-LOCAL-111122;Freguesia;Agualva e Mira-Sintra
 LOCAL-111102;Freguesia;Algueirão-Mem Martins
+LOCAL-111105;Freguesia;Colares
+LOCAL-111108;Freguesia;Rio de Mouro
+LOCAL-111115;Freguesia;Casal de Cambra
+LOCAL-111122;Freguesia;Agualva e Mira-Sintra
 LOCAL-111123;Freguesia;Almargem do Bispo, Pêro Pinheiro e Montelavar
 LOCAL-111124;Freguesia;Cacém e São Marcos
-LOCAL-111115;Freguesia;Casal de Cambra
-LOCAL-111105;Freguesia;Colares
 LOCAL-111125;Freguesia;Massamá e Monte Abraão
 LOCAL-111126;Freguesia;Queluz e Belas
-LOCAL-111108;Freguesia;Rio de Mouro
-LOCAL-111128;Freguesia;S.Maria, S.Miguel, S.Martinho, S.Pedro Penaferrim
 LOCAL-111127;Freguesia;São João das Lampas e Terrugem
+LOCAL-111128;Freguesia;S.Maria, S.Miguel, S.Martinho, S.Pedro Penaferrim
 LOCAL-111200;Concelho;Sobral de Monte Agraço
 LOCAL-111201;Freguesia;Santo Quintino
 LOCAL-111202;Freguesia;Sapataria
 LOCAL-111203;Freguesia;Sobral de Monte Agraço
 LOCAL-111300;Concelho;Torres Vedras
-LOCAL-111321;Freguesia;A dos Cunhados e Maceira
-LOCAL-111322;Freguesia;Campelos e Outeiro da Cabeça
-LOCAL-111323;Freguesia;Carvoeira e Carmões
-LOCAL-111324;Freguesia;Dois Portos e Runa
 LOCAL-111306;Freguesia;Freiria
-LOCAL-111325;Freguesia;Maxial e Monte Redondo
 LOCAL-111310;Freguesia;Ponte do Rol
 LOCAL-111311;Freguesia;Ramalhal
-LOCAL-111326;Freguesia;Santa Maria, São Pedro e Matacães
 LOCAL-111314;Freguesia;São Pedro da Cadeira
 LOCAL-111316;Freguesia;Silveira
 LOCAL-111317;Freguesia;Turcifal
 LOCAL-111318;Freguesia;Ventosa
+LOCAL-111321;Freguesia;A dos Cunhados e Maceira
+LOCAL-111322;Freguesia;Campelos e Outeiro da Cabeça
+LOCAL-111323;Freguesia;Carvoeira e Carmões
+LOCAL-111324;Freguesia;Dois Portos e Runa
+LOCAL-111325;Freguesia;Maxial e Monte Redondo
+LOCAL-111326;Freguesia;Santa Maria, São Pedro e Matacães
 LOCAL-111400;Concelho;Vila Franca de Xira
+LOCAL-111408;Freguesia;Vialonga
+LOCAL-111409;Freguesia;Vila Franca de Xira
 LOCAL-111412;Freguesia;Alhandra, São João dos Montes e Calhandriz
 LOCAL-111413;Freguesia;Alverca do Ribatejo e Sobralinho
 LOCAL-111414;Freguesia;Castanheira do Ribatejo e Cachoeiras
 LOCAL-111415;Freguesia;Póvoa de Santa Iria e Forte da Casa
-LOCAL-111408;Freguesia;Vialonga
-LOCAL-111409;Freguesia;Vila Franca de Xira
 LOCAL-111500;Concelho;Amadora
-LOCAL-111513;Freguesia;Águas Livres
 LOCAL-111512;Freguesia;Alfragide
+LOCAL-111513;Freguesia;Águas Livres
 LOCAL-111514;Freguesia;Encosta do Sol
 LOCAL-111515;Freguesia;Falagueira-Venda Nova
 LOCAL-111516;Freguesia;Mina de Água
@@ -1874,22 +1864,23 @@ LOCAL-111603;Freguesia;Odivelas
 LOCAL-111608;Freguesia;Pontinha e Famões
 LOCAL-111609;Freguesia;Póvoa de Santo Adrião e Olival Basto
 LOCAL-111610;Freguesia;Ramada e Caneças
+LOCAL-120000;Distrito;Portalegre
 LOCAL-120100;Concelho;Alter do Chão
 LOCAL-120101;Freguesia;Alter do Chão
 LOCAL-120102;Freguesia;Chancelaria
-LOCAL-120104;Freguesia;Cunheira
 LOCAL-120103;Freguesia;Seda
+LOCAL-120104;Freguesia;Cunheira
 LOCAL-120200;Concelho;Arronches
 LOCAL-120201;Freguesia;Assunção
 LOCAL-120202;Freguesia;Esperança
 LOCAL-120203;Freguesia;Mosteiros
 LOCAL-120300;Concelho;Avis
-LOCAL-120309;Freguesia;Alcórrego e Maranhão
 LOCAL-120302;Freguesia;Aldeia Velha
 LOCAL-120303;Freguesia;Avis
-LOCAL-120310;Freguesia;Benavila e Valongo
 LOCAL-120305;Freguesia;Ervedal
 LOCAL-120306;Freguesia;Figueira e Barros
+LOCAL-120309;Freguesia;Alcórrego e Maranhão
+LOCAL-120310;Freguesia;Benavila e Valongo
 LOCAL-120400;Concelho;Campo Maior
 LOCAL-120401;Freguesia;Nossa Senhora da Expectação
 LOCAL-120402;Freguesia;Nossa Senhora da Graça dos Degolados
@@ -1901,16 +1892,16 @@ LOCAL-120503;Freguesia;Santiago Maior
 LOCAL-120504;Freguesia;São João Baptista
 LOCAL-120600;Concelho;Crato
 LOCAL-120601;Freguesia;Aldeia da Mata
-LOCAL-120607;Freguesia;Crato e Mártires, Flor da Rosa e Vale do Peso
 LOCAL-120604;Freguesia;Gáfete
 LOCAL-120605;Freguesia;Monte da Pedra
+LOCAL-120607;Freguesia;Crato e Mártires, Flor da Rosa e Vale do Peso
 LOCAL-120700;Concelho;Elvas
-LOCAL-120712;Freguesia;Assunção, Ajuda, Salvador e Santo Ildefonso
-LOCAL-120714;Freguesia;Barbacena e Vila Fernando
-LOCAL-120713;Freguesia;Caia, São Pedro e Alcáçova
 LOCAL-120706;Freguesia;Santa Eulália
 LOCAL-120707;Freguesia;São Brás e São Lourenço
 LOCAL-120708;Freguesia;São Vicente e Ventosa
+LOCAL-120712;Freguesia;Assunção, Ajuda, Salvador e Santo Ildefonso
+LOCAL-120713;Freguesia;Caia, São Pedro e Alcáçova
+LOCAL-120714;Freguesia;Barbacena e Vila Fernando
 LOCAL-120715;Freguesia;Terrugem e Vila Boim
 LOCAL-120800;Concelho;Fronteira
 LOCAL-120801;Freguesia;Cabeço de Vide
@@ -1919,8 +1910,8 @@ LOCAL-120803;Freguesia;São Saturnino
 LOCAL-120900;Concelho;Gavião
 LOCAL-120902;Freguesia;Belver
 LOCAL-120903;Freguesia;Comenda
-LOCAL-120906;Freguesia;Gavião e Atalaia
 LOCAL-120905;Freguesia;Margem
+LOCAL-120906;Freguesia;Gavião e Atalaia
 LOCAL-121000;Concelho;Marvão
 LOCAL-121001;Freguesia;Beirã
 LOCAL-121002;Freguesia;Santa Maria de Marvão
@@ -1933,82 +1924,80 @@ LOCAL-121103;Freguesia;Santo Aleixo
 LOCAL-121104;Freguesia;Vaiamonte
 LOCAL-121200;Concelho;Nisa
 LOCAL-121201;Freguesia;Alpalhão
-LOCAL-121211;Freguesia;Arez e Amieira do Tejo
-LOCAL-121212;Freguesia;Espírito Santo, Nossa Senhora da Graça e São Simão
 LOCAL-121205;Freguesia;Montalvão
 LOCAL-121207;Freguesia;Santana
 LOCAL-121208;Freguesia;São Matias
 LOCAL-121210;Freguesia;Tolosa
+LOCAL-121211;Freguesia;Arez e Amieira do Tejo
+LOCAL-121212;Freguesia;Espírito Santo, Nossa Senhora da Graça e São Simão
 LOCAL-121300;Concelho;Ponte de Sor
-LOCAL-121304;Freguesia;Foros de Arrão
 LOCAL-121301;Freguesia;Galveias
-LOCAL-121305;Freguesia;Longomel
 LOCAL-121302;Freguesia;Montargil
+LOCAL-121304;Freguesia;Foros de Arrão
+LOCAL-121305;Freguesia;Longomel
 LOCAL-121308;Freguesia;Ponte de Sor, Tramaga e Vale de Açor
 LOCAL-121400;Concelho;Portalegre
 LOCAL-121401;Freguesia;Alagoa
 LOCAL-121402;Freguesia;Alegrete
 LOCAL-121404;Freguesia;Fortios
+LOCAL-121410;Freguesia;Urra
+LOCAL-121411;Freguesia;Sé e São Lourenço
 LOCAL-121412;Freguesia;Reguengo e São Julião
 LOCAL-121413;Freguesia;Ribeira de Nisa e Carreiras
-LOCAL-121411;Freguesia;Sé e São Lourenço
-LOCAL-121410;Freguesia;Urra
 LOCAL-121500;Concelho;Sousel
 LOCAL-121501;Freguesia;Cano
 LOCAL-121502;Freguesia;Casa Branca
 LOCAL-121503;Freguesia;Santo Amaro
 LOCAL-121504;Freguesia;Sousel
+LOCAL-130000;Distrito;Porto
 LOCAL-130100;Concelho;Amarante
-LOCAL-130141;Freguesia;Aboadela, Sanche e Várzea
-LOCAL-130142;Freguesia;Amarante (São Gonçalo), Madalena, Cepelos e Gatão
 LOCAL-130103;Freguesia;Ansiães
-LOCAL-130143;Freguesia;Bustelo, Carneiro e Carvalho de Rei
 LOCAL-130107;Freguesia;Candemil
-LOCAL-130144;Freguesia;Figueiró (Santiago e Santa Cristina)
 LOCAL-130112;Freguesia;Fregim
-LOCAL-130145;Freguesia;Freixo de Cima e de Baixo
 LOCAL-130115;Freguesia;Fridão
 LOCAL-130117;Freguesia;Gondar
-LOCAL-130134;Freguesia;Gouveia (São Simão)
 LOCAL-130118;Freguesia;Jazente
 LOCAL-130119;Freguesia;Lomba
 LOCAL-130120;Freguesia;Louredo
 LOCAL-130121;Freguesia;Lufrei
 LOCAL-130123;Freguesia;Mancelos
-LOCAL-130146;Freguesia;Olo e Canadelo
 LOCAL-130126;Freguesia;Padronelo
 LOCAL-130128;Freguesia;Rebordelo
 LOCAL-130129;Freguesia;Salvador do Monte
+LOCAL-130134;Freguesia;Gouveia (São Simão)
 LOCAL-130135;Freguesia;Telões
 LOCAL-130136;Freguesia;Travanca
 LOCAL-130138;Freguesia;Vila Caiz
 LOCAL-130139;Freguesia;Vila Chã do Marão
-LOCAL-130148;Freguesia;Vila Garcia, Aboim e Chapa
+LOCAL-130141;Freguesia;Aboadela, Sanche e Várzea
+LOCAL-130142;Freguesia;Amarante (São Gonçalo), Madalena, Cepelos e Gatão
+LOCAL-130143;Freguesia;Bustelo, Carneiro e Carvalho de Rei
+LOCAL-130144;Freguesia;Figueiró (Santiago e Santa Cristina)
+LOCAL-130145;Freguesia;Freixo de Cima e de Baixo
+LOCAL-130146;Freguesia;Olo e Canadelo
 LOCAL-130147;Freguesia;Vila Meã
+LOCAL-130148;Freguesia;Vila Garcia, Aboim e Chapa
 LOCAL-130200;Concelho;Baião
-LOCAL-130221;Freguesia;Ancede e Ribadouro
-LOCAL-130222;Freguesia;Baião (Santa Leocádia) e Mesquinhata
-LOCAL-130223;Freguesia;Campelo e Ovil
 LOCAL-130204;Freguesia;Frende
 LOCAL-130205;Freguesia;Gestaçô
 LOCAL-130206;Freguesia;Gove
 LOCAL-130207;Freguesia;Grilo
-LOCAL-130224;Freguesia;Loivos da Ribeira e Tresouras
 LOCAL-130208;Freguesia;Loivos do Monte
-LOCAL-130225;Freguesia;Santa Cruz do Douro e São Tomé de Covelas
 LOCAL-130215;Freguesia;Santa Marinha do Zêzere
-LOCAL-130226;Freguesia;Teixeira e Teixeiró
 LOCAL-130219;Freguesia;Valadares
 LOCAL-130220;Freguesia;Viariz
+LOCAL-130221;Freguesia;Ancede e Ribadouro
+LOCAL-130222;Freguesia;Baião (Santa Leocádia) e Mesquinhata
+LOCAL-130223;Freguesia;Campelo e Ovil
+LOCAL-130224;Freguesia;Loivos da Ribeira e Tresouras
+LOCAL-130225;Freguesia;Santa Cruz do Douro e São Tomé de Covelas
+LOCAL-130226;Freguesia;Teixeira e Teixeiró
 LOCAL-130300;Concelho;Felgueiras
 LOCAL-130301;Freguesia;Aião
 LOCAL-130302;Freguesia;Airães
 LOCAL-130305;Freguesia;Friande
 LOCAL-130306;Freguesia;Idães
 LOCAL-130307;Freguesia;Jugueiros
-LOCAL-130334;Freguesia;Macieira da Lixa e Caramos
-LOCAL-130335;Freguesia;Margaride, Várzea, Lagares, Varziela e Moure
-LOCAL-130336;Freguesia;Pedreira, Rande e Sernande
 LOCAL-130313;Freguesia;Penacova
 LOCAL-130314;Freguesia;Pinheiro
 LOCAL-130315;Freguesia;Pombeiro de Ribavizela
@@ -2016,63 +2005,66 @@ LOCAL-130317;Freguesia;Refontoura
 LOCAL-130318;Freguesia;Regilde
 LOCAL-130319;Freguesia;Revinhade
 LOCAL-130324;Freguesia;Sendim
+LOCAL-130334;Freguesia;Macieira da Lixa e Caramos
+LOCAL-130335;Freguesia;Margaride, Várzea, Lagares, Varziela e Moure
+LOCAL-130336;Freguesia;Pedreira, Rande e Sernande
 LOCAL-130337;Freguesia;Torrados e Sousa
 LOCAL-130338;Freguesia;Unhão e Lordelo
 LOCAL-130339;Freguesia;Vila Cova da Lixa e Borba de Godim
 LOCAL-130340;Freguesia;Vila Fria e Vizela (São Jorge)
 LOCAL-130341;Freguesia;Vila Verde e Santão
 LOCAL-130400;Concelho;Gondomar
+LOCAL-130405;Freguesia;Lomba
+LOCAL-130408;Freguesia;Rio Tinto
 LOCAL-130412;Freguesia;Baguim do Monte (Rio Tinto)
 LOCAL-130413;Freguesia;Fânzeres e São Pedro da Cova
 LOCAL-130414;Freguesia;Foz do Sousa e Covelo
 LOCAL-130415;Freguesia;Gondomar (São Cosme), Valbom e Jovim
-LOCAL-130405;Freguesia;Lomba
 LOCAL-130416;Freguesia;Melres e Medas
-LOCAL-130408;Freguesia;Rio Tinto
 LOCAL-130500;Concelho;Lousada
 LOCAL-130502;Freguesia;Aveleda
 LOCAL-130504;Freguesia;Caíde de Rei
-LOCAL-130527;Freguesia;Cernadelo e Lousada (São Miguel e Santa Margarida)
-LOCAL-130528;Freguesia;Cristelos, Boim e Ordem
-LOCAL-130529;Freguesia;Figueiras e Covas
 LOCAL-130510;Freguesia;Lodares
-LOCAL-130530;Freguesia;Lustosa e Barrosas (Santo Estêvão)
 LOCAL-130512;Freguesia;Macieira
 LOCAL-130513;Freguesia;Meinedo
-LOCAL-130531;Freguesia;Nespereira e Casais
 LOCAL-130515;Freguesia;Nevogilde
-LOCAL-130532;Freguesia;Silvares, Pias, Nogueira e Alvarenga
 LOCAL-130524;Freguesia;Sousela
 LOCAL-130525;Freguesia;Torno
 LOCAL-130526;Freguesia;Vilar do Torno e Alentém
+LOCAL-130527;Freguesia;Cernadelo e Lousada (São Miguel e Santa Margarida)
+LOCAL-130528;Freguesia;Cristelos, Boim e Ordem
+LOCAL-130529;Freguesia;Figueiras e Covas
+LOCAL-130530;Freguesia;Lustosa e Barrosas (Santo Estêvão)
+LOCAL-130531;Freguesia;Nespereira e Casais
+LOCAL-130532;Freguesia;Silvares, Pias, Nogueira e Alvarenga
 LOCAL-130600;Concelho;Maia
 LOCAL-130601;Freguesia;Águas Santas
-LOCAL-130618;Freguesia;Castêlo da Maia
-LOCAL-130619;Freguesia;Cidade da Maia
 LOCAL-130603;Freguesia;Folgosa
 LOCAL-130608;Freguesia;Milheirós
 LOCAL-130609;Freguesia;Moreira
-LOCAL-130620;Freguesia;Nogueira e Silva Escura
-LOCAL-130617;Freguesia;Pedrouços
 LOCAL-130613;Freguesia;São Pedro Fins
 LOCAL-130616;Freguesia;Vila Nova da Telha
+LOCAL-130617;Freguesia;Pedrouços
+LOCAL-130618;Freguesia;Castêlo da Maia
+LOCAL-130619;Freguesia;Cidade da Maia
+LOCAL-130620;Freguesia;Nogueira e Silva Escura
 LOCAL-130700;Concelho;Marco de Canaveses
+LOCAL-130704;Freguesia;Banho e Carvalhosa
+LOCAL-130705;Freguesia;Constance
+LOCAL-130722;Freguesia;Soalhães
+LOCAL-130723;Freguesia;Sobretâmega
+LOCAL-130724;Freguesia;Tabuado
+LOCAL-130730;Freguesia;Vila Boa do Bispo
 LOCAL-130732;Freguesia;Alpendorada, Várzea e Torrão
 LOCAL-130733;Freguesia;Avessadas e Rosém
-LOCAL-130704;Freguesia;Banho e Carvalhosa
 LOCAL-130734;Freguesia;Bem Viver
-LOCAL-130705;Freguesia;Constance
+LOCAL-130735;Freguesia;Santo Isidoro e Livração
 LOCAL-130736;Freguesia;Marco
 LOCAL-130737;Freguesia;Paredes de Viadores e Manhuncelos
 LOCAL-130738;Freguesia;Penha Longa e Paços de Gaiolo
 LOCAL-130739;Freguesia;Sande e São Lourenço do Douro
-LOCAL-130735;Freguesia;Santo Isidoro e Livração
-LOCAL-130722;Freguesia;Soalhães
-LOCAL-130723;Freguesia;Sobretâmega
-LOCAL-130724;Freguesia;Tabuado
 LOCAL-130740;Freguesia;Várzea, Aliviada e Folhada
 LOCAL-130741;Freguesia;Vila Boa de Quires e Maureles
-LOCAL-130730;Freguesia;Vila Boa do Bispo
 LOCAL-130800;Concelho;Matosinhos
 LOCAL-130811;Freguesia;Custóias, Leça do Balio e Guifões
 LOCAL-130812;Freguesia;Matosinhos e Leça da Palmeira
@@ -2083,14 +2075,14 @@ LOCAL-130902;Freguesia;Carvalhosa
 LOCAL-130904;Freguesia;Eiriz
 LOCAL-130905;Freguesia;Ferreira
 LOCAL-130906;Freguesia;Figueiró
-LOCAL-130917;Freguesia;Frazão Arreigada
 LOCAL-130908;Freguesia;Freamunde
 LOCAL-130910;Freguesia;Meixomil
-LOCAL-130918;Freguesia;Paços de Ferreira
 LOCAL-130913;Freguesia;Penamaior
 LOCAL-130914;Freguesia;Raimonda
-LOCAL-130919;Freguesia;Sanfins Lamoso Codessos
 LOCAL-130916;Freguesia;Seroa
+LOCAL-130917;Freguesia;Frazão Arreigada
+LOCAL-130918;Freguesia;Paços de Ferreira
+LOCAL-130919;Freguesia;Sanfins Lamoso Codessos
 LOCAL-131000;Concelho;Paredes
 LOCAL-131001;Freguesia;Aguiar de Sousa
 LOCAL-131002;Freguesia;Astromil
@@ -2103,13 +2095,13 @@ LOCAL-131011;Freguesia;Gandra
 LOCAL-131013;Freguesia;Lordelo
 LOCAL-131014;Freguesia;Louredo
 LOCAL-131017;Freguesia;Parada de Todeia
-LOCAL-131025;Freguesia;Paredes
 LOCAL-131018;Freguesia;Rebordosa
 LOCAL-131019;Freguesia;Recarei
 LOCAL-131020;Freguesia;Sobreira
 LOCAL-131021;Freguesia;Sobrosa
 LOCAL-131022;Freguesia;Vandoma
 LOCAL-131024;Freguesia;Vilela
+LOCAL-131025;Freguesia;Paredes
 LOCAL-131100;Concelho;Penafiel
 LOCAL-131101;Freguesia;Abragão
 LOCAL-131102;Freguesia;Boelhe
@@ -2123,124 +2115,125 @@ LOCAL-131109;Freguesia;Duas Igrejas
 LOCAL-131110;Freguesia;Eja
 LOCAL-131112;Freguesia;Fonte Arcada
 LOCAL-131113;Freguesia;Galegos
-LOCAL-131141;Freguesia;Guilhufe e Urrô
 LOCAL-131115;Freguesia;Irivo
-LOCAL-131142;Freguesia;Lagares e Figueira
-LOCAL-131140;Freguesia;Luzim e Vila Cova
 LOCAL-131121;Freguesia;Oldrões
 LOCAL-131122;Freguesia;Paço de Sousa
-LOCAL-131139;Freguesia;Penafiel
 LOCAL-131125;Freguesia;Perozelo
 LOCAL-131128;Freguesia;Rans
+LOCAL-131129;Freguesia;Rio de Moinhos
 LOCAL-131132;Freguesia;Recezinhos (São Mamede)
 LOCAL-131133;Freguesia;Recezinhos (São Martinho)
-LOCAL-131129;Freguesia;Rio de Moinhos
-LOCAL-131138;Freguesia;Rio Mau
 LOCAL-131134;Freguesia;Sebolido
-LOCAL-131143;Freguesia;Termas de São Vicente
 LOCAL-131136;Freguesia;Valpedre
+LOCAL-131138;Freguesia;Rio Mau
+LOCAL-131139;Freguesia;Penafiel
+LOCAL-131140;Freguesia;Luzim e Vila Cova
+LOCAL-131141;Freguesia;Guilhufe e Urrô
+LOCAL-131142;Freguesia;Lagares e Figueira
+LOCAL-131143;Freguesia;Termas de São Vicente
 LOCAL-131200;Concelho;Porto
-LOCAL-131216;Freguesia;Aldoar, Foz do Douro e Nevogilde
 LOCAL-131202;Freguesia;Bonfim
 LOCAL-131203;Freguesia;Campanhã
-LOCAL-131217;Freguesia;Cedofeita,Ildefonso,Sé,Miragaia,Nicolau,Vitória
-LOCAL-131218;Freguesia;Lordelo do Ouro e Massarelos
 LOCAL-131210;Freguesia;Paranhos
 LOCAL-131211;Freguesia;Ramalde
+LOCAL-131216;Freguesia;Aldoar, Foz do Douro e Nevogilde
+LOCAL-131217;Freguesia;Cedofeita,Ildefonso,Sé,Miragaia,Nicolau,Vitória
+LOCAL-131218;Freguesia;Lordelo do Ouro e Massarelos
 LOCAL-131300;Concelho;Póvoa de Varzim
-LOCAL-131314;Freguesia;Aguçadoura e Navais
-LOCAL-131313;Freguesia;Aver-o-Mar, Amorim e Terroso
 LOCAL-131305;Freguesia;Balazar
 LOCAL-131307;Freguesia;Estela
 LOCAL-131308;Freguesia;Laundos
-LOCAL-131315;Freguesia;Póvoa de Varzim, Beiriz e Argivai
 LOCAL-131311;Freguesia;Rates
+LOCAL-131313;Freguesia;Aver-o-Mar, Amorim e Terroso
+LOCAL-131314;Freguesia;Aguçadoura e Navais
+LOCAL-131315;Freguesia;Póvoa de Varzim, Beiriz e Argivai
 LOCAL-131400;Concelho;Santo Tirso
 LOCAL-131401;Freguesia;Agrela
 LOCAL-131402;Freguesia;Água Longa
-LOCAL-131433;Freguesia;Areias, Sequeiró, Lama e Palmeira
 LOCAL-131405;Freguesia;Aves
-LOCAL-131435;Freguesia;Carreira e Refojos de Riba de Ave
-LOCAL-131436;Freguesia;Lamelas e Guimarei
 LOCAL-131413;Freguesia;Monte Córdova
-LOCAL-131430;Freguesia;Negrelos (São Tomé)
 LOCAL-131416;Freguesia;Rebordões
 LOCAL-131418;Freguesia;Reguenga
 LOCAL-131419;Freguesia;Roriz
-LOCAL-131437;Freguesia;St.Tirso, Couto (S.Cristina e S.Miguel) e Burgães
-LOCAL-131434;Freguesia;Vila Nova do Campo
+LOCAL-131430;Freguesia;Negrelos (São Tomé)
 LOCAL-131432;Freguesia;Vilarinho
+LOCAL-131433;Freguesia;Areias, Sequeiró, Lama e Palmeira
+LOCAL-131434;Freguesia;Vila Nova do Campo
+LOCAL-131435;Freguesia;Carreira e Refojos de Riba de Ave
+LOCAL-131436;Freguesia;Lamelas e Guimarei
+LOCAL-131437;Freguesia;St.Tirso, Couto (S.Cristina e S.Miguel) e Burgães
 LOCAL-131500;Concelho;Valongo
 LOCAL-131501;Freguesia;Alfena
-LOCAL-131506;Freguesia;Campo e Sobrado
 LOCAL-131503;Freguesia;Ermesinde
 LOCAL-131505;Freguesia;Valongo
+LOCAL-131506;Freguesia;Campo e Sobrado
 LOCAL-131600;Concelho;Vila do Conde
 LOCAL-131602;Freguesia;Árvore
 LOCAL-131603;Freguesia;Aveleda
 LOCAL-131604;Freguesia;Azurara
-LOCAL-131631;Freguesia;Bagunte, Ferreiró, Outeiro Maior e Parada
 LOCAL-131607;Freguesia;Fajozes
-LOCAL-131632;Freguesia;Fornelo e Vairão
 LOCAL-131610;Freguesia;Gião
 LOCAL-131611;Freguesia;Guilhabreu
 LOCAL-131612;Freguesia;Junqueira
 LOCAL-131613;Freguesia;Labruge
 LOCAL-131614;Freguesia;Macieira da Maia
-LOCAL-131633;Freguesia;Malta e Canidelo
 LOCAL-131616;Freguesia;Mindelo
 LOCAL-131617;Freguesia;Modivas
-LOCAL-131634;Freguesia;Retorta e Tougues
-LOCAL-131635;Freguesia;Rio Mau e Arcos
-LOCAL-131636;Freguesia;Touguinha e Touguinhó
 LOCAL-131627;Freguesia;Vila Chã
 LOCAL-131628;Freguesia;Vila do Conde
 LOCAL-131630;Freguesia;Vilar de Pinheiro
+LOCAL-131631;Freguesia;Bagunte, Ferreiró, Outeiro Maior e Parada
+LOCAL-131632;Freguesia;Fornelo e Vairão
+LOCAL-131633;Freguesia;Malta e Canidelo
+LOCAL-131634;Freguesia;Retorta e Tougues
+LOCAL-131635;Freguesia;Rio Mau e Arcos
+LOCAL-131636;Freguesia;Touguinha e Touguinhó
 LOCAL-131637;Freguesia;Vilar e Mosteiró
 LOCAL-131700;Concelho;Vila Nova de Gaia
 LOCAL-131701;Freguesia;Arcozelo
 LOCAL-131702;Freguesia;Avintes
 LOCAL-131703;Freguesia;Canelas
 LOCAL-131704;Freguesia;Canidelo
+LOCAL-131709;Freguesia;Madalena
+LOCAL-131712;Freguesia;Oliveira do Douro
+LOCAL-131717;Freguesia;São Félix da Marinha
+LOCAL-131723;Freguesia;Vilar de Andorinho
 LOCAL-131725;Freguesia;Grijó e Sermonde
 LOCAL-131726;Freguesia;Gulpilhares e Valadares
-LOCAL-131709;Freguesia;Madalena
 LOCAL-131727;Freguesia;Mafamude e Vilar do Paraíso
-LOCAL-131712;Freguesia;Oliveira do Douro
 LOCAL-131728;Freguesia;Pedroso e Seixezelo
 LOCAL-131729;Freguesia;Sandim, Olival, Lever e Crestuma
 LOCAL-131730;Freguesia;Santa Marinha e São Pedro da Afurada
-LOCAL-131717;Freguesia;São Félix da Marinha
 LOCAL-131731;Freguesia;Serzedo e Perosinho
-LOCAL-131723;Freguesia;Vilar de Andorinho
 LOCAL-131800;Concelho;Trofa
+LOCAL-131806;Freguesia;Covelas
+LOCAL-131808;Freguesia;Muro
 LOCAL-131809;Freguesia;Alvarelhos e Guidões
 LOCAL-131810;Freguesia;Bougado (São Martinho e Santiago)
 LOCAL-131811;Freguesia;Coronado (São Romão e São Mamede)
-LOCAL-131806;Freguesia;Covelas
-LOCAL-131808;Freguesia;Muro
+LOCAL-140000;Distrito;Santarém
 LOCAL-140100;Concelho;Abrantes
-LOCAL-140120;Freguesia;Abrantes (São Vicente e São João) e Alferrarede
-LOCAL-140121;Freguesia;Aldeia do Mato e Souto
-LOCAL-140122;Freguesia;Alvega e Concavada
 LOCAL-140104;Freguesia;Bemposta
-LOCAL-140119;Freguesia;Carvalhal
-LOCAL-140118;Freguesia;Fontes
 LOCAL-140105;Freguesia;Martinchel
 LOCAL-140106;Freguesia;Mouriscas
 LOCAL-140107;Freguesia;Pego
 LOCAL-140108;Freguesia;Rio de Moinhos
+LOCAL-140115;Freguesia;Tramagal
+LOCAL-140118;Freguesia;Fontes
+LOCAL-140119;Freguesia;Carvalhal
+LOCAL-140120;Freguesia;Abrantes (São Vicente e São João) e Alferrarede
+LOCAL-140121;Freguesia;Aldeia do Mato e Souto
+LOCAL-140122;Freguesia;Alvega e Concavada
 LOCAL-140123;Freguesia;São Facundo e Vale das Mós
 LOCAL-140124;Freguesia;São Miguel do Rio Torto e Rossio ao Sul do Tejo
-LOCAL-140115;Freguesia;Tramagal
 LOCAL-140200;Concelho;Alcanena
-LOCAL-140211;Freguesia;Alcanena e Vila Moreira
 LOCAL-140202;Freguesia;Bugalhos
-LOCAL-140212;Freguesia;Malhou, Louriceira e Espinheiro
 LOCAL-140206;Freguesia;Minde
 LOCAL-140207;Freguesia;Moitas Venda
 LOCAL-140208;Freguesia;Monsanto
 LOCAL-140209;Freguesia;Serra de Santo António
+LOCAL-140211;Freguesia;Alcanena e Vila Moreira
+LOCAL-140212;Freguesia;Malhou, Louriceira e Espinheiro
 LOCAL-140300;Concelho;Almeirim
 LOCAL-140301;Freguesia;Almeirim
 LOCAL-140302;Freguesia;Benfica do Ribatejo
@@ -2249,45 +2242,45 @@ LOCAL-140304;Freguesia;Raposa
 LOCAL-140400;Concelho;Alpiarça
 LOCAL-140401;Freguesia;Alpiarça
 LOCAL-140500;Concelho;Benavente
-LOCAL-140504;Freguesia;Barrosa
 LOCAL-140501;Freguesia;Benavente
 LOCAL-140502;Freguesia;Samora Correia
 LOCAL-140503;Freguesia;Santo Estêvão
+LOCAL-140504;Freguesia;Barrosa
 LOCAL-140600;Concelho;Cartaxo
-LOCAL-140609;Freguesia;Cartaxo e Vale da Pinta
-LOCAL-140610;Freguesia;Ereira e Lapa
 LOCAL-140604;Freguesia;Pontével
 LOCAL-140605;Freguesia;Valada
-LOCAL-140608;Freguesia;Vale da Pedra
 LOCAL-140607;Freguesia;Vila Chã de Ourique
+LOCAL-140608;Freguesia;Vale da Pedra
+LOCAL-140609;Freguesia;Cartaxo e Vale da Pinta
+LOCAL-140610;Freguesia;Ereira e Lapa
 LOCAL-140700;Concelho;Chamusca
+LOCAL-140704;Freguesia;Ulme
+LOCAL-140705;Freguesia;Vale de Cavalos
 LOCAL-140707;Freguesia;Carregueira
 LOCAL-140708;Freguesia;Chamusca e Pinheiro Grande
 LOCAL-140709;Freguesia;Parreira e Chouto
-LOCAL-140704;Freguesia;Ulme
-LOCAL-140705;Freguesia;Vale de Cavalos
 LOCAL-140800;Concelho;Constância
 LOCAL-140801;Freguesia;Constância
 LOCAL-140802;Freguesia;Montalvo
 LOCAL-140803;Freguesia;Santa Margarida da Coutada
 LOCAL-140900;Concelho;Coruche
-LOCAL-140907;Freguesia;Biscainho
-LOCAL-140905;Freguesia;Branca
-LOCAL-140909;Freguesia;Coruche, Fajarda e Erra
 LOCAL-140902;Freguesia;Couço
-LOCAL-140908;Freguesia;Santana do Mato
 LOCAL-140903;Freguesia;São José da Lamarosa
+LOCAL-140905;Freguesia;Branca
+LOCAL-140907;Freguesia;Biscainho
+LOCAL-140908;Freguesia;Santana do Mato
+LOCAL-140909;Freguesia;Coruche, Fajarda e Erra
 LOCAL-141000;Concelho;Entroncamento
-LOCAL-141002;Freguesia;Nossa Senhora de Fátima
 LOCAL-141001;Freguesia;São João Baptista
+LOCAL-141002;Freguesia;Nossa Senhora de Fátima
 LOCAL-141100;Concelho;Ferreira do Zêzere
 LOCAL-141101;Freguesia;Águas Belas
-LOCAL-141111;Freguesia;Areias e Pias
 LOCAL-141103;Freguesia;Beco
 LOCAL-141104;Freguesia;Chãos
 LOCAL-141106;Freguesia;Ferreira do Zêzere
 LOCAL-141107;Freguesia;Igreja Nova do Sobral
 LOCAL-141110;Freguesia;Nossa Senhora do Pranto
+LOCAL-141111;Freguesia;Areias e Pias
 LOCAL-141200;Concelho;Golegã
 LOCAL-141201;Freguesia;Azinhaga
 LOCAL-141202;Freguesia;Golegã
@@ -2297,71 +2290,71 @@ LOCAL-141302;Freguesia;Amêndoa
 LOCAL-141303;Freguesia;Cardigos
 LOCAL-141304;Freguesia;Carvoeiro
 LOCAL-141305;Freguesia;Envendos
-LOCAL-141309;Freguesia;Mação, Penhascoso e Aboboreira
 LOCAL-141307;Freguesia;Ortiga
+LOCAL-141309;Freguesia;Mação, Penhascoso e Aboboreira
 LOCAL-141400;Concelho;Rio Maior
 LOCAL-141401;Freguesia;Alcobertas
 LOCAL-141402;Freguesia;Arrouquelas
-LOCAL-141410;Freguesia;Asseiceira
-LOCAL-141415;Freguesia;Azambujeira e Malaqueijo
 LOCAL-141405;Freguesia;Fráguas
+LOCAL-141408;Freguesia;Rio Maior
+LOCAL-141410;Freguesia;Asseiceira
+LOCAL-141411;Freguesia;São Sebastião
+LOCAL-141415;Freguesia;Azambujeira e Malaqueijo
 LOCAL-141416;Freguesia;Marmeleira e Assentiz
 LOCAL-141417;Freguesia;Outeiro da Cortiçada e Arruda dos Pisões
-LOCAL-141408;Freguesia;Rio Maior
 LOCAL-141418;Freguesia;São João da Ribeira e Ribeira de São João
-LOCAL-141411;Freguesia;São Sebastião
 LOCAL-141500;Concelho;Salvaterra de Magos
-LOCAL-141507;Freguesia;Glória do Ribatejo e Granho
 LOCAL-141502;Freguesia;Marinhais
 LOCAL-141503;Freguesia;Muge
+LOCAL-141507;Freguesia;Glória do Ribatejo e Granho
 LOCAL-141508;Freguesia;Salvaterra de Magos e Foros de Salvaterra
 LOCAL-141600;Concelho;Santarém
 LOCAL-141601;Freguesia;Abitureiras
 LOCAL-141602;Freguesia;Abrã
-LOCAL-141629;Freguesia;Achete, Azoia de Baixo e Póvoa de Santarém
 LOCAL-141604;Freguesia;Alcanede
 LOCAL-141605;Freguesia;Alcanhões
 LOCAL-141606;Freguesia;Almoster
 LOCAL-141607;Freguesia;Amiais de Baixo
 LOCAL-141608;Freguesia;Arneiro das Milhariças
-LOCAL-141630;Freguesia;Azoia de Cima e Tremês
-LOCAL-141631;Freguesia;Casével e Vaqueiros
-LOCAL-141633;Freguesia;Cidade de Santarém
-LOCAL-141628;Freguesia;Gançaria
 LOCAL-141613;Freguesia;Moçarria
 LOCAL-141614;Freguesia;Pernes
 LOCAL-141616;Freguesia;Póvoa da Isenta
-LOCAL-141632;Freguesia;Romeira e Várzea
-LOCAL-141634;Freguesia;São Vicente do Paul e Vale de Figueira
 LOCAL-141625;Freguesia;Vale de Santarém
+LOCAL-141628;Freguesia;Gançaria
+LOCAL-141629;Freguesia;Achete, Azoia de Baixo e Póvoa de Santarém
+LOCAL-141630;Freguesia;Azoia de Cima e Tremês
+LOCAL-141631;Freguesia;Casével e Vaqueiros
+LOCAL-141632;Freguesia;Romeira e Várzea
+LOCAL-141633;Freguesia;Cidade de Santarém
+LOCAL-141634;Freguesia;São Vicente do Paul e Vale de Figueira
 LOCAL-141700;Concelho;Sardoal
 LOCAL-141701;Freguesia;Alcaravela
 LOCAL-141702;Freguesia;Santiago de Montalegre
 LOCAL-141703;Freguesia;Sardoal
 LOCAL-141704;Freguesia;Valhascos
 LOCAL-141800;Concelho;Tomar
-LOCAL-141817;Freguesia;Além da Ribeira e Pedreira
 LOCAL-141802;Freguesia;Asseiceira
 LOCAL-141804;Freguesia;Carregueiros
-LOCAL-141818;Freguesia;Casais e Alviobeira
-LOCAL-141819;Freguesia;Madalena e Beselga
 LOCAL-141808;Freguesia;Olalhas
 LOCAL-141809;Freguesia;Paialvo
-LOCAL-141814;Freguesia;Sabacheira
-LOCAL-141821;Freguesia;São João Baptista e Santa Maria dos Olivais
 LOCAL-141813;Freguesia;São Pedro de Tomar
+LOCAL-141814;Freguesia;Sabacheira
+LOCAL-141817;Freguesia;Além da Ribeira e Pedreira
+LOCAL-141818;Freguesia;Casais e Alviobeira
+LOCAL-141819;Freguesia;Madalena e Beselga
 LOCAL-141820;Freguesia;Serra e Junceira
+LOCAL-141821;Freguesia;São João Baptista e Santa Maria dos Olivais
 LOCAL-141900;Concelho;Torres Novas
 LOCAL-141902;Freguesia;Assentiz
-LOCAL-141918;Freguesia;Brogueira, Parceiros de Igreja e Alcorochel
 LOCAL-141904;Freguesia;Chancelaria
-LOCAL-141917;Freguesia;Meia Via
-LOCAL-141919;Freguesia;Olaia e Paço
 LOCAL-141909;Freguesia;Pedrógão
 LOCAL-141910;Freguesia;Riachos
+LOCAL-141916;Freguesia;Zibreira
+LOCAL-141917;Freguesia;Meia Via
+LOCAL-141918;Freguesia;Brogueira, Parceiros de Igreja e Alcorochel
+LOCAL-141919;Freguesia;Olaia e Paço
 LOCAL-141920;Freguesia;Torres Novas (Santa Maria, Salvador e Santiago)
 LOCAL-141921;Freguesia;Torres Novas (São Pedro), Lapas e Ribeira Branca
-LOCAL-141916;Freguesia;Zibreira
 LOCAL-142000;Concelho;Vila Nova da Barquinha
 LOCAL-142001;Freguesia;Atalaia
 LOCAL-142002;Freguesia;Praia do Ribatejo
@@ -2373,221 +2366,218 @@ LOCAL-142102;Freguesia;Atouguia
 LOCAL-142104;Freguesia;Caxarias
 LOCAL-142105;Freguesia;Espite
 LOCAL-142106;Freguesia;Fátima
+LOCAL-142111;Freguesia;Nossa Senhora das Misericórdias
+LOCAL-142113;Freguesia;Seiça
+LOCAL-142114;Freguesia;Urqueira
+LOCAL-142115;Freguesia;Nossa Senhora da Piedade
 LOCAL-142119;Freguesia;Freixianda, Ribeira do Fárrio e Formigais
 LOCAL-142120;Freguesia;Gondemaria e Olival
 LOCAL-142121;Freguesia;Matas e Cercal
-LOCAL-142115;Freguesia;Nossa Senhora da Piedade
-LOCAL-142111;Freguesia;Nossa Senhora das Misericórdias
 LOCAL-142122;Freguesia;Rio de Couros e Casal dos Bernardos
-LOCAL-142113;Freguesia;Seiça
-LOCAL-142114;Freguesia;Urqueira
+LOCAL-150000;Distrito;Setúbal
 LOCAL-150100;Concelho;Alcácer do Sal
+LOCAL-150104;Freguesia;Torrão
+LOCAL-150105;Freguesia;São Martinho
 LOCAL-150106;Freguesia;Comporta
 LOCAL-150107;Freguesia;Santa Maria do Castelo e Santiago e Santa Susana
-LOCAL-150105;Freguesia;São Martinho
-LOCAL-150104;Freguesia;Torrão
 LOCAL-150200;Concelho;Alcochete
 LOCAL-150201;Freguesia;Alcochete
 LOCAL-150202;Freguesia;Samouco
 LOCAL-150203;Freguesia;São Francisco
 LOCAL-150300;Concelho;Almada
+LOCAL-150303;Freguesia;Costa da Caparica
 LOCAL-150312;Freguesia;Almada, Cova da Piedade, Pragal e Cacilhas
 LOCAL-150313;Freguesia;Caparica e Trafaria
 LOCAL-150314;Freguesia;Charneca de Caparica e Sobreda
-LOCAL-150303;Freguesia;Costa da Caparica
 LOCAL-150315;Freguesia;Laranjeiro e Feijó
 LOCAL-150400;Concelho;Barreiro
+LOCAL-150407;Freguesia;Santo António da Charneca
 LOCAL-150409;Freguesia;Alto do Seixalinho, Santo André e Verderena
 LOCAL-150410;Freguesia;Barreiro e Lavradio
 LOCAL-150411;Freguesia;Palhais e Coina
-LOCAL-150407;Freguesia;Santo António da Charneca
 LOCAL-150500;Concelho;Grândola
 LOCAL-150501;Freguesia;Azinheira dos Barros e São Mamede do Sádão
+LOCAL-150503;Freguesia;Melides
 LOCAL-150505;Freguesia;Carvalhal
 LOCAL-150506;Freguesia;Grândola e Santa Margarida da Serra
-LOCAL-150503;Freguesia;Melides
 LOCAL-150600;Concelho;Moita
 LOCAL-150601;Freguesia;Alhos Vedros
+LOCAL-150603;Freguesia;Moita
 LOCAL-150607;Freguesia;Baixa da Banheira e Vale da Amoreira
 LOCAL-150608;Freguesia;Gaio-Rosário e Sarilhos Pequenos
-LOCAL-150603;Freguesia;Moita
 LOCAL-150700;Concelho;Montijo
-LOCAL-150709;Freguesia;Atalaia e Alto Estanqueiro-Jardia
 LOCAL-150701;Freguesia;Canha
+LOCAL-150704;Freguesia;Sarilhos Grandes
+LOCAL-150709;Freguesia;Atalaia e Alto Estanqueiro-Jardia
 LOCAL-150710;Freguesia;Montijo e Afonsoeiro
 LOCAL-150711;Freguesia;Pegões
-LOCAL-150704;Freguesia;Sarilhos Grandes
 LOCAL-150800;Concelho;Palmela
 LOCAL-150802;Freguesia;Palmela
 LOCAL-150803;Freguesia;Pinhal Novo
-LOCAL-150806;Freguesia;Poceirão e Marateca
 LOCAL-150804;Freguesia;Quinta do Anjo
+LOCAL-150806;Freguesia;Poceirão e Marateca
 LOCAL-150900;Concelho;Santiago do Cacém
 LOCAL-150901;Freguesia;Abela
 LOCAL-150902;Freguesia;Alvalade
 LOCAL-150903;Freguesia;Cercal
 LOCAL-150904;Freguesia;Ermidas-Sado
-LOCAL-150912;Freguesia;Santiago do Cacém, S.Cruz e S.Bartolomeu da Serra
 LOCAL-150907;Freguesia;Santo André
-LOCAL-150913;Freguesia;São Domingos e Vale de Água
 LOCAL-150910;Freguesia;São Francisco da Serra
+LOCAL-150912;Freguesia;Santiago do Cacém, S.Cruz e S.Bartolomeu da Serra
+LOCAL-150913;Freguesia;São Domingos e Vale de Água
 LOCAL-151000;Concelho;Seixal
 LOCAL-151002;Freguesia;Amora
 LOCAL-151005;Freguesia;Corroios
 LOCAL-151006;Freguesia;Fernão Ferro
 LOCAL-151007;Freguesia;Seixal, Arrentela e Aldeia de Paio Pires
 LOCAL-151100;Concelho;Sesimbra
-LOCAL-151103;Freguesia;Quinta do Conde
 LOCAL-151101;Freguesia;Sesimbra (Castelo)
 LOCAL-151102;Freguesia;Sesimbra (Santiago)
+LOCAL-151103;Freguesia;Quinta do Conde
 LOCAL-151200;Concelho;Setúbal
-LOCAL-151209;Freguesia;Azeitão (São Lourenço e São Simão)
-LOCAL-151207;Freguesia;Gâmbia-Pontes-Alto da Guerra
-LOCAL-151210;Freguesia;S.Julião, N.S. da Anunciada e S.Maria da Graça
-LOCAL-151208;Freguesia;Sado
 LOCAL-151205;Freguesia;Setúbal (São Sebastião)
+LOCAL-151207;Freguesia;Gâmbia-Pontes-Alto da Guerra
+LOCAL-151208;Freguesia;Sado
+LOCAL-151209;Freguesia;Azeitão (São Lourenço e São Simão)
+LOCAL-151210;Freguesia;S.Julião, N.S. da Anunciada e S.Maria da Graça
 LOCAL-151300;Concelho;Sines
-LOCAL-151302;Freguesia;Porto Covo
 LOCAL-151301;Freguesia;Sines
+LOCAL-151302;Freguesia;Porto Covo
+LOCAL-160000;Distrito;Viana do Castelo
 LOCAL-160100;Concelho;Arcos de Valdevez
 LOCAL-160101;Freguesia;Aboim das Choças
 LOCAL-160102;Freguesia;Aguiã
-LOCAL-160152;Freguesia;Alvora e Loureda
-LOCAL-160154;Freguesia;Arcos de Valdevez (Salvador), Vila Fonche e Parada
-LOCAL-160153;Freguesia;Arcos de Valdevez (São Paio) e Giela
 LOCAL-160104;Freguesia;Ázere
 LOCAL-160105;Freguesia;Cabana Maior
 LOCAL-160106;Freguesia;Cabreiro
 LOCAL-160108;Freguesia;Cendufe
 LOCAL-160109;Freguesia;Couto
-LOCAL-160155;Freguesia;Eiras e Mei
 LOCAL-160113;Freguesia;Gavieira
 LOCAL-160115;Freguesia;Gondoriz
-LOCAL-160156;Freguesia;Grade e Carralcova
-LOCAL-160157;Freguesia;Guilhadeses e Santar
-LOCAL-160158;Freguesia;Jolda (Madalena) e Rio Cabrão
-LOCAL-160142;Freguesia;Jolda (São Paio)
 LOCAL-160121;Freguesia;Miranda
 LOCAL-160122;Freguesia;Monte Redondo
 LOCAL-160123;Freguesia;Oliveira
 LOCAL-160124;Freguesia;Paçô
-LOCAL-160159;Freguesia;Padreiro (Salvador e Santa Cristina)
 LOCAL-160125;Freguesia;Padroso
-LOCAL-160160;Freguesia;Portela e Extremo
 LOCAL-160128;Freguesia;Prozelo
-LOCAL-160131;Freguesia;Rio de Moinhos
 LOCAL-160130;Freguesia;Rio Frio
+LOCAL-160131;Freguesia;Rio de Moinhos
 LOCAL-160133;Freguesia;Sabadim
-LOCAL-160161;Freguesia;São Jorge e Ermelo
+LOCAL-160142;Freguesia;Jolda (São Paio)
 LOCAL-160144;Freguesia;Senharei
 LOCAL-160145;Freguesia;Sistelo
 LOCAL-160146;Freguesia;Soajo
+LOCAL-160149;Freguesia;Vale
+LOCAL-160152;Freguesia;Alvora e Loureda
+LOCAL-160153;Freguesia;Arcos de Valdevez (São Paio) e Giela
+LOCAL-160154;Freguesia;Arcos de Valdevez (Salvador), Vila Fonche e Parada
+LOCAL-160155;Freguesia;Eiras e Mei
+LOCAL-160156;Freguesia;Grade e Carralcova
+LOCAL-160157;Freguesia;Guilhadeses e Santar
+LOCAL-160158;Freguesia;Jolda (Madalena) e Rio Cabrão
+LOCAL-160159;Freguesia;Padreiro (Salvador e Santa Cristina)
+LOCAL-160160;Freguesia;Portela e Extremo
+LOCAL-160161;Freguesia;São Jorge e Ermelo
 LOCAL-160162;Freguesia;Souto e Tabaçô
 LOCAL-160163;Freguesia;Távora (Santa Maria e São Vicente)
-LOCAL-160149;Freguesia;Vale
 LOCAL-160164;Freguesia;Vilela, São Cosme e São Damião e Sá
 LOCAL-160200;Concelho;Caminha
 LOCAL-160201;Freguesia;Âncora
-LOCAL-160221;Freguesia;Arga (Baixo, Cima e São João)
 LOCAL-160205;Freguesia;Argela
-LOCAL-160222;Freguesia;Caminha (Matriz) e Vilarelho
 LOCAL-160209;Freguesia;Dem
-LOCAL-160223;Freguesia;Gondar e Orbacém
 LOCAL-160211;Freguesia;Lanhelas
-LOCAL-160224;Freguesia;Moledo e Cristelo
 LOCAL-160214;Freguesia;Riba de Âncora
 LOCAL-160215;Freguesia;Seixas
-LOCAL-160225;Freguesia;Venade e Azevedo
 LOCAL-160217;Freguesia;Vila Praia de Âncora
 LOCAL-160218;Freguesia;Vilar de Mouros
 LOCAL-160220;Freguesia;Vile
+LOCAL-160221;Freguesia;Arga (Baixo, Cima e São João)
+LOCAL-160222;Freguesia;Caminha (Matriz) e Vilarelho
+LOCAL-160223;Freguesia;Gondar e Orbacém
+LOCAL-160224;Freguesia;Moledo e Cristelo
+LOCAL-160225;Freguesia;Venade e Azevedo
 LOCAL-160300;Concelho;Melgaço
 LOCAL-160301;Freguesia;Alvaredo
-LOCAL-160319;Freguesia;Castro Laboreiro e Lamas de Mouro
-LOCAL-160320;Freguesia;Chaviães e Paços
 LOCAL-160304;Freguesia;Cousso
 LOCAL-160305;Freguesia;Cristoval
 LOCAL-160307;Freguesia;Fiães
 LOCAL-160308;Freguesia;Gave
 LOCAL-160311;Freguesia;Paderne
-LOCAL-160321;Freguesia;Parada do Monte e Cubalhão
 LOCAL-160313;Freguesia;Penso
-LOCAL-160322;Freguesia;Prado e Remoães
 LOCAL-160317;Freguesia;São Paio
+LOCAL-160319;Freguesia;Castro Laboreiro e Lamas de Mouro
+LOCAL-160320;Freguesia;Chaviães e Paços
+LOCAL-160321;Freguesia;Parada do Monte e Cubalhão
+LOCAL-160322;Freguesia;Prado e Remoães
 LOCAL-160323;Freguesia;Vila e Roussas
 LOCAL-160400;Concelho;Monção
 LOCAL-160401;Freguesia;Abedim
-LOCAL-160434;Freguesia;Anhões e Luzio
 LOCAL-160404;Freguesia;Barbeita
 LOCAL-160405;Freguesia;Barroças e Taias
 LOCAL-160406;Freguesia;Bela
 LOCAL-160407;Freguesia;Cambeses
-LOCAL-160435;Freguesia;Ceivães e Badim
 LOCAL-160410;Freguesia;Lara
 LOCAL-160411;Freguesia;Longos Vales
-LOCAL-160436;Freguesia;Mazedo e Cortes
 LOCAL-160415;Freguesia;Merufe
-LOCAL-160437;Freguesia;Messegães, Valadares e Sá
-LOCAL-160438;Freguesia;Monção e Troviscoso
 LOCAL-160418;Freguesia;Moreira
 LOCAL-160420;Freguesia;Pias
 LOCAL-160421;Freguesia;Pinheiros
 LOCAL-160422;Freguesia;Podame
 LOCAL-160423;Freguesia;Portela
 LOCAL-160424;Freguesia;Riba de Mouro
-LOCAL-160439;Freguesia;Sago, Lordelo e Parada
 LOCAL-160427;Freguesia;Segude
 LOCAL-160428;Freguesia;Tangil
-LOCAL-160440;Freguesia;Troporiz e Lapela
 LOCAL-160431;Freguesia;Trute
+LOCAL-160434;Freguesia;Anhões e Luzio
+LOCAL-160435;Freguesia;Ceivães e Badim
+LOCAL-160436;Freguesia;Mazedo e Cortes
+LOCAL-160437;Freguesia;Messegães, Valadares e Sá
+LOCAL-160438;Freguesia;Monção e Troviscoso
+LOCAL-160439;Freguesia;Sago, Lordelo e Parada
+LOCAL-160440;Freguesia;Troporiz e Lapela
 LOCAL-160500;Concelho;Paredes de Coura
 LOCAL-160501;Freguesia;Agualonga
-LOCAL-160522;Freguesia;Bico e Cristelo
 LOCAL-160503;Freguesia;Castanheira
-LOCAL-160523;Freguesia;Cossourado e Linhares
 LOCAL-160505;Freguesia;Coura
 LOCAL-160507;Freguesia;Cunha
-LOCAL-160524;Freguesia;Formariz e Ferreira
 LOCAL-160510;Freguesia;Infesta
-LOCAL-160525;Freguesia;Insalde e Porreiras
 LOCAL-160513;Freguesia;Mozelos
 LOCAL-160514;Freguesia;Padornelo
 LOCAL-160515;Freguesia;Parada
-LOCAL-160526;Freguesia;Paredes de Coura e Resende
 LOCAL-160519;Freguesia;Romarigães
 LOCAL-160520;Freguesia;Rubiães
 LOCAL-160521;Freguesia;Vascões
+LOCAL-160522;Freguesia;Bico e Cristelo
+LOCAL-160523;Freguesia;Cossourado e Linhares
+LOCAL-160524;Freguesia;Formariz e Ferreira
+LOCAL-160525;Freguesia;Insalde e Porreiras
+LOCAL-160526;Freguesia;Paredes de Coura e Resende
 LOCAL-160600;Concelho;Ponte da Barca
 LOCAL-160601;Freguesia;Azias
 LOCAL-160602;Freguesia;Boivães
 LOCAL-160603;Freguesia;Bravães
 LOCAL-160604;Freguesia;Britelo
-LOCAL-160626;Freguesia;Crasto, Ruivos e Grovelas
 LOCAL-160606;Freguesia;Cuide de Vila Verde
-LOCAL-160627;Freguesia;Entre Ambos-os-Rios, Ermida e Germil
 LOCAL-160611;Freguesia;Lavradas
 LOCAL-160612;Freguesia;Lindoso
 LOCAL-160613;Freguesia;Nogueira
 LOCAL-160614;Freguesia;Oleiros
-LOCAL-160628;Freguesia;Ponte da Barca, V.N. Muía, Paço Vedro Magalhães
 LOCAL-160619;Freguesia;Sampriz
-LOCAL-160629;Freguesia;Touvedo (São Lourenço e Salvador)
 LOCAL-160623;Freguesia;Vade (São Pedro)
 LOCAL-160624;Freguesia;Vade (São Tomé)
+LOCAL-160626;Freguesia;Crasto, Ruivos e Grovelas
+LOCAL-160627;Freguesia;Entre Ambos-os-Rios, Ermida e Germil
+LOCAL-160628;Freguesia;Ponte da Barca, V.N. Muía, Paço Vedro Magalhães
+LOCAL-160629;Freguesia;Touvedo (São Lourenço e Salvador)
 LOCAL-160630;Freguesia;Vila Chã (São João Baptista e Santiago)
 LOCAL-160700;Concelho;Ponte de Lima
 LOCAL-160701;Freguesia;Anais
-LOCAL-160752;Freguesia;Arca e Ponte de Lima
+LOCAL-160703;Freguesia;São Pedro d'Arcos
 LOCAL-160704;Freguesia;Arcozelo
-LOCAL-160753;Freguesia;Ardegão, Freixo e Mato
-LOCAL-160754;Freguesia;Associação de freguesias do Vale do Neiva
-LOCAL-160755;Freguesia;Bárrio e Cepões
 LOCAL-160707;Freguesia;Beiral do Lima
 LOCAL-160708;Freguesia;Bertiandos
 LOCAL-160709;Freguesia;Boalhosa
 LOCAL-160710;Freguesia;Brandara
-LOCAL-160756;Freguesia;Cabaços e Fojo Lobal
-LOCAL-160757;Freguesia;Cabração e Moreira do Lima
 LOCAL-160713;Freguesia;Calheiros
 LOCAL-160714;Freguesia;Calvelo
 LOCAL-160716;Freguesia;Correlhã
@@ -2595,237 +2585,241 @@ LOCAL-160717;Freguesia;Estorãos
 LOCAL-160718;Freguesia;Facha
 LOCAL-160719;Freguesia;Feitosa
 LOCAL-160721;Freguesia;Fontão
-LOCAL-160758;Freguesia;Fornelos e Queijada
 LOCAL-160724;Freguesia;Friastelas
 LOCAL-160726;Freguesia;Gandra
 LOCAL-160727;Freguesia;Gemieira
 LOCAL-160728;Freguesia;Gondufe
 LOCAL-160729;Freguesia;Labruja
-LOCAL-160759;Freguesia;Labrujó, Rendufe e Vilar do Monte
-LOCAL-160760;Freguesia;Navió e Vitorino dos Piães
 LOCAL-160734;Freguesia;Poiares
-LOCAL-160744;Freguesia;Rebordões (Santa Maria)
-LOCAL-160747;Freguesia;Rebordões (Souto)
 LOCAL-160737;Freguesia;Refóios do Lima
 LOCAL-160739;Freguesia;Ribeira
 LOCAL-160740;Freguesia;Sá
 LOCAL-160742;Freguesia;Santa Comba
 LOCAL-160743;Freguesia;Santa Cruz do Lima
-LOCAL-160703;Freguesia;São Pedro d'Arcos
+LOCAL-160744;Freguesia;Rebordões (Santa Maria)
 LOCAL-160745;Freguesia;Seara
 LOCAL-160746;Freguesia;Serdedelo
+LOCAL-160747;Freguesia;Rebordões (Souto)
 LOCAL-160750;Freguesia;Vitorino das Donas
+LOCAL-160752;Freguesia;Arca e Ponte de Lima
+LOCAL-160753;Freguesia;Ardegão, Freixo e Mato
+LOCAL-160754;Freguesia;Associação de freguesias do Vale do Neiva
+LOCAL-160755;Freguesia;Bárrio e Cepões
+LOCAL-160756;Freguesia;Cabaços e Fojo Lobal
+LOCAL-160757;Freguesia;Cabração e Moreira do Lima
+LOCAL-160758;Freguesia;Fornelos e Queijada
+LOCAL-160759;Freguesia;Labrujó, Rendufe e Vilar do Monte
+LOCAL-160760;Freguesia;Navió e Vitorino dos Piães
 LOCAL-160800;Concelho;Valença
 LOCAL-160802;Freguesia;Boivão
 LOCAL-160803;Freguesia;Cerdal
 LOCAL-160805;Freguesia;Fontoura
 LOCAL-160806;Freguesia;Friestas
-LOCAL-160817;Freguesia;Gandra e Taião
 LOCAL-160808;Freguesia;Ganfei
+LOCAL-160812;Freguesia;São Pedro da Torre
+LOCAL-160816;Freguesia;Verdoejo
+LOCAL-160817;Freguesia;Gandra e Taião
 LOCAL-160818;Freguesia;Gondomil e Sanfins
 LOCAL-160819;Freguesia;São Julião e Silva
-LOCAL-160812;Freguesia;São Pedro da Torre
 LOCAL-160820;Freguesia;Valença, Cristelo Covo e Arão
-LOCAL-160816;Freguesia;Verdoejo
 LOCAL-160900;Concelho;Viana do Castelo
 LOCAL-160901;Freguesia;Afife
 LOCAL-160902;Freguesia;Alvarães
 LOCAL-160903;Freguesia;Amonde
 LOCAL-160904;Freguesia;Anha
 LOCAL-160905;Freguesia;Areosa
-LOCAL-160941;Freguesia;Barroselas e Carvoeiro
-LOCAL-160942;Freguesia;Cardielos e Serreleis
 LOCAL-160908;Freguesia;Carreço
 LOCAL-160910;Freguesia;Castelo do Neiva
-LOCAL-160940;Freguesia;Chafé
 LOCAL-160911;Freguesia;Darque
 LOCAL-160914;Freguesia;Freixieiro de Soutelo
-LOCAL-160943;Freguesia;Geraz do Lima e Deão
 LOCAL-160915;Freguesia;Lanheses
-LOCAL-160944;Freguesia;Mazarefes e Vila Fria
 LOCAL-160920;Freguesia;Montaria
 LOCAL-160922;Freguesia;Mujães
-LOCAL-160945;Freguesia;Nogueira, Meixedo e Vilar de Murteda
+LOCAL-160923;Freguesia;São Romão de Neiva
 LOCAL-160925;Freguesia;Outeiro
 LOCAL-160926;Freguesia;Perre
-LOCAL-160948;Freguesia;Santa Maria Maior e Monserrate e Meadela
 LOCAL-160928;Freguesia;Santa Marta de Portuzelo
-LOCAL-160923;Freguesia;São Romão de Neiva
+LOCAL-160935;Freguesia;Vila Franca
+LOCAL-160938;Freguesia;Vila de Punhe
+LOCAL-160940;Freguesia;Chafé
+LOCAL-160941;Freguesia;Barroselas e Carvoeiro
+LOCAL-160942;Freguesia;Cardielos e Serreleis
+LOCAL-160943;Freguesia;Geraz do Lima e Deão
+LOCAL-160944;Freguesia;Mazarefes e Vila Fria
+LOCAL-160945;Freguesia;Nogueira, Meixedo e Vilar de Murteda
 LOCAL-160946;Freguesia;Subportela, Deocriste e Portela Susã
 LOCAL-160947;Freguesia;Torre e Vila Mou
-LOCAL-160938;Freguesia;Vila de Punhe
-LOCAL-160935;Freguesia;Vila Franca
+LOCAL-160948;Freguesia;Santa Maria Maior e Monserrate e Meadela
 LOCAL-161000;Concelho;Vila Nova de Cerveira
-LOCAL-161016;Freguesia;Campos e Vila Meã
-LOCAL-161017;Freguesia;Candemil e Gondar
 LOCAL-161003;Freguesia;Cornes
 LOCAL-161004;Freguesia;Covas
 LOCAL-161006;Freguesia;Gondarém
 LOCAL-161007;Freguesia;Loivo
 LOCAL-161009;Freguesia;Mentrestido
-LOCAL-161018;Freguesia;Reboreda e Nogueira
 LOCAL-161012;Freguesia;Sapardos
 LOCAL-161013;Freguesia;Sopo
+LOCAL-161016;Freguesia;Campos e Vila Meã
+LOCAL-161017;Freguesia;Candemil e Gondar
+LOCAL-161018;Freguesia;Reboreda e Nogueira
 LOCAL-161019;Freguesia;Vila Nova de Cerveira e Lovelhe
+LOCAL-170000;Distrito;Vila Real
 LOCAL-170100;Concelho;Alijó
 LOCAL-170101;Freguesia;Alijó
-LOCAL-170120;Freguesia;Carlão e Amieiro
-LOCAL-170121;Freguesia;Castedo e Cotas
 LOCAL-170107;Freguesia;Favaios
 LOCAL-170108;Freguesia;Pegarinhos
 LOCAL-170109;Freguesia;Pinhão
-LOCAL-170122;Freguesia;Pópulo e Ribalonga
 LOCAL-170112;Freguesia;Sanfins do Douro
 LOCAL-170113;Freguesia;Santa Eugénia
 LOCAL-170114;Freguesia;São Mamede de Ribatua
-LOCAL-170123;Freguesia;Vale de Mendiz, Casal de Loivos e Vilarinho
 LOCAL-170116;Freguesia;Vila Chã
 LOCAL-170117;Freguesia;Vila Verde
 LOCAL-170118;Freguesia;Vilar de Maçada
+LOCAL-170120;Freguesia;Carlão e Amieiro
+LOCAL-170121;Freguesia;Castedo e Cotas
+LOCAL-170122;Freguesia;Pópulo e Ribalonga
+LOCAL-170123;Freguesia;Vale de Mendiz, Casal de Loivos e Vilarinho
 LOCAL-170200;Concelho;Boticas
-LOCAL-170217;Freguesia;Alturas do Barroso e Cerdedo
-LOCAL-170218;Freguesia;Ardãos e Bobadela
 LOCAL-170203;Freguesia;Beça
-LOCAL-170219;Freguesia;Boticas e Granja
-LOCAL-170220;Freguesia;Codessoso, Curros e Fiães do Tâmega
 LOCAL-170208;Freguesia;Covas do Barroso
 LOCAL-170210;Freguesia;Dornelas
 LOCAL-170213;Freguesia;Pinho
 LOCAL-170215;Freguesia;Sapiãos
+LOCAL-170217;Freguesia;Alturas do Barroso e Cerdedo
+LOCAL-170218;Freguesia;Ardãos e Bobadela
+LOCAL-170219;Freguesia;Boticas e Granja
+LOCAL-170220;Freguesia;Codessoso, Curros e Fiães do Tâmega
 LOCAL-170221;Freguesia;Vilar e Viveiro
 LOCAL-170300;Concelho;Chaves
 LOCAL-170301;Freguesia;Águas Frias
 LOCAL-170302;Freguesia;Anelhe
 LOCAL-170305;Freguesia;Bustelo
-LOCAL-170356;Freguesia;Calvão e Soutelinho da Raia
 LOCAL-170309;Freguesia;Cimo de Vila da Castanheira
 LOCAL-170310;Freguesia;Curalha
-LOCAL-170355;Freguesia;Eiras, São Julião de Montenegro e Cela
 LOCAL-170312;Freguesia;Ervededo
 LOCAL-170313;Freguesia;Faiões
 LOCAL-170314;Freguesia;Lama de Arcos
-LOCAL-170357;Freguesia;Loivos e Póvoa de Agrações
-LOCAL-170354;Freguesia;Madalena e Samaiões
 LOCAL-170316;Freguesia;Mairos
 LOCAL-170317;Freguesia;Moreiras
 LOCAL-170318;Freguesia;Nogueira da Montanha
 LOCAL-170320;Freguesia;Oura
 LOCAL-170321;Freguesia;Outeiro Seco
 LOCAL-170322;Freguesia;Paradela
-LOCAL-170353;Freguesia;Planalto de Monforte (Oucidres e Bobadela)
 LOCAL-170324;Freguesia;Redondelo
 LOCAL-170327;Freguesia;Sanfins
-LOCAL-170358;Freguesia;Santa Cruz/Trindade e Sanjurge
 LOCAL-170329;Freguesia;Santa Leocádia
-LOCAL-170350;Freguesia;Santa Maria Maior
 LOCAL-170330;Freguesia;Santo António de Monforte
 LOCAL-170331;Freguesia;Santo Estêvão
 LOCAL-170333;Freguesia;São Pedro de Agostém
 LOCAL-170334;Freguesia;São Vicente
-LOCAL-170359;Freguesia;Soutelo e Seara Velha
-LOCAL-170360;Freguesia;Travancas e Roriz
 LOCAL-170340;Freguesia;Tronco
 LOCAL-170341;Freguesia;Vale de Anta
-LOCAL-170361;Freguesia;Vidago, Arcossó, Selhariz, Vilarinho Paranheiras
 LOCAL-170343;Freguesia;Vila Verde da Raia
 LOCAL-170344;Freguesia;Vilar de Nantes
 LOCAL-170345;Freguesia;Vilarelho da Raia
 LOCAL-170347;Freguesia;Vilas Boas
-LOCAL-170349;Freguesia;Vilela do Tâmega
 LOCAL-170348;Freguesia;Vilela Seca
+LOCAL-170349;Freguesia;Vilela do Tâmega
+LOCAL-170350;Freguesia;Santa Maria Maior
+LOCAL-170353;Freguesia;Planalto de Monforte (Oucidres e Bobadela)
+LOCAL-170354;Freguesia;Madalena e Samaiões
+LOCAL-170355;Freguesia;Eiras, São Julião de Montenegro e Cela
+LOCAL-170356;Freguesia;Calvão e Soutelinho da Raia
+LOCAL-170357;Freguesia;Loivos e Póvoa de Agrações
+LOCAL-170358;Freguesia;Santa Cruz/Trindade e Sanjurge
+LOCAL-170359;Freguesia;Soutelo e Seara Velha
+LOCAL-170360;Freguesia;Travancas e Roriz
+LOCAL-170361;Freguesia;Vidago, Arcossó, Selhariz, Vilarinho Paranheiras
 LOCAL-170400;Concelho;Mesão Frio
 LOCAL-170401;Freguesia;Barqueiros
 LOCAL-170402;Freguesia;Cidadelhe
-LOCAL-170408;Freguesia;Mesão Frio (Santo André)
 LOCAL-170403;Freguesia;Oliveira
 LOCAL-170407;Freguesia;Vila Marim
+LOCAL-170408;Freguesia;Mesão Frio (Santo André)
 LOCAL-170500;Concelho;Mondim de Basto
 LOCAL-170501;Freguesia;Atei
 LOCAL-170502;Freguesia;Bilhó
-LOCAL-170509;Freguesia;Campanhó e Paradança
-LOCAL-170510;Freguesia;Ermelo e Pardelhas
 LOCAL-170505;Freguesia;São Cristóvão de Mondim de Basto
 LOCAL-170508;Freguesia;Vilar de Ferreiros
+LOCAL-170509;Freguesia;Campanhó e Paradança
+LOCAL-170510;Freguesia;Ermelo e Pardelhas
 LOCAL-170600;Concelho;Montalegre
 LOCAL-170601;Freguesia;Cabril
-LOCAL-170636;Freguesia;Cambeses do Rio, Donões e Mourilhe
 LOCAL-170603;Freguesia;Cervos
 LOCAL-170604;Freguesia;Chã
 LOCAL-170607;Freguesia;Covelo do Gerês
 LOCAL-170609;Freguesia;Ferral
 LOCAL-170612;Freguesia;Gralhas
-LOCAL-170637;Freguesia;Meixedo e Padornelos
-LOCAL-170638;Freguesia;Montalegre e Padroso
 LOCAL-170616;Freguesia;Morgade
 LOCAL-170618;Freguesia;Negrões
 LOCAL-170619;Freguesia;Outeiro
-LOCAL-170639;Freguesia;Paradela, Contim e Fiães
 LOCAL-170623;Freguesia;Pitões das Junias
 LOCAL-170625;Freguesia;Reigoso
 LOCAL-170626;Freguesia;Salto
 LOCAL-170627;Freguesia;Santo André
 LOCAL-170629;Freguesia;Sarraquinhos
-LOCAL-170640;Freguesia;Sezelhe e Covelães
 LOCAL-170631;Freguesia;Solveira
 LOCAL-170632;Freguesia;Tourém
+LOCAL-170635;Freguesia;Vila da Ponte
+LOCAL-170636;Freguesia;Cambeses do Rio, Donões e Mourilhe
+LOCAL-170637;Freguesia;Meixedo e Padornelos
+LOCAL-170638;Freguesia;Montalegre e Padroso
+LOCAL-170639;Freguesia;Paradela, Contim e Fiães
+LOCAL-170640;Freguesia;Sezelhe e Covelães
 LOCAL-170641;Freguesia;Venda Nova e Pondras
 LOCAL-170642;Freguesia;Viade de Baixo e Fervidelas
-LOCAL-170635;Freguesia;Vila da Ponte
 LOCAL-170643;Freguesia;Vilar de Perdizes e Meixide
 LOCAL-170700;Concelho;Murça
 LOCAL-170701;Freguesia;Candedo
-LOCAL-170710;Freguesia;Carva e Vilares
 LOCAL-170703;Freguesia;Fiolhoso
 LOCAL-170704;Freguesia;Jou
 LOCAL-170705;Freguesia;Murça
-LOCAL-170711;Freguesia;Noura e Palheiros
 LOCAL-170708;Freguesia;Valongo de Milhais
+LOCAL-170710;Freguesia;Carva e Vilares
+LOCAL-170711;Freguesia;Noura e Palheiros
 LOCAL-170800;Concelho;Peso da Régua
 LOCAL-170802;Freguesia;Fontelas
-LOCAL-170813;Freguesia;Galafura e Covelinhas
 LOCAL-170805;Freguesia;Loureiro
+LOCAL-170809;Freguesia;Sedielos
+LOCAL-170810;Freguesia;Vilarinho dos Freires
+LOCAL-170813;Freguesia;Galafura e Covelinhas
 LOCAL-170814;Freguesia;Moura Morta e Vinhós
 LOCAL-170815;Freguesia;Peso da Régua e Godim
 LOCAL-170816;Freguesia;Poiares e Canelas
-LOCAL-170809;Freguesia;Sedielos
-LOCAL-170810;Freguesia;Vilarinho dos Freires
 LOCAL-170900;Concelho;Ribeira de Pena
 LOCAL-170901;Freguesia;Alvadia
 LOCAL-170902;Freguesia;Canedo
+LOCAL-170906;Freguesia;Santa Marinha
 LOCAL-170908;Freguesia;Cerva e Limões
 LOCAL-170909;Freguesia;Salvador e Santo Aleixo de Além-Tâmega
-LOCAL-170906;Freguesia;Santa Marinha
 LOCAL-171000;Concelho;Sabrosa
 LOCAL-171001;Freguesia;Celeirós
 LOCAL-171002;Freguesia;Covas do Douro
 LOCAL-171004;Freguesia;Gouvinhas
-LOCAL-171007;Freguesia;Paços
 LOCAL-171005;Freguesia;Parada de Pinhão
-LOCAL-171016;Freguesia;Provesende, Gouvães e S.Cristóvão do Douro
+LOCAL-171007;Freguesia;Paços
 LOCAL-171009;Freguesia;Sabrosa
 LOCAL-171011;Freguesia;São Lourenço de Ribapinhão
-LOCAL-171017;Freguesia;São Martinho de Antas e Paradela de Guiães
 LOCAL-171013;Freguesia;Souto Maior
 LOCAL-171014;Freguesia;Torre do Pinhão
 LOCAL-171015;Freguesia;Vilarinho de São Romão
+LOCAL-171016;Freguesia;Provesende, Gouvães e S.Cristóvão do Douro
+LOCAL-171017;Freguesia;São Martinho de Antas e Paradela de Guiães
 LOCAL-171100;Concelho;Santa Marta de Penaguião
 LOCAL-171101;Freguesia;Alvações do Corgo
 LOCAL-171102;Freguesia;Cumieira
 LOCAL-171103;Freguesia;Fontes
-LOCAL-171111;Freguesia;Lobrigos (S.Miguel e S.João Baptista) e Sanhoane
-LOCAL-171112;Freguesia;Louredo e Fornelos
 LOCAL-171106;Freguesia;Medrões
 LOCAL-171110;Freguesia;Sever
+LOCAL-171111;Freguesia;Lobrigos (S.Miguel e S.João Baptista) e Sanhoane
+LOCAL-171112;Freguesia;Louredo e Fornelos
 LOCAL-171200;Concelho;Valpaços
 LOCAL-171201;Freguesia;Água Revés e Crasto
 LOCAL-171203;Freguesia;Algeriz
 LOCAL-171205;Freguesia;Bouçoães
 LOCAL-171206;Freguesia;Canaveses
-LOCAL-171232;Freguesia;Carrazedo de Montenegro e Curros
 LOCAL-171209;Freguesia;Ervões
 LOCAL-171211;Freguesia;Fornos do Pinhal
 LOCAL-171212;Freguesia;Friões
-LOCAL-171233;Freguesia;Lebução, Fiães e Nozelos
 LOCAL-171215;Freguesia;Padrela e Tazem
 LOCAL-171216;Freguesia;Possacos
 LOCAL-171217;Freguesia;Rio Torto
@@ -2835,21 +2829,20 @@ LOCAL-171221;Freguesia;Santiago da Ribeira de Alhariz
 LOCAL-171222;Freguesia;São João da Corveira
 LOCAL-171223;Freguesia;São Pedro de Veiga de Lila
 LOCAL-171224;Freguesia;Serapicos
-LOCAL-171234;Freguesia;Sonim e Barreiros
-LOCAL-171235;Freguesia;Tinhela e Alvarelhos
 LOCAL-171227;Freguesia;Vales
-LOCAL-171236;Freguesia;Valpaços e Sanfins
 LOCAL-171229;Freguesia;Vassal
 LOCAL-171230;Freguesia;Veiga de Lila
 LOCAL-171231;Freguesia;Vilarandelo
+LOCAL-171232;Freguesia;Carrazedo de Montenegro e Curros
+LOCAL-171233;Freguesia;Lebução, Fiães e Nozelos
+LOCAL-171234;Freguesia;Sonim e Barreiros
+LOCAL-171235;Freguesia;Tinhela e Alvarelhos
+LOCAL-171236;Freguesia;Valpaços e Sanfins
 LOCAL-171300;Concelho;Vila Pouca de Aguiar
 LOCAL-171302;Freguesia;Alfarela de Jales
-LOCAL-171319;Freguesia;Alvão
 LOCAL-171303;Freguesia;Bornes de Aguiar
 LOCAL-171304;Freguesia;Bragado
 LOCAL-171305;Freguesia;Capeludos
-LOCAL-171320;Freguesia;Pensalvos e Parada de Monteiros
-LOCAL-171317;Freguesia;Sabroso de Aguiar
 LOCAL-171310;Freguesia;Soutelo de Aguiar
 LOCAL-171311;Freguesia;Telões
 LOCAL-171312;Freguesia;Tresminas
@@ -2857,31 +2850,33 @@ LOCAL-171313;Freguesia;Valoura
 LOCAL-171314;Freguesia;Vila Pouca de Aguiar
 LOCAL-171315;Freguesia;Vreia de Bornes
 LOCAL-171316;Freguesia;Vreia de Jales
+LOCAL-171317;Freguesia;Sabroso de Aguiar
+LOCAL-171319;Freguesia;Alvão
+LOCAL-171320;Freguesia;Pensalvos e Parada de Monteiros
 LOCAL-171400;Concelho;Vila Real
 LOCAL-171401;Freguesia;Abaças
-LOCAL-171431;Freguesia;Adoufe e Vilarinho de Samardã
 LOCAL-171403;Freguesia;Andrães
 LOCAL-171404;Freguesia;Arroios
-LOCAL-171432;Freguesia;Borbela e Lamas de Olo
 LOCAL-171406;Freguesia;Campeã
-LOCAL-171433;Freguesia;Constantim e Vale de Nogueiras
 LOCAL-171409;Freguesia;Folhadela
 LOCAL-171410;Freguesia;Guiães
 LOCAL-171414;Freguesia;Lordelo
 LOCAL-171415;Freguesia;Mateus
 LOCAL-171416;Freguesia;Mondrões
-LOCAL-171434;Freguesia;Mouçós e Lamares
-LOCAL-171435;Freguesia;Nogueira e Ermida
 LOCAL-171420;Freguesia;Parada de Cunhos
-LOCAL-171436;Freguesia;Pena, Quintã e Vila Cova
-LOCAL-171437;Freguesia;São Tomé do Castelo e Justes
 LOCAL-171426;Freguesia;Torgueda
 LOCAL-171429;Freguesia;Vila Marim
+LOCAL-171431;Freguesia;Adoufe e Vilarinho de Samardã
+LOCAL-171432;Freguesia;Borbela e Lamas de Olo
+LOCAL-171433;Freguesia;Constantim e Vale de Nogueiras
+LOCAL-171434;Freguesia;Mouçós e Lamares
+LOCAL-171435;Freguesia;Nogueira e Ermida
+LOCAL-171436;Freguesia;Pena, Quintã e Vila Cova
+LOCAL-171437;Freguesia;São Tomé do Castelo e Justes
 LOCAL-171438;Freguesia;Vila Real
+LOCAL-180000;Distrito;Viseu
 LOCAL-180100;Concelho;Armamar
 LOCAL-180101;Freguesia;Aldeias
-LOCAL-180121;Freguesia;Aricera e Goujoim
-LOCAL-180120;Freguesia;Armamar
 LOCAL-180104;Freguesia;Cimbres
 LOCAL-180106;Freguesia;Folgosa
 LOCAL-180107;Freguesia;Fontelo
@@ -2890,34 +2885,35 @@ LOCAL-180110;Freguesia;Queimadela
 LOCAL-180111;Freguesia;Santa Cruz
 LOCAL-180114;Freguesia;São Cosmado
 LOCAL-180115;Freguesia;São Martinho das Chãs
-LOCAL-180122;Freguesia;São Romão e Santiago
 LOCAL-180118;Freguesia;Vacalar
+LOCAL-180120;Freguesia;Armamar
+LOCAL-180121;Freguesia;Aricera e Goujoim
+LOCAL-180122;Freguesia;São Romão e Santiago
 LOCAL-180123;Freguesia;Vila Seca e Santo Adrião
 LOCAL-180200;Concelho;Carregal do Sal
 LOCAL-180201;Freguesia;Beijós
 LOCAL-180202;Freguesia;Cabanas de Viriato
-LOCAL-180208;Freguesia;Carregal do Sal
 LOCAL-180204;Freguesia;Oliveira do Conde
 LOCAL-180206;Freguesia;Parada
+LOCAL-180208;Freguesia;Carregal do Sal
 LOCAL-180300;Concelho;Castro Daire
 LOCAL-180301;Freguesia;Almofala
 LOCAL-180303;Freguesia;Cabril
 LOCAL-180304;Freguesia;Castro Daire
 LOCAL-180305;Freguesia;Cujó
 LOCAL-180309;Freguesia;Gosende
-LOCAL-180323;Freguesia;Mamouros, Alva e Ribolhos
-LOCAL-180324;Freguesia;Mezio e Moura Morta
 LOCAL-180312;Freguesia;Mões
 LOCAL-180313;Freguesia;Moledo
 LOCAL-180314;Freguesia;Monteiras
-LOCAL-180325;Freguesia;Parada de Ester e Ester
 LOCAL-180317;Freguesia;Pepim
-LOCAL-180326;Freguesia;Picão e Ermida
 LOCAL-180319;Freguesia;Pinheiro
-LOCAL-180327;Freguesia;Reriz e Gafanhão
 LOCAL-180322;Freguesia;São Joaninho
+LOCAL-180323;Freguesia;Mamouros, Alva e Ribolhos
+LOCAL-180324;Freguesia;Mezio e Moura Morta
+LOCAL-180325;Freguesia;Parada de Ester e Ester
+LOCAL-180326;Freguesia;Picão e Ermida
+LOCAL-180327;Freguesia;Reriz e Gafanhão
 LOCAL-180400;Concelho;Cinfães
-LOCAL-180418;Freguesia;Alhões, Bustelo, Gralheira e Ramires
 LOCAL-180403;Freguesia;Cinfães
 LOCAL-180404;Freguesia;Espadanedo
 LOCAL-180405;Freguesia;Ferreiros de Tendais
@@ -2931,25 +2927,26 @@ LOCAL-180414;Freguesia;Souselo
 LOCAL-180415;Freguesia;Tarouquela
 LOCAL-180416;Freguesia;Tendais
 LOCAL-180417;Freguesia;Travanca
+LOCAL-180418;Freguesia;Alhões, Bustelo, Gralheira e Ramires
 LOCAL-180500;Concelho;Lamego
 LOCAL-180502;Freguesia;Avões
-LOCAL-180526;Freguesia;Bigorne, Magueija e Pretarouca
 LOCAL-180504;Freguesia;Britiande
 LOCAL-180505;Freguesia;Cambres
-LOCAL-180527;Freguesia;Cepões, Meijinhos e Melcões
 LOCAL-180507;Freguesia;Ferreirim
 LOCAL-180508;Freguesia;Ferreiros de Avões
 LOCAL-180509;Freguesia;Figueira
 LOCAL-180510;Freguesia;Lalim
-LOCAL-180525;Freguesia;Lamego (Almacave e Sé)
 LOCAL-180511;Freguesia;Lazarim
-LOCAL-180528;Freguesia;Parada do Bispo e Valdigem
 LOCAL-180516;Freguesia;Penajóia
 LOCAL-180517;Freguesia;Penude
 LOCAL-180519;Freguesia;Samodães
 LOCAL-180520;Freguesia;Sande
 LOCAL-180523;Freguesia;Várzea de Abrunhais
 LOCAL-180524;Freguesia;Vila Nova de Souto d'El-Rei
+LOCAL-180525;Freguesia;Lamego (Almacave e Sé)
+LOCAL-180526;Freguesia;Bigorne, Magueija e Pretarouca
+LOCAL-180527;Freguesia;Cepões, Meijinhos e Melcões
+LOCAL-180528;Freguesia;Parada do Bispo e Valdigem
 LOCAL-180600;Concelho;Mangualde
 LOCAL-180601;Freguesia;Abrunhosa-a-Velha
 LOCAL-180602;Freguesia;Alcafache
@@ -2957,11 +2954,11 @@ LOCAL-180605;Freguesia;Cunha Baixa
 LOCAL-180606;Freguesia;Espinho
 LOCAL-180607;Freguesia;Fornos de Maceira Dão
 LOCAL-180608;Freguesia;Freixiosa
+LOCAL-180614;Freguesia;Quintela de Azurara
+LOCAL-180616;Freguesia;São João da Fresta
 LOCAL-180619;Freguesia;Mangualde, Mesquitela e Cunha Alta
 LOCAL-180620;Freguesia;Moimenta de Maceira Dão e Lobelhe do Mato
-LOCAL-180614;Freguesia;Quintela de Azurara
 LOCAL-180621;Freguesia;Santiago de Cassurrães e Póvoa de Cervães
-LOCAL-180616;Freguesia;São João da Fresta
 LOCAL-180622;Freguesia;Tavares (Chãs, Várzea e Travanca)
 LOCAL-180700;Concelho;Moimenta da Beira
 LOCAL-180702;Freguesia;Alvite
@@ -2972,41 +2969,40 @@ LOCAL-180707;Freguesia;Caria
 LOCAL-180708;Freguesia;Castelo
 LOCAL-180709;Freguesia;Leomil
 LOCAL-180710;Freguesia;Moimenta da Beira
-LOCAL-180721;Freguesia;Paradinha e Nagosa
 LOCAL-180713;Freguesia;Passô
-LOCAL-180722;Freguesia;Pêra Velha, Aldeia de Nacomba e Ariz
-LOCAL-180723;Freguesia;Peva e Segões
+LOCAL-180716;Freguesia;Vila da Rua
 LOCAL-180717;Freguesia;Sarzedo
 LOCAL-180719;Freguesia;Sever
-LOCAL-180716;Freguesia;Vila da Rua
 LOCAL-180720;Freguesia;Vilar
+LOCAL-180721;Freguesia;Paradinha e Nagosa
+LOCAL-180722;Freguesia;Pêra Velha, Aldeia de Nacomba e Ariz
+LOCAL-180723;Freguesia;Peva e Segões
 LOCAL-180800;Concelho;Mortágua
 LOCAL-180802;Freguesia;Cercosa
 LOCAL-180804;Freguesia;Espinho
 LOCAL-180805;Freguesia;Marmeleira
-LOCAL-180811;Freguesia;Mortágua, Vale de Remígio, Cortegaça e Almaça
 LOCAL-180807;Freguesia;Pala
 LOCAL-180808;Freguesia;Sobral
 LOCAL-180809;Freguesia;Trezói
+LOCAL-180811;Freguesia;Mortágua, Vale de Remígio, Cortegaça e Almaça
 LOCAL-180900;Concelho;Nelas
 LOCAL-180901;Freguesia;Canas de Senhorim
-LOCAL-180910;Freguesia;Carvalhal Redondo e Aguieira
-LOCAL-180908;Freguesia;Lapa do Lobo
 LOCAL-180903;Freguesia;Nelas
-LOCAL-180911;Freguesia;Santar e Moreira
 LOCAL-180905;Freguesia;Senhorim
 LOCAL-180906;Freguesia;Vilar Seco
+LOCAL-180908;Freguesia;Lapa do Lobo
+LOCAL-180910;Freguesia;Carvalhal Redondo e Aguieira
+LOCAL-180911;Freguesia;Santar e Moreira
 LOCAL-181000;Concelho;Oliveira de Frades
-LOCAL-181013;Freguesia;Arca e Varzielas
 LOCAL-181002;Freguesia;Arcozelo das Maias
-LOCAL-181014;Freguesia;Destriz e Reigoso
-LOCAL-181015;Freguesia;Oliveira de Frades, Souto de Lafões e Sejães
 LOCAL-181005;Freguesia;Pinheiro
 LOCAL-181007;Freguesia;Ribeiradio
 LOCAL-181008;Freguesia;São João da Serra
 LOCAL-181009;Freguesia;São Vicente de Lafões
+LOCAL-181013;Freguesia;Arca e Varzielas
+LOCAL-181014;Freguesia;Destriz e Reigoso
+LOCAL-181015;Freguesia;Oliveira de Frades, Souto de Lafões e Sejães
 LOCAL-181100;Concelho;Penalva do Castelo
-LOCAL-181114;Freguesia;Antas e Matela
 LOCAL-181102;Freguesia;Castelo de Penalva
 LOCAL-181103;Freguesia;Esmolfe
 LOCAL-181104;Freguesia;Germil
@@ -3016,33 +3012,34 @@ LOCAL-181109;Freguesia;Pindo
 LOCAL-181110;Freguesia;Real
 LOCAL-181111;Freguesia;Sezures
 LOCAL-181112;Freguesia;Trancozelos
+LOCAL-181114;Freguesia;Antas e Matela
 LOCAL-181115;Freguesia;Vila Cova do Covelo/Mareco
 LOCAL-181200;Concelho;Penedono
-LOCAL-181210;Freguesia;Antas e Ourozinho
 LOCAL-181202;Freguesia;Beselga
 LOCAL-181203;Freguesia;Castainço
-LOCAL-181211;Freguesia;Penedono e Granja
 LOCAL-181207;Freguesia;Penela da Beira
 LOCAL-181208;Freguesia;Póvoa de Penela
 LOCAL-181209;Freguesia;Souto
+LOCAL-181210;Freguesia;Antas e Ourozinho
+LOCAL-181211;Freguesia;Penedono e Granja
 LOCAL-181300;Concelho;Resende
-LOCAL-181316;Freguesia;Anreade e São Romão de Aregos
 LOCAL-181302;Freguesia;Barrô
 LOCAL-181303;Freguesia;Cárquere
-LOCAL-181317;Freguesia;Felgueiras e Feirão
-LOCAL-181318;Freguesia;Freigil e Miomães
-LOCAL-181319;Freguesia;Ovadas e Panchorra
 LOCAL-181310;Freguesia;Paus
 LOCAL-181311;Freguesia;Resende
 LOCAL-181312;Freguesia;São Cipriano
 LOCAL-181313;Freguesia;São João de Fontoura
 LOCAL-181314;Freguesia;São Martinho de Mouros
+LOCAL-181316;Freguesia;Anreade e São Romão de Aregos
+LOCAL-181317;Freguesia;Felgueiras e Feirão
+LOCAL-181318;Freguesia;Freigil e Miomães
+LOCAL-181319;Freguesia;Ovadas e Panchorra
 LOCAL-181400;Concelho;Santa Comba Dão
-LOCAL-181410;Freguesia;Ovoa e Vimieiro
 LOCAL-181403;Freguesia;Pinheiro de Ázere
-LOCAL-181411;Freguesia;Santa Comba Dão e Couto do Mosteiro
 LOCAL-181405;Freguesia;São Joaninho
 LOCAL-181406;Freguesia;São João de Areias
+LOCAL-181410;Freguesia;Ovoa e Vimieiro
+LOCAL-181411;Freguesia;Santa Comba Dão e Couto do Mosteiro
 LOCAL-181412;Freguesia;Treixedo e Nagozela
 LOCAL-181500;Concelho;São João da Pesqueira
 LOCAL-181501;Freguesia;Castanheiro do Sul
@@ -3050,78 +3047,76 @@ LOCAL-181502;Freguesia;Ervedosa do Douro
 LOCAL-181504;Freguesia;Nagozelo do Douro
 LOCAL-181505;Freguesia;Paredes da Beira
 LOCAL-181507;Freguesia;Riodades
-LOCAL-181515;Freguesia;São João da Pesqueira e Várzea de Trevões
 LOCAL-181509;Freguesia;Soutelo do Douro
-LOCAL-181516;Freguesia;Trevões e Espinhosa
 LOCAL-181511;Freguesia;Vale de Figueira
 LOCAL-181512;Freguesia;Valongo dos Azeites
+LOCAL-181515;Freguesia;São João da Pesqueira e Várzea de Trevões
+LOCAL-181516;Freguesia;Trevões e Espinhosa
 LOCAL-181517;Freguesia;Vilarouco e Pereiros
 LOCAL-181600;Concelho;São Pedro do Sul
 LOCAL-181602;Freguesia;Bordonhos
-LOCAL-181620;Freguesia;Carvalhais e Candal
 LOCAL-181606;Freguesia;Figueiredo de Alva
 LOCAL-181607;Freguesia;Manhouce
 LOCAL-181608;Freguesia;Pindelo dos Milagres
 LOCAL-181609;Freguesia;Pinho
-LOCAL-181621;Freguesia;Santa Cruz da Trapa e São Cristóvão de Lafões
 LOCAL-181612;Freguesia;São Félix
-LOCAL-181622;Freguesia;São Martinho das Moitas e Covas do Rio
-LOCAL-181623;Freguesia;São Pedro do Sul, Várzea e Baiões
 LOCAL-181615;Freguesia;Serrazes
 LOCAL-181616;Freguesia;Sul
 LOCAL-181617;Freguesia;Valadares
 LOCAL-181619;Freguesia;Vila Maior
+LOCAL-181620;Freguesia;Carvalhais e Candal
+LOCAL-181621;Freguesia;Santa Cruz da Trapa e São Cristóvão de Lafões
+LOCAL-181622;Freguesia;São Martinho das Moitas e Covas do Rio
+LOCAL-181623;Freguesia;São Pedro do Sul, Várzea e Baiões
 LOCAL-181700;Concelho;Sátão
-LOCAL-181713;Freguesia;Águas Boas e Forles
 LOCAL-181702;Freguesia;Avelal
 LOCAL-181704;Freguesia;Ferreira de Aves
 LOCAL-181706;Freguesia;Mioma
 LOCAL-181707;Freguesia;Rio de Moinhos
-LOCAL-181714;Freguesia;Romãs, Decermilo e Vila Longa
 LOCAL-181709;Freguesia;São Miguel de Vila Boa
 LOCAL-181710;Freguesia;Sátão
 LOCAL-181711;Freguesia;Silvã de Cima
+LOCAL-181713;Freguesia;Águas Boas e Forles
+LOCAL-181714;Freguesia;Romãs, Decermilo e Vila Longa
 LOCAL-181800;Concelho;Sernancelhe
 LOCAL-181801;Freguesia;Arnas
 LOCAL-181802;Freguesia;Carregal
 LOCAL-181803;Freguesia;Chosendo
 LOCAL-181804;Freguesia;Cunha
 LOCAL-181806;Freguesia;Faia
-LOCAL-181818;Freguesia;Ferreirim e Macieira
-LOCAL-181819;Freguesia;Fonte Arcada e Escurquela
 LOCAL-181810;Freguesia;Granjal
 LOCAL-181811;Freguesia;Lamosa
-LOCAL-181820;Freguesia;Penso e Freixinho
 LOCAL-181814;Freguesia;Quintela
-LOCAL-181821;Freguesia;Sernancelhe e Sarzeda
 LOCAL-181817;Freguesia;Vila da Ponte
+LOCAL-181818;Freguesia;Ferreirim e Macieira
+LOCAL-181819;Freguesia;Fonte Arcada e Escurquela
+LOCAL-181820;Freguesia;Penso e Freixinho
+LOCAL-181821;Freguesia;Sernancelhe e Sarzeda
 LOCAL-181900;Concelho;Tabuaço
 LOCAL-181901;Freguesia;Adorigo
 LOCAL-181902;Freguesia;Arcos
-LOCAL-181918;Freguesia;Barcos e Santa Leocádia
 LOCAL-181904;Freguesia;Chavães
 LOCAL-181905;Freguesia;Desejosa
 LOCAL-181906;Freguesia;Granja do Tedo
 LOCAL-181908;Freguesia;Longa
-LOCAL-181919;Freguesia;Paradela e Granjinha
-LOCAL-181920;Freguesia;Pinheiros e Vale de Figueira
 LOCAL-181913;Freguesia;Sendim
 LOCAL-181914;Freguesia;Tabuaço
-LOCAL-181921;Freguesia;Távora e Pereiro
 LOCAL-181917;Freguesia;Valença do Douro
+LOCAL-181918;Freguesia;Barcos e Santa Leocádia
+LOCAL-181919;Freguesia;Paradela e Granjinha
+LOCAL-181920;Freguesia;Pinheiros e Vale de Figueira
+LOCAL-181921;Freguesia;Távora e Pereiro
 LOCAL-182000;Concelho;Tarouca
-LOCAL-182011;Freguesia;Gouviães e Ucanha
-LOCAL-182012;Freguesia;Granja Nova e Vila Chã da Beira
 LOCAL-182004;Freguesia;Mondim da Beira
 LOCAL-182005;Freguesia;Salzedas
 LOCAL-182006;Freguesia;São João de Tarouca
-LOCAL-182013;Freguesia;Tarouca e Dálvares
 LOCAL-182009;Freguesia;Várzea da Serra
+LOCAL-182011;Freguesia;Gouviães e Ucanha
+LOCAL-182012;Freguesia;Granja Nova e Vila Chã da Beira
+LOCAL-182013;Freguesia;Tarouca e Dálvares
 LOCAL-182100;Concelho;Tondela
-LOCAL-182127;Freguesia;Barreiro de Besteiros e Tourigo
 LOCAL-182102;Freguesia;Campo de Besteiros
 LOCAL-182103;Freguesia;Canas de Santa Maria
-LOCAL-182128;Freguesia;Caparrosa e Silvares
 LOCAL-182105;Freguesia;Castelões
 LOCAL-182106;Freguesia;Dardavaz
 LOCAL-182107;Freguesia;Ferreirós do Dão
@@ -3129,51 +3124,54 @@ LOCAL-182108;Freguesia;Guardão
 LOCAL-182109;Freguesia;Lajeosa do Dão
 LOCAL-182110;Freguesia;Lobão da Beira
 LOCAL-182111;Freguesia;Molelos
-LOCAL-182129;Freguesia;Mouraz e Vila Nova da Rainha
 LOCAL-182116;Freguesia;Parada de Gonta
 LOCAL-182118;Freguesia;Santiago de Besteiros
+LOCAL-182122;Freguesia;Tonda
+LOCAL-182127;Freguesia;Barreiro de Besteiros e Tourigo
+LOCAL-182128;Freguesia;Caparrosa e Silvares
+LOCAL-182129;Freguesia;Mouraz e Vila Nova da Rainha
 LOCAL-182130;Freguesia;São João do Monte e Mosteirinho
 LOCAL-182131;Freguesia;São Miguel do Outeiro e Sabugosa
-LOCAL-182122;Freguesia;Tonda
 LOCAL-182132;Freguesia;Tondela e Nandufe
 LOCAL-182133;Freguesia;Vilar de Besteiros e Mosteiro de Fráguas
 LOCAL-182200;Concelho;Vila Nova de Paiva
 LOCAL-182300;Concelho;Viseu
 LOCAL-182301;Freguesia;Abraveses
-LOCAL-182335;Freguesia;Barreiros e Cepões
-LOCAL-182336;Freguesia;Boa Aldeia, Farminhão e Torredeita
 LOCAL-182304;Freguesia;Bodiosa
 LOCAL-182305;Freguesia;Calde
 LOCAL-182306;Freguesia;Campo
 LOCAL-182307;Freguesia;Cavernães
 LOCAL-182310;Freguesia;Cota
-LOCAL-182337;Freguesia;Coutos de Viseu
-LOCAL-182338;Freguesia;Fail e Vila Chã de Sá
 LOCAL-182315;Freguesia;Fragosela
 LOCAL-182316;Freguesia;Lordosa
+LOCAL-182317;Freguesia;Silgueiros
 LOCAL-182318;Freguesia;Mundão
 LOCAL-182319;Freguesia;Orgens
 LOCAL-182320;Freguesia;Povolide
 LOCAL-182321;Freguesia;Ranhados
-LOCAL-182339;Freguesia;Repeses e São Salvador
 LOCAL-182322;Freguesia;Ribafeita
 LOCAL-182323;Freguesia;Rio de Loba
 LOCAL-182325;Freguesia;Santos Evos
-LOCAL-182340;Freguesia;São Cipriano e Vil de Souto
 LOCAL-182327;Freguesia;São João de Lourosa
 LOCAL-182329;Freguesia;São Pedro de France
-LOCAL-182317;Freguesia;Silgueiros
+LOCAL-182335;Freguesia;Barreiros e Cepões
+LOCAL-182336;Freguesia;Boa Aldeia, Farminhão e Torredeita
+LOCAL-182337;Freguesia;Coutos de Viseu
+LOCAL-182338;Freguesia;Fail e Vila Chã de Sá
+LOCAL-182339;Freguesia;Repeses e São Salvador
+LOCAL-182340;Freguesia;São Cipriano e Vil de Souto
 LOCAL-182341;Freguesia;Viseu
 LOCAL-182400;Concelho;Vouzela
 LOCAL-182401;Freguesia;Alcofra
-LOCAL-182413;Freguesia;Cambra e Carvalhal de Vermilhas
 LOCAL-182403;Freguesia;Campia
-LOCAL-182414;Freguesia;Fataunços e Figueiredo das Donas
 LOCAL-182407;Freguesia;Fornelo do Monte
 LOCAL-182409;Freguesia;Queirã
 LOCAL-182410;Freguesia;São Miguel do Mato
 LOCAL-182411;Freguesia;Ventosa
+LOCAL-182413;Freguesia;Cambra e Carvalhal de Vermilhas
+LOCAL-182414;Freguesia;Fataunços e Figueiredo das Donas
 LOCAL-182415;Freguesia;Vouzela e Paços de Vilharigues
+LOCAL-300000;Distrito;Madeira
 LOCAL-310100;Concelho;Calheta
 LOCAL-310101;Freguesia;Arco da Calheta
 LOCAL-310102;Freguesia;Calheta
@@ -3187,19 +3185,19 @@ LOCAL-310200;Concelho;Câmara de Lobos
 LOCAL-310201;Freguesia;Câmara de Lobos
 LOCAL-310202;Freguesia;Curral das Freiras
 LOCAL-310203;Freguesia;Estreito de Câmara de Lobos
-LOCAL-310205;Freguesia;Jardim da Serra
 LOCAL-310204;Freguesia;Quinta Grande
+LOCAL-310205;Freguesia;Jardim da Serra
 LOCAL-310300;Concelho;Funchal
-LOCAL-310303;Freguesia;Funchal (Santa Luzia)
-LOCAL-310304;Freguesia;Funchal (Santa Maria Maior)
-LOCAL-310308;Freguesia;Funchal (São Pedro)
-LOCAL-310310;Freguesia;Funchal (Sé)
 LOCAL-310301;Freguesia;Imaculado Coração de Maria
 LOCAL-310302;Freguesia;Monte
+LOCAL-310303;Freguesia;Funchal (Santa Luzia)
+LOCAL-310304;Freguesia;Funchal (Santa Maria Maior)
 LOCAL-310305;Freguesia;Santo António
 LOCAL-310306;Freguesia;São Gonçalo
 LOCAL-310307;Freguesia;São Martinho
+LOCAL-310308;Freguesia;Funchal (São Pedro)
 LOCAL-310309;Freguesia;São Roque
+LOCAL-310310;Freguesia;Funchal (Sé)
 LOCAL-310400;Concelho;Machico
 LOCAL-310401;Freguesia;Água de Pena
 LOCAL-310402;Freguesia;Caniçal
@@ -3229,16 +3227,17 @@ LOCAL-310806;Freguesia;Santo António da Serra
 LOCAL-310900;Concelho;Santana
 LOCAL-310901;Freguesia;Arco de São Jorge
 LOCAL-310902;Freguesia;Faial
-LOCAL-310906;Freguesia;Ilha
 LOCAL-310903;Freguesia;Santana
 LOCAL-310904;Freguesia;São Jorge
 LOCAL-310905;Freguesia;São Roque do Faial
+LOCAL-310906;Freguesia;Ilha
 LOCAL-311000;Concelho;São Vicente
 LOCAL-311001;Freguesia;Boa Ventura
 LOCAL-311002;Freguesia;Ponta Delgada
 LOCAL-311003;Freguesia;São Vicente
 LOCAL-320100;Concelho;Porto Santo
 LOCAL-320101;Freguesia;Porto Santo
+LOCAL-400000;Distrito;Açores
 LOCAL-410100;Concelho;Vila do Porto
 LOCAL-410101;Freguesia;Almagreira
 LOCAL-410102;Freguesia;Santa Bárbara
@@ -3254,15 +3253,14 @@ LOCAL-420105;Freguesia;Ribeira Chã
 LOCAL-420200;Concelho;Nordeste
 LOCAL-420201;Freguesia;Achada
 LOCAL-420202;Freguesia;Achadinha
-LOCAL-420208;Freguesia;Algarvia
 LOCAL-420203;Freguesia;Lomba da Fazenda
 LOCAL-420204;Freguesia;Nordeste
 LOCAL-420206;Freguesia;Salga
 LOCAL-420207;Freguesia;Santana
+LOCAL-420208;Freguesia;Algarvia
 LOCAL-420209;Freguesia;Santo António de Nordestinho
 LOCAL-420210;Freguesia;São Pedro de Nordestinho
 LOCAL-420300;Concelho;Ponta Delgada
-LOCAL-420323;Freguesia;Ajuda da Bretanha
 LOCAL-420301;Freguesia;Arrifes
 LOCAL-420303;Freguesia;Candelária
 LOCAL-420304;Freguesia;Capelas
@@ -3273,19 +3271,20 @@ LOCAL-420308;Freguesia;Fenais da Luz
 LOCAL-420309;Freguesia;Feteiras
 LOCAL-420310;Freguesia;Ginetes
 LOCAL-420311;Freguesia;Mosteiros
-LOCAL-420324;Freguesia;Pilar da Bretanha
+LOCAL-420312;Freguesia;Ponta Delgada (São Sebastião)
 LOCAL-420313;Freguesia;Ponta Delgada (São José)
 LOCAL-420314;Freguesia;Ponta Delgada (São Pedro)
-LOCAL-420312;Freguesia;Ponta Delgada (São Sebastião)
 LOCAL-420315;Freguesia;Relva
 LOCAL-420316;Freguesia;Remédios
 LOCAL-420317;Freguesia;Rosto do Cão (Livramento)
 LOCAL-420318;Freguesia;Rosto do Cão (São Roque)
 LOCAL-420319;Freguesia;Santa Bárbara
-LOCAL-420325;Freguesia;Santa Clara
 LOCAL-420320;Freguesia;Santo António
 LOCAL-420321;Freguesia;São Vicente Ferreira
 LOCAL-420322;Freguesia;Sete Cidades
+LOCAL-420323;Freguesia;Ajuda da Bretanha
+LOCAL-420324;Freguesia;Pilar da Bretanha
+LOCAL-420325;Freguesia;Santa Clara
 LOCAL-420400;Concelho;Povoação
 LOCAL-420401;Freguesia;Água Retorta
 LOCAL-420402;Freguesia;Faial da Terra
@@ -3312,9 +3311,9 @@ LOCAL-420600;Concelho;Vila Franca do Campo
 LOCAL-420601;Freguesia;Água de Alto
 LOCAL-420602;Freguesia;Ponta Garça
 LOCAL-420603;Freguesia;Ribeira das Tainhas
-LOCAL-420606;Freguesia;Ribeira Seca
 LOCAL-420604;Freguesia;Vila Franca do Campo (São Miguel)
 LOCAL-420605;Freguesia;Vila Franca do Campo (São Pedro)
+LOCAL-420606;Freguesia;Ribeira Seca
 LOCAL-430100;Concelho;Angra do Heroísmo
 LOCAL-430101;Freguesia;Altares
 LOCAL-430102;Freguesia;Angra (Nossa Senhora da Conceição)
@@ -3342,16 +3341,16 @@ LOCAL-430203;Freguesia;Cabo da Praia
 LOCAL-430204;Freguesia;Fonte do Bastardo
 LOCAL-430205;Freguesia;Fontinhas
 LOCAL-430206;Freguesia;Lajes
-LOCAL-430211;Freguesia;Porto Martins
 LOCAL-430207;Freguesia;Praia da Vitória (Santa Cruz)
 LOCAL-430208;Freguesia;Quatro Ribeiras
 LOCAL-430209;Freguesia;São Brás
 LOCAL-430210;Freguesia;Vila Nova
+LOCAL-430211;Freguesia;Porto Martins
 LOCAL-440100;Concelho;Santa Cruz da Graciosa
 LOCAL-440101;Freguesia;Guadalupe
 LOCAL-440102;Freguesia;Luz
-LOCAL-440104;Freguesia;Santa Cruz da Graciosa
 LOCAL-440103;Freguesia;São Mateus
+LOCAL-440104;Freguesia;Santa Cruz da Graciosa
 LOCAL-450100;Concelho;Calheta
 LOCAL-450101;Freguesia;Calheta
 LOCAL-450102;Freguesia;Norte Pequeno
@@ -3414,3 +3413,4 @@ LOCAL-480203;Freguesia;Ponta Delgada
 LOCAL-480204;Freguesia;Santa Cruz das Flores
 LOCAL-490100;Concelho;Corvo
 LOCAL-490101;Freguesia;Corvo
+LOCAL-500000;Nacional;Portugal

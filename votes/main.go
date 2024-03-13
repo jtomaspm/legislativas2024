@@ -1,38 +1,27 @@
 package main
 
 import (
-	"encoding/json"
+	"bufio"
 	"fmt"
-	"io"
-	"net/http"
+	"log"
+	"os"
 	"votes/model"
 )
 
-func getUrl(territoryKey string) string {
-	return "https://www.legislativas2024.mai.gov.pt/frontend/data/TerritoryResults?territoryKey=" + territoryKey + "&electionId=AR"
-}
-
 func main() {
-	url := getUrl("LOCAL-030000")
-	resp, err := http.Get(url)
+	file, err := os.Open("../locations.csv")
 	if err != nil {
-		fmt.Println("Error making GET request:", err)
-		return
+		fmt.Println("Error opening file:", err)
+		os.Exit(1)
 	}
-	defer resp.Body.Close()
+	defer file.Close()
+	scanner := bufio.NewScanner(file)
 
-	body, err := io.ReadAll(resp.Body)
-	if err != nil {
-		fmt.Println("Error reading response body:", err)
-		return
+	locationsChannel := model.LoadLocations(scanner)
+
+	territoryChannel := model.GetTerritoryResultsById(locationsChannel)
+
+	for n := range territoryChannel {
+		log.Println(n)
 	}
-
-	var data model.TerritoryResults
-	err = json.Unmarshal(body, &data)
-	if err != nil {
-		fmt.Println("Error parsing JSON:", err)
-		return
-	}
-
-	fmt.Println("Parsed data:", data.CurrentResults.BlankVotes)
 }
