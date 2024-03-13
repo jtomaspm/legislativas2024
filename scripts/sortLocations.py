@@ -19,6 +19,6 @@ def sort_csv(csv_file):
         writer = csv.writer(file, delimiter=';')
         writer.writerows(sorted_data)
 
-csv_file = "locations.csv"
+csv_file = "../data/locations.csv"
 sort_csv(csv_file)
 print("CSV file sorted successfully.")

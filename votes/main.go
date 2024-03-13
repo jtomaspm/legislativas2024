@@ -11,7 +11,7 @@ import (
 
 func main() {
 	//INPUT
-	file, err := os.Open("../locations.csv")
+	file, err := os.Open("../data/locations.csv")
 	if err != nil {
 		log.Println("Error opening file:", err)
 		os.Exit(1)
@@ -20,7 +20,7 @@ func main() {
 	scanner := bufio.NewScanner(file)
 
 	//OUTPUT
-	fileOut, err := os.Create("../votesPreview.csv")
+	fileOut, err := os.Create("../data/votesPreview.csv")
 	if err != nil {
 		log.Println("Error opening file:", err)
 		os.Exit(1)
