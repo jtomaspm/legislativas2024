@@ -10,7 +10,7 @@ func main() {
 	file, err := os.Open("dump.txt")
 	if err != nil {
 		fmt.Println("Error opening file:", err)
-		return
+		os.Exit(1)
 	}
 	defer file.Close()
 	scanner := bufio.NewScanner(file)
@@ -30,7 +30,7 @@ func main() {
 		if i == 1 {
 			content += line
 		} else if i == 2 {
-			content += "|"
+			content += ";"
 		} else if i == 3 {
 			content += line[1:len(line)-1] + "\n"
 			i = 0
