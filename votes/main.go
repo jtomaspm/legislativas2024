@@ -2,26 +2,35 @@ package main
 
 import (
 	"bufio"
-	"fmt"
+	"encoding/csv"
 	"log"
 	"os"
 	"votes/model"
+	"votes/service"
 )
 
 func main() {
+	//INPUT
 	file, err := os.Open("../locations.csv")
 	if err != nil {
-		fmt.Println("Error opening file:", err)
+		log.Println("Error opening file:", err)
 		os.Exit(1)
 	}
 	defer file.Close()
 	scanner := bufio.NewScanner(file)
 
-	locationsChannel := model.LoadLocations(scanner)
-
-	territoryChannel := model.GetTerritoryResultsById(locationsChannel)
-
-	for n := range territoryChannel {
-		log.Println(n)
+	//OUTPUT
+	fileOut, err := os.Create("../votes.csv")
+	if err != nil {
+		log.Println("Error opening file:", err)
+		os.Exit(1)
 	}
+	defer fileOut.Close()
+	writer := csv.NewWriter(fileOut)
+	defer writer.Flush()
+
+	//PIPELINE
+	locationsChannel := model.LoadLocations(scanner)
+	territoryChannel := model.GetTerritoryResultsById(locationsChannel)
+	service.SaveCsv(territoryChannel, writer)
 }
